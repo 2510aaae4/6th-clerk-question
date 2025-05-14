@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "110_1_1",
+    "category": "腸胃肝膽科",
+    "stem": "一位48歲男性因急性腹痛住院。他曾接受過腹部手術，在住院前2天開始感到肚臍周圍有陣發性絞痛，厲害時伴有嘔吐，其腹痛與姿勢無關，仍可平躺，這2天沒有大便。身體診察發現腹部鼓脹，腸子蠕動音較高亢，且頻率增快，但無明顯腹部肌肉僵硬（rigidity）現象。下列各項敘述，何者錯誤？",
+    "options": {
+      "A": "本病人之腹部Ｘ光片（plain abdomen）很可能會出現小腸脹大，有air-fluid levels，但看不到大腸之腸氣",
+      "B": "抽血檢驗很可能會發現澱粉酶（amylase）異常上升10倍以上",
+      "C": "其病情很可能與過去的腹部手術有關",
+      "D": "對此病人之處置，不必急著開刀，可先放置鼻胃管，經由靜脈給與補充水分及電解質"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_1_15",
+    "category": "腸胃肝膽科",
+    "stem": "一位48歲男性，因5個月來出現餐後腹痛、腹脹及嘔吐等症狀而就醫。他在5年前曾因胃穿孔而開刀（subtotalgastric resection+Billroth II anastomosis）。病人之body mass index是19 kg/m2、血清 albumin：3.1（normal：4.3～5.4）g/dL、Hb：9.6（normal：13～17）g/dL、MCV（mean corpuscular volume）：106（normal：80～100）fL，下列何者是最可能的診斷？",
+    "options": {
+      "A": "irritable bowel syndrome",
+      "B": "bile reflux gastropathy",
+      "C": "afferent loop syndrome",
+      "D": "Zollinger-Ellison syndrome"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "110_1_19",
+    "category": "腸胃肝膽科",
+    "stem": "一位32歲女性主訴全身皮膚發癢與膚色變黑。血液檢查顯示：bilirubin（total/direct）：3.8/2.9 mg/dL，ALT：235 U/L（正常值＜40 U/L），alkaline phosphatase：312 U/L（正常值＜100 U/L）。腹部超音波並無特殊之發現。下列何者對此病人之診斷沒有幫助？",
+    "options": {
+      "A": "hepatitis B surface antigen",
+      "B": "anti-hepatitis A antibody IgG",
+      "C": "antimitochondrial antibody",
+      "D": "antinuclear antibody"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_1_22",
+    "category": "腸胃肝膽科",
+    "stem": "對於早期（TNM stage 1或BCLC stage 0 or A）的肝細胞癌（hepatocellular carcinoma），且沒有肝失代償（hepatic decompensation）的情況下，以下那一種治療是較好的選擇？",
+    "options": {
+      "A": "標靶治療",
+      "B": "化學治療",
+      "C": "開刀或無線射頻燒灼術（radiofrequency ablation）",
+      "D": "經動脈栓塞化學治療（transcatheter arterial chemoembolization, TACE）"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "110_1_23",
+    "category": "腸胃肝膽科",
+    "stem": "關於大腸憩室症（diverticular disease），下列敘述何者正確？",
+    "options": {
+      "A": "大部分的大腸憩室炎必須外科手術",
+      "B": "診斷最好的工具是plain abdominal film",
+      "C": "服用抗發炎藥物如mesalazine可以減少症狀性憩室疾病的復發",
+      "D": "抽菸並非大腸憩室炎的危險因子"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "110_1_40",
+    "category": "腸胃肝膽科",
+    "stem": "胃腺癌（gastric adenocarcinoma）依組織學分為diffuse type及intestinal type。以下有關兩者的敘述，何者錯誤？",
+    "options": {
+      "A": "diffuse type的癌細胞易浸潤於胃壁中，甚至侵犯整個胃，形成所謂的linitis plastica",
+      "B": "intestinal type易形成潰瘍性腫瘤（ulcerative mass），好發於胃的賁門部（cardia）",
+      "C": "loss of expression of E-cadherin是diffuse type胃腺癌重要的基因變異",
+      "D": "intestinal type胃腺癌的致癌機制，可能與H. pylori感染有關"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_1_41",
+    "category": "腸胃肝膽科",
+    "stem": "65歲男性，因大便習慣改變合併有間歇性血便，到院就診。經系列檢查，發現患有一位於乙狀結腸的腫瘤，手術證實為adenocarcinoma，臨床及病理分期為T2N2M0。下列敘述何者正確？",
+    "options": {
+      "A": "T2：腫瘤已侵犯至腸壁的muscularis propria",
+      "B": "N2：腫瘤已轉移2顆局部淋巴結",
+      "C": "標準術後輔助治療為 bevacizumab 加上化學治療",
+      "D": "病患整體的腫瘤分期為stage II"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "110_1_42",
+    "category": "腸胃肝膽科",
+    "stem": "一位18歲男性，因為輕微黃疸而來門診求醫。身體診察除了鞏膜泛黃之外，並無其他異常。患者血液數據顯示：白血球10,000/μL，分類無明顯異常，血紅素13.3 g/dL，MCV（mean corpuscular volume）84.5 fL，MCHC（mean corpuscular hemoglobin concentration）37.0 g/dL，血小板218,000/μL，總膽紅素輕微升高4.63mg/dL，直接膽紅素0.77 mg/dL，lactate dehydrogenase（LDH）173 U/L（參考區間140～271），而haptoglobin是＜30 mg/dL（參考區間44～215）。自體免疫相關的檢查無異常。Direct Coombs’ test與indirect Coombs’ test都是negative。其血液抹片如下圖所示。病人平時健康狀況良好，但是有膽結石。他的爸爸與祖父也有類似症狀與臨床表徵。以下關於這位病人最可能的疾病之診斷與治療，何者錯誤？",
+    "options": {
+      "A": "這個病人主要是血管內的溶血",
+      "B": "脾臟切除是緩解這類病人之症狀的方式，但是必須小心使用，非嚴重的狀況，不建議使用",
+      "C": "感染常會加劇此病人之臨床症狀，例如黃疸與貧血",
+      "D": "此類疾病緣起於RBC membrane-cytoskeleton之異常"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "110_1_74",
+    "category": "腸胃肝膽科",
+    "stem": "關於食道裂孔疝氣（hiatal hernia），下列何者錯誤？",
+    "options": {
+      "A": "係指部分胃臟滑脫至膈肌食道裂孔之上方",
+      "B": "分滑型（sliding）疝氣和食道旁（paraesophageal）疝氣",
+      "C": "食道旁疝氣較為常見",
+      "D": "滑型疝氣係指食道胃連接（gastroesophageal junction）上移至胸腔"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "110_1_75",
+    "category": "腸胃肝膽科",
+    "stem": "下列兩張圖為肝之超音波掃描，以下相關敘述何者錯誤？",
+    "options": {
+      "A": "肝內有實質性腫塊",
+      "B": "有呈現膽結石",
+      "C": "箭號所指為肝門靜脈",
+      "D": "若肝門靜脈內有血栓（portal vein thrombosis），最常見的診斷是膽管癌"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "110_2_5",
+    "category": "腸胃肝膽科",
+    "stem": "下列有關腹瀉的敘述，何項最適當？",
+    "options": {
+      "A": "急性腹瀉中大約有30～40% 是因為傳染原（infectious agents）所造成",
+      "B": "輪狀病毒（rotavirus）引起的急性腹瀉，其潛伏期通常小於6小時",
+      "C": "腎功能不全病人的腹瀉應該優先使用bismuth subsalicylate治療",
+      "D": "長期使用酒精（ethanol）可能造成分泌型腹瀉（secretory-type diarrhea）"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "110_2_14",
+    "category": "腸胃肝膽科",
+    "stem": "肝硬化病人身體診察常發現的身體表徵，下列何者錯誤？",
+    "options": {
+      "A": "胸前有蜘蛛痣",
+      "B": "紅掌",
+      "C": "男性出現女乳症",
+      "D": "下肢靜脈曲張"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "110_2_15",
+    "category": "腸胃肝膽科",
+    "stem": "有關dumping syndrome，下列何者為最常見的原因？",
+    "options": {
+      "A": "細菌過度滋生（bacteria overgrowth）",
+      "B": "攝食過多的碳水化合物（carbohydrate）",
+      "C": "膽汁排出受阻",
+      "D": "切斷迷走神經（vagus nerve）導致消化道蠕動異常"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_2_16",
+    "category": "腸胃肝膽科",
+    "stem": "62歲肝硬化合併黃疸患者，抽血結果如下：albumin 2.55 g/dL（正常3.5～5.0）；ammonia 98 μg/dL（正常＜70）；bilirubin（total）：21.05 mg/dL（正常0.2～1.0）；PT 16.3 seconds（正常＜11.2）；ALT（GPT）100U/L（正常＜40），下列何者不宜作為本病人肝衰竭之指標？",
+    "options": {
+      "A": "albumin",
+      "B": "ammonia",
+      "C": "bilirubin",
+      "D": "ALT"
+    },
+    "answer": "B、D"
+  },
+  {
+    "id": "110_2_17",
+    "category": "腸胃肝膽科",
+    "stem": "為了避免藥物不良反應，結核病人在開始行抗結核藥物治療後，宜定期做下列之血液檢查，除了：",
+    "options": {
+      "A": "ALT（GPT）",
+      "B": "bilirubin",
+      "C": "creatine kinase（CK）",
+      "D": "紅白血球計數"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "110_2_18",
+    "category": "腸胃肝膽科",
+    "stem": "下列有關原發性膽管性肝硬化（primary biliary cirrhosis）的敘述，何者錯誤？",
+    "options": {
+      "A": "多數病人抗粒線體抗體（antimitochondrial antibody）為陽性",
+      "B": "可發生xanthelasma及xanthomata",
+      "C": "以ursodeoxycholic acid治療可治癒此疾病",
+      "D": "血清免疫球蛋白（immunoglobulin）上升主要為IgM"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "110_2_19",
+    "category": "腸胃肝膽科",
+    "stem": "30歲女性疲倦、關節痛及肝指數異常至胃腸科門診就診。病人無搔癢也無藥物濫用過去史。抽血檢查發現AST/ALT：380/410 U/L（reference value：≦40/40）、HBsAg陰性反應、anti-HCV Ab陰性反應、anti-nuclearAb（ANA）陽性反應。則下列敘述，何者正確？",
+    "options": {
+      "A": "antibodies to liver-kidney microsomes（anti-LKM）也可能呈現陽性反應",
+      "B": "此種病人併發肝細胞癌的機會比病毒性肝炎相關肝硬化高",
+      "C": "抗平滑肌抗體（anti-smooth-muscle antibodies, ASMA）應呈現陰性",
+      "D": "肝穿刺檢查常發現慢性非化膿性破壞性膽管炎（chronic nonsuppurative destructive cholangitis）"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "110_2_20",
+    "category": "腸胃肝膽科",
+    "stem": "有關慢性B型肝炎的敘述，下列何者錯誤？",
+    "options": {
+      "A": "病毒量的高低與肝癌發生的風險成正比，因此高病毒量患者都應該要積極接受抗病毒藥物治療",
+      "B": "慢性B型肝炎可以有肝外症狀的表現，較常見的是arthralgia及arthritis",
+      "C": "肝臟纖維化的程度，美國常使用histologic activity index（HAI）分為0～6分，歐洲常使用METAVIR系統分為0～4分",
+      "D": "肝臟纖維化的判斷也可以非侵襲性方式得知，如抽血檢測纖維的生物標誌（serum biomarkers of fibrosis）及利用影像學方式檢測肝臟的彈性（liver elasticity）"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "110_2_21",
+    "category": "腸胃肝膽科",
+    "stem": "以下關於潰瘍性大腸炎（ulcerative colitis）與克隆氏症（Crohn's disease）的描述，何者正確？",
+    "options": {
+      "A": "潰瘍性大腸炎較容易有skip lesion",
+      "B": "克隆氏症比較不容易有全身性症狀",
+      "C": "克隆氏症比較容易併發腸道狹窄",
+      "D": "潰瘍性大腸炎比較不會有黏液血便"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "110_2_22",
+    "category": "腸胃肝膽科",
+    "stem": "關於急性胰臟炎的嚴重度評估，可包括三大類，如risk factors for severity、markers of severity at admission orwithin 24 hours及markers of severity during hospitalization，下列敘述何者正確？",
+    "options": {
+      "A": "與嚴重程度相關的因子（risk factors for severity）包括有年齡＞60 歲、BMI＜30 kg/m2、具有comorbiddiseases",
+      "B": "markers of severity at admission or within 24 hours之中包括有hemodilution（hematocrit＜40%）",
+      "C": "markers of severity at admission or within 24 hours之中包括有core temperature＜36度或＞38度、heart rate＞90beats/min",
+      "D": "markers of severity during hospitalization包括有elevated C-reactive protein（CRP）及elevated blood sugar"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "110_2_23",
+    "category": "腸胃肝膽科",
+    "stem": "慢性胃炎（chronic gastritis）為上消化道內視鏡檢查下常見的現象，下列敘述何者正確？",
+    "options": {
+      "A": "慢性胃炎可根據其範圍分為type A: body-predominant gastritis及type B: antral-predominant gastritis",
+      "B": "body-predominant gastritis主要導因為Helicobacter pylori infection，而antral-predominant gastritis主要導因為autoimmune related problem",
+      "C": "autoimmune gastritis的病程會依循multifocal atrophic gastritis、gastric atrophy、metaplasia，最後可能導致gastric adenocarcinoma",
+      "D": "antral-predominant gastritis與pernicious anemia有關連，病人血液中會有antibodies against parietal cells及intrinsic factor"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "111_1_3",
+    "category": "腸胃肝膽科",
+    "stem": "70歲男性病人，過去病史有高血壓及B型肝炎，最近3個月因活動時呼吸氣促而逐漸臥床，身體診察時發現病人端坐時比平躺時更覺得胸悶吸不到氣，下列身體診察何者對確定診斷最沒有幫助？",
+    "options": {
+      "A": "Castell's sign",
+      "B": "abdominal shifting dullness",
+      "C": "diastolic rumbling heart murmur",
+      "D": "right ventricle heave"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "111_1_15",
+    "category": "腸胃肝膽科",
+    "stem": "下列何者不是慢性B型肝炎患者，是否需要接受抗B型肝炎病毒藥物治療根據的因素？",
+    "options": {
+      "A": "B型肝炎病毒核醣核酸（RNA）濃度",
+      "B": "肝臟損傷（纖維化）嚴重度",
+      "C": "血中丙胺酸轉胺酶（alanine aminotransferase, ALT）高低",
+      "D": "病人是否因其他疾病須接受抗癌化學藥物治療"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "111_1_16",
+    "category": "腸胃肝膽科",
+    "stem": "25歲女性來急診室主訴3天前開始噁心，肚臍周圍及上腹疼痛，隔天疼痛轉移到右下腹部，且疼痛加劇。這時候開始發燒、畏寒。關於此問題的診療及處置，下列敘述何者錯誤？",
+    "options": {
+      "A": "病史詢問需要考慮泌尿道及婦產科方面的問題：包括子宮內膜異位、子宮外孕（ectopic pregnancy），以及骨盆腔發炎都是有可能的診斷",
+      "B": "身體診察上要注意右下腹部的檢查。在McBurney's point上有壓痛的情形即為Rovsing's sign陽性，需要懷疑是急性闌尾炎（acute appendicitis）",
+      "C": "若沒有懷孕的可能，可以安排電腦斷層檢查，以協助診斷。急性闌尾炎常會看到闌尾壁變厚，周邊發炎，但不一定會看到糞石（fecalith）",
+      "D": "若闌尾破裂被腸繫膜包住形成局部膿瘍，需要給與廣效抗生素及考慮安排引流。手術切除可延後至局部發炎改善後再進行"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_1_17",
+    "category": "腸胃肝膽科",
+    "stem": "關於大腸直腸癌，下列敘述何者錯誤？",
+    "options": {
+      "A": "腺瘤樣息肉（adenomatous polyp）屬於癌前病變，而增生性息肉（hyperplastic polyp）則較不會有惡性的變化",
+      "B": "息肉有分扁平狀（sessile）、鋸齒狀（serrated）及突起狀（pedunculated），突起狀息肉較具侵襲性",
+      "C": "familial adenomatous polyposis產生大腸癌的風險較Peutz-Jeghers syndrome的風險為高",
+      "D": "Lynch's syndrome導致的大腸癌與遺傳有關，也會增加發生子宮內膜癌或是卵巢癌的風險"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_1_18",
+    "category": "腸胃肝膽科",
+    "stem": "關於胃酸的分泌，下列何者錯誤？",
+    "options": {
+      "A": "主管胃酸分泌之parietal cells其細胞膜上分泌胃酸的主要幫浦為H+/K+- ATPase",
+      "B": "parietal cells 因靠離子濃度差異進行胃酸分泌，因此其中粒腺體（mitochondria）之數目很少",
+      "C": "parietal cells之胃酸分泌受到胃泌素受體（gastrin receptor）、乙醯膽鹼受體（acetylcholine receptor）以及組織胺受體（histamine receptor）所調控",
+      "D": "parietal cell之尖端細胞膜（apical membrane）型態會因在休息狀態（resting）或受刺激狀態（stimulated）有所改變"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_1_19",
+    "category": "腸胃肝膽科",
+    "stem": "下列關於急性膽囊炎（acute cholecystitis）的敘述何者錯誤？",
+    "options": {
+      "A": "必定同時伴隨膽囊結石",
+      "B": "及早進行膽囊切除對大多數患者是最佳治療方式",
+      "C": "Murphy's徵象（Murphy's sign）常為陽性",
+      "D": "可能同時合併有總膽管結石"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "111_1_20",
+    "category": "腸胃肝膽科",
+    "stem": "下列關於膽管癌（cholangiocarcinoma）之敘述何者錯誤？",
+    "options": {
+      "A": "依部位可分為肝內（intrahepatic）、肝門（perihilar）及遠端（distal）3類",
+      "B": "手術切除是唯一的根治性治療",
+      "C": "肝結石症（hepatolithiasis）是其危險因子",
+      "D": "原發性硬化性膽管炎（primary sclerosing cholangitis）並不會增加膽管癌之風險"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "111_1_21",
+    "category": "腸胃肝膽科",
+    "stem": "決定肝臟移植接受者（recipient）接受肝臟移植的優先次序（prioritization），通常是根據下列何項指標？",
+    "options": {
+      "A": "Model for End-Stage Liver Disease（MELD）score",
+      "B": "Child-Turcotte-Pugh score",
+      "C": "Maddrey's discriminant function score",
+      "D": "Sequential Organ Failure Assessment（SOFA）score"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "111_1_22",
+    "category": "腸胃肝膽科",
+    "stem": "一位51歲男性主訴3天前黑便兩次，生命跡象正常，血液檢查：Hb 11.2 g/dL。此病人之上腸胃道內視鏡檢查，何者可以讓我們告訴病人3天內再出血之機會不大？",
+    "options": {
+      "A": "胃潰瘍上有黏附之血塊，但未見出血",
+      "B": "胃潰瘍底部有未出血之血管",
+      "C": "胃潰瘍合併乾淨之潰瘍底部",
+      "D": "無消化潰瘍，但在胃體部上方有一小段可見之動靜脈畸生血管（arteriovenous malformation）"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_1_23",
+    "category": "腸胃肝膽科",
+    "stem": "有關B型肝炎病毒感染後的血清學反應，下列何者錯誤？",
+    "options": {
+      "A": "最早出現的血清病毒標誌為表面抗原（HBsAg），最常在感染後的8～12週可偵測到",
+      "B": "表面抗原（HBsAg）的出現時間比血清轉氨酶（transaminase）上升及臨床症狀的出現可以早2～6週",
+      "C": "isolated anti-HBc陽性，可以出現在急性B型肝炎病毒感染或是隱匿性B型肝炎感染（occult HBV infection）",
+      "D": "急性感染時，核心抗體（anti-HBc IgM）在表面抗原（HBsAg）出現的4週後才可以偵測到"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "111_2_15",
+    "category": "腸胃肝膽科",
+    "stem": "68 歲李女士，30 年前因輸血感染 C 型肝炎，目前 AST：100 U/L，ALT：126 U/L，HCV genotype 1，腹部超音波下無肝硬化，下列敘述何者錯誤？",
+    "options": {
+      "A": "李女士應定期接受肝癌篩檢，包括腹部超音波與胎兒蛋白",
+      "B": "李女士應該接受抗病毒藥物治療",
+      "C": "目前 C 型肝炎治療主要為「長效干擾素（pegylated interferon）」合併「雷巴威林（ribavirin）」",
+      "D": "若能清除 C 型肝炎病毒，可以減少肝硬化、肝癌之風險"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_2_16",
+    "category": "腸胃肝膽科",
+    "stem": "肝臟切片對評估肝損傷的嚴重程度和級別藉以推測其預後相當重要。在現今肝炎組織學的評分系統中最常用為肝炎組織學活動指數（histologic activity index）。下列何者組織切片發現不屬於其評分系統？",
+    "options": {
+      "A": "門脈周邊壞死（periportal necrosis）",
+      "B": "漿細胞浸潤（plasma cell infiltration）",
+      "C": "肝小葉區壞死（intralobular necrosis）",
+      "D": "門脈發炎（portal inflammation）"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_2_17",
+    "category": "腸胃肝膽科",
+    "stem": "20 歲的林小姐最近三個月早晨上班前，發生間斷性下腹部絞痛，其排便次數變多，且糞便形態從正常轉成常便秘，但有時又會腹瀉。她感覺排便完腹部絞痛就會減輕。關於她的症狀，下列敘述何者錯誤？",
+    "options": {
+      "A": "此疾病各個年齡層都可能發作，女性較男性為多",
+      "B": "糞便的 calprotectin 為其診斷性生物標記",
+      "C": "此疾病常伴有脹氣、消化不良、噁心、嘔吐感等症狀",
+      "D": "病理機轉目前仍不清楚，可能與腸道蠕動異常、腸道過度敏感、病患的心理因素、腸道菌叢改變或腸道感染有關"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_2_18",
+    "category": "腸胃肝膽科",
+    "stem": "關於大腸直腸癌的敘述何者正確？",
+    "options": {
+      "A": "起源於右側結腸的腫瘤預後比左側結腸的好",
+      "B": "肺部是大腸癌最容易轉移的內臟器官",
+      "C": "血清 carcinoembryonic antigen（CEA）是用來篩檢大腸癌的指標",
+      "D": "大多數大腸癌的切除後復發會於四年內發生，因此五年存活可當作治癒的指標"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "111_2_19",
+    "category": "腸胃肝膽科",
+    "stem": "下列有關胃腺癌的敘述何者錯誤？",
+    "options": {
+      "A": "胃腺癌病理下可分成兩種類型：腸道型及瀰漫型",
+      "B": "瀰漫型胃腺癌好發族群較年輕，其腫瘤之黏附能力消失，且容易造成胃壁之浸潤和增厚，稱為皮革胃（linitisplastica）",
+      "C": "腸道型胃腺癌常以潰瘍來表現，可能和胃幽門螺旋桿菌感染相關",
+      "D": "帶有 signet ring cell 的瀰漫型胃腺癌若轉移至子宮，稱為 Krukenberg's tumor"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "111_2_20",
+    "category": "腸胃肝膽科",
+    "stem": "若因腫瘤而切除十二指腸段，下列何者之吸收過程較不會受到影響？",
+    "options": {
+      "A": "鈣",
+      "B": "維他命 B12",
+      "C": "葉酸",
+      "D": "鐵"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_2_21",
+    "category": "腸胃肝膽科",
+    "stem": "下列何者不是胰腺癌（pancreatic adenocarcinoma）的常見症狀？",
+    "options": {
+      "A": "體重減輕",
+      "B": "黃疸（jaundice）",
+      "C": "背痛",
+      "D": "低血糖"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "111_2_22",
+    "category": "腸胃肝膽科",
+    "stem": "下列何種情況不是肝細胞癌（hepatocellular carcinoma）的高危險群？",
+    "options": {
+      "A": "B 型肝炎帶原者",
+      "B": "慢性 C 型肝炎",
+      "C": "肝鈣化點（calcified spot of liver）",
+      "D": "酒精性肝硬化"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_2_23",
+    "category": "腸胃肝膽科",
+    "stem": "下列何種情況不適合做肝臟移植？",
+    "options": {
+      "A": "失代償性（decompensated）肝硬化",
+      "B": "在 UCSF criteria 以內的肝細胞癌",
+      "C": "第四期原發性膽管性肝硬化（primary biliary cirrhosis 或稱 primary biliary cholangitis ）",
+      "D": "活動性精神病（active psychosis）"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_1_1",
+    "category": "腸胃肝膽科",
+    "stem": "19歲女性病患，自述過去身體健康，並無酗酒或病毒性肝炎病史。因為近一個月來下肢浮腫和血液檢查發現肝功能異常就醫。在外院腹部超音波顯示肝硬化。血液檢查發現albumin：3.2 g/dL；AST（GOT）：51 U/L；ALT（GPT）：43 U/L；總膽紅素：1.11 mg/dL；鹼性磷酸酶（alkaline phosphatase）：274 U/L；ceruloplasmin為11.1 mg/dL（正常參考值，20～60 mg/dL）。病患最有可能的診斷為何？",
+    "options": {
+      "A": "hemochromatosis",
+      "B": "amyloidosis",
+      "C": "primary biliary cirrhosis",
+      "D": "Wilson's disease"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_1_15",
+    "category": "腸胃肝膽科",
+    "stem": "一位60歲病人最近體重明顯減輕，右上腹悶脹，食慾尚可。就醫後身體診察發現右鎖骨中線下（right mid-clavicular line, RMCL）肝臟長度為18公分，無腹水，腸蠕動正常。超音波檢查發現肝內有多顆大小不一之低回音結節。抽血檢驗結果：albumin = 3.6 g/dL（正常值＞3.5），bilirubin（total）= 0.9 mg/dL（正常值＜1.2），AST = 35 U/L（正常值＜37），ALT = 32 U/L（正常值＜41），α-fetoprotein（AFP）= 8 ng/mL（正常值＜20），carcinoembryonic antigen（CEA）= 521 ng/mL（正常值＜5），CA 19-9 = 45 U/mL（正常值＜37）。其診斷最可能為下列何者？",
+    "options": {
+      "A": "肝細胞癌",
+      "B": "膽管細胞癌",
+      "C": "轉移性肝癌",
+      "D": "肝臟局部結節增生（focal nodular hyperplasia）"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_1_16",
+    "category": "腸胃肝膽科",
+    "stem": "有關潰瘍性大腸炎（ulcerative colitis, UC）及克隆氏病（Crohn's disease, CD）之敘述，何者正確？",
+    "options": {
+      "A": "抽菸可增加CD的發生",
+      "B": "口服避孕藥會增加UC的發生",
+      "C": "appendectomy可預防CD的發生",
+      "D": "不論UC或CD，亞洲人的發生率高於美國人"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "112_1_17",
+    "category": "腸胃肝膽科",
+    "stem": "一位阻塞性黃疸患者被診斷為Mirizzi's syndrome，造成膽汁排泄阻塞的原發原因為何？",
+    "options": {
+      "A": "總膽管結石",
+      "B": "胰臟腫瘤",
+      "C": "膽囊管（cystic duct）結石",
+      "D": "總膽管血塊"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_1_18",
+    "category": "腸胃肝膽科",
+    "stem": "一位58歲男性病人，因腹痛、發燒、畏寒，至急診室求診。身體診察發現病人有黃疸且腹部鼓脹，且有 shifting dullness與反彈痛（rebound pain），手部有palmar erythema與flapping tremor。經抽腹水檢查，發現腹水WBC：1,250/mm3，neutrophil 85%，lymphocyte 15%、RBC：40/mm3。下列何者為最可能之診斷？",
+    "options": {
+      "A": "自發性細菌性腹膜炎",
+      "B": "十二指腸潰瘍合併穿孔",
+      "C": "腸套疊",
+      "D": "肝細胞癌破裂"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "112_1_19",
+    "category": "腸胃肝膽科",
+    "stem": "一位懷疑有藥物引起肝傷害病人之生化值檢查如下：ALT：56 U/L、AST：72 U/L、alkaline phosphatase：795U/L（正常值＜100 U/L）、total bilirubin：1.8 mg/dL（正常值＜1.6 mg/dL）。下列何種藥最可能導致此病人之肝傷害？",
+    "options": {
+      "A": "methotrexate",
+      "B": "isoniazid",
+      "C": "methyltestosterone",
+      "D": "acetaminophen"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_1_20",
+    "category": "腸胃肝膽科",
+    "stem": "下列有關小腸腫瘤之敘述，何者錯誤？",
+    "options": {
+      "A": "小腸最常見的良性腫瘤為平滑肌瘤（leiomyoma）或adenoma",
+      "B": "大部分Peutz-Jeghers症候群的息肉易惡性病變",
+      "C": "小腸淋巴瘤好發於迴腸",
+      "D": "小腸最常見的肉瘤（sarcoma）為平滑肌肉瘤（leiomyosarcoma）"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "112_1_21",
+    "category": "腸胃肝膽科",
+    "stem": "下列何者不是胃上皮細胞的攻擊因子？",
+    "options": {
+      "A": "前列腺素（prostaglandin）",
+      "B": "酒精",
+      "C": "Helicobacter pylori",
+      "D": "膽鹽（bile salt）"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "112_1_22",
+    "category": "腸胃肝膽科",
+    "stem": "一位45歲男性因肝功能異常來門診，沒有肥胖（BMI 23 kg/m2），喝酒史：每星期五次，每次兩罐啤酒（500毫升，5% alcohol），長達15年，抽血檢查發現AST/ALT：85/52 U/L（reference value：≦40/40）、HBsAg陰性反應、anti-HCV Ab陽性反應，腹部超音波檢查時發現有中度脂肪肝。下列評估與敘述，何者較不適當？",
+    "options": {
+      "A": "患者可能已經發生酒精性脂肪肝疾病（alcoholic fatty liver disease）",
+      "B": "酒精性脂肪肝疾病之發生與肥胖以及胰島素抗性（insulin resistance）有密切相關",
+      "C": "戒酒是改善肝功能最重要的方法之一，高劑量類固醇治療在這個階段並沒有幫助",
+      "D": "患者可能同時有C型肝炎，是併發較嚴重酒精性脂肪肝疾病的臨床危險因子，須積極評估HCV RNA及給與治療"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "112_1_23",
+    "category": "腸胃肝膽科",
+    "stem": "關於大腸直腸癌篩檢之敘述，下列何者正確？",
+    "options": {
+      "A": "糞便潛血檢查陽性代表已罹患大腸癌",
+      "B": "肛門指診是大腸癌篩檢的好方法",
+      "C": "糞便潛血檢查陽性者應該進一步接受大腸鏡進行確診",
+      "D": "下消化道攝影與大腸鏡同為大腸癌篩檢的好方法"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_2_3",
+    "category": "腸胃肝膽科",
+    "stem": "35歲男性過去無慢性疾病，有飲酒習慣，至門診就醫，主訴疲倦以及尿液顏色變深，下列處置何者最不適當？",
+    "options": {
+      "A": "抽血檢驗total及direct bilirubin是否上升",
+      "B": "檢驗尿液中urobilinogen是否上升",
+      "C": "視診鞏膜及舌下黏膜是否變黃",
+      "D": "抽血檢驗creatinine是否上升"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_2_15",
+    "category": "腸胃肝膽科",
+    "stem": "44歲女性，體檢發現B型肝炎帶原後有定期追蹤，目前AST及ALT正常，HBeAg陰性，anti-HBe陽性。她的媽媽與哥哥也是B肝帶原，家族中一位阿姨得到肝細胞癌。下列敘述何者正確？",
+    "options": {
+      "A": "患者體內已無B型肝炎病毒",
+      "B": "患者目前處於B型肝炎自然病程中之「免疫耐受期（immune tolerance phase）」",
+      "C": "患者感染B型肝炎途徑最有可能是垂直感染",
+      "D": "患者無需每半年接受腹部超音波檢查"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_2_16",
+    "category": "腸胃肝膽科",
+    "stem": "曉華健康檢查發現bilirubin total/direct 為3.6/2.5 mg/dL，但alkaline phosphatase（ALP）、 γ-glutamyltranspeptidase（GGT）、aspartate aminotransferase（AST）、alanine aminotransferase（ALT）皆正常。下列疾病何者最有可能？",
+    "options": {
+      "A": "Crigler-Najjar syndrome",
+      "B": "Gilbert's syndrome",
+      "C": "Dubin-Johnson syndrome",
+      "D": "G6PD deficiency"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_2_17",
+    "category": "腸胃肝膽科",
+    "stem": "關於直腸肛門口的疾病，下列敘述何者錯誤？",
+    "options": {
+      "A": "生產時骨盆底受傷、失智、腦瘤、中風、重症肌無力或是腸躁症的患者比較容易會有大便失禁",
+      "B": "大便失禁的治療可以給與高纖飲食、糞便體積增加劑（bulking agent）及止瀉劑。或用生物回饋的方式來做復健治療",
+      "C": "痔瘡突出需要用手動的方式才能推回去屬於第四級痔瘡，可以給與高纖食物，含類固醇的塞劑以及考慮手術治療",
+      "D": "肛門直腸膿瘍常發生在免疫低下的患者（如糖尿病、血液疾病及HIV陽性的患者）。標準的治療是要切開膿瘍引流"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_2_18",
+    "category": "腸胃肝膽科",
+    "stem": "關於急性腹膜炎的敘述何者錯誤？",
+    "options": {
+      "A": "當腸道穿孔時，腸道內的細菌會進入腹腔中而導致續發性腹膜炎（secondary peritonitis）",
+      "B": "血液的白血球過低，是導致自發性細菌性腹膜炎（spontaneous bacterial peritonitis）常見的重要因子",
+      "C": "身體檢查上，需要注意壓痛的位置，如McBurney's point疼痛，Murphy's sign以及是否有木板樣僵直（board-like rigidity）及腹膜炎的反彈痛",
+      "D": "X光檢查要注意腸道外的氣體（free air），若有則代表有腸穿孔的可能性，需要緊急手術"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "112_2_19",
+    "category": "腸胃肝膽科",
+    "stem": "一位78歲男性，平時抽菸每日兩包已有五十年、每日睡前喜歡喝烈酒才能入睡。最近因吞嚥困難來到診間求診，胃鏡檢查及切片診斷為食道鱗狀上皮細胞癌。下列敘述何者錯誤？",
+    "options": {
+      "A": "喝酒與抽菸為食道鱗狀上皮細胞癌發生之危險因子",
+      "B": "病人同時也是口咽癌的高危險群",
+      "C": "釐清病人吞嚥困難的種類（固體、液體）和先後發展時序有助於吞嚥困難的鑑別診斷",
+      "D": "食道鱗狀上皮細胞癌產生之高鈣血症不會出現在沒有骨骼轉移的病人"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_2_20",
+    "category": "腸胃肝膽科",
+    "stem": "一位67歲B型肝炎及肝硬化之男性病人，因吐血來到急診，內視鏡下可見食道靜脈瘤正在出血。下列敘述何者錯誤？",
+    "options": {
+      "A": "食道靜脈瘤出血可以內視鏡結紮術進行止血",
+      "B": "靜脈注射血管活性藥物包括terlipressin及octreotide，對食道靜脈瘤出血之止血有幫助",
+      "C": "病人於急性期可使用nonselective beta blockers改善急性出血",
+      "D": "內視鏡檢查要注意胃靜脈瘤（gastric varices）的有無和出血跡象"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_2_21",
+    "category": "腸胃肝膽科",
+    "stem": "下列關於胰腺癌（pancreatic adenocarcinoma）之敘述何者錯誤？",
+    "options": {
+      "A": "先天BRCA2基因突變（germline BRCA2 mutation）者有較高罹病風險",
+      "B": "慢性胰臟炎（chronic pancreatitis）是胰腺癌之危險因子",
+      "C": "腫瘤若侵犯到上腸繫膜動脈（superior mesenteric artery）則無法手術切除",
+      "D": "手術切除後進行輔助化學治療（adjuvant chemotherapy）無確定療效，並非標準治療方式"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_2_22",
+    "category": "腸胃肝膽科",
+    "stem": "有關肝細胞癌（hepatocellular carcinoma, HCC），下列敘述何者正確？",
+    "options": {
+      "A": "射頻消融術（radiofrequency ablation, RFA）並不是一種根除性的治療",
+      "B": "經動脈化學栓塞（transarterial chemoembolization, TACE）的療效與開刀差不多",
+      "C": "由於肝細胞癌併發肝門靜脈主幹侵犯（main portal vein thrombosis）對於開刀或栓塞（TACE）的效果都不佳，因此建議做肝臟移植",
+      "D": "對於肝細胞癌的治療，除了腫瘤外，也要考慮到肝臟本身的情況（如：肝硬化、病毒性肝炎）"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_2_23",
+    "category": "腸胃肝膽科",
+    "stem": "下列何種情況，並不是肝硬化常見的併發症？",
+    "options": {
+      "A": "肝性腦病變（hepatic encephalopathy）",
+      "B": "腹水（ascites）",
+      "C": "肝臟局部結節性增生（focal nodular hyperplasia）",
+      "D": "食道靜脈曲張（esophageal varices）"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_2_39",
+    "category": "腸胃肝膽科",
+    "stem": "胃的惡性腫瘤中，腺癌（adenocarcinoma）約占85%。其餘15%非腺癌的胃的惡性腫瘤中，下列敘述何者正確？",
+    "options": {
+      "A": "胃的淋巴瘤（lymphoma）中，T-cell origin遠多於B-cell origin",
+      "B": "局限於胃部的mucosa-associated lymphoid tissue（MALT）lymphoma第一線治療為清除Helicobacter pylori的抗生素治療",
+      "C": "局限於胃部的leiomyosarcoma治療首選（treatment of choice）是化學治療合併放射治療",
+      "D": "胃的gastrointestinal stromal tumor（GIST）若轉移至肝臟，應考慮組合式化學治療"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_1_15",
+    "category": "腸胃肝膽科",
+    "stem": "Aspartate aminotransferase（AST）及 alanine aminotransferase（ALT）血中數值的升高代表肝細胞的破壞，其上升幅度及AST/ALT比值能幫助我們做鑑別診斷。下列肝臟發炎性疾病何者較不會出現肝指數大幅升高（aminotransferase＞1000 IU/L）的情形？",
+    "options": {
+      "A": "自體免疫性肝炎",
+      "B": "缺血性肝炎",
+      "C": "脂肪性肝炎",
+      "D": "藥物性肝炎"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_1_16",
+    "category": "腸胃肝膽科",
+    "stem": "陳小姐40歲，證券公司股票交易員，主訴右下腹部絞痛、腹瀉、噁心、體重減輕、發燒、大便帶有黏液，反覆發作已有3個月。右下腹有摸到一個腫塊，膝蓋關節疼痛且有紅色結節，大腸鏡檢查發現升結腸部位有鵝卵石樣（cobble stone）病變。下列敘述何者錯誤？",
+    "options": {
+      "A": "病因可能與腸道菌叢及陳小姐的免疫力失調有關",
+      "B": "疾病可能影響所有腸胃道，其病灶常是跳躍狀，嚴重時會導致腸道瘻管、膿瘍及狹窄",
+      "C": "病理上的特徵是非乾酪性壞死肉芽腫（noncaseating granuloma）",
+      "D": "當使用5-ASA類藥物（如sulfasalazine）、類固醇藥物或是免疫抑制劑（如azathioprine、6-MP、cyclosporine、tacrolimus），治療無效時，下一步選擇為手術治療"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_1_17",
+    "category": "腸胃肝膽科",
+    "stem": "病人因胃潰瘍需要接受藥物治療，關於胃藥之機轉與使用下列何者錯誤？",
+    "options": {
+      "A": "制酸劑（antacid）透過酸鹼中和之方法提高胃部酸鹼值",
+      "B": "第二型組織胺受體阻斷劑（H2 receptor antagonist）透過抑制胃部chief cell上之histamine receptor達到阻斷胃酸之功能",
+      "C": "氫離子幫浦抑制劑（proton pump inhibitor）以共價鍵結方式不可逆的結合於受體H+/K+-ATPase上",
+      "D": "病人由於胃食道逆流使用氫離子幫浦抑制劑（proton pump inhibitor）停藥後可能產生反彈性胃酸過度分泌"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_1_18",
+    "category": "腸胃肝膽科",
+    "stem": "病房中的一位56歲女性病人突然開始解大量黑便及頭暈，您是值班醫師前去處理病情。下列急性上消化道出血之處理方式，何者最不恰當？",
+    "options": {
+      "A": "詳細詢問病人之病史，以了解病人可能為何處出血",
+      "B": "評估病人之心跳與血壓，以得知是否為臨床上有意義的嚴重出血",
+      "C": "馬上抽血評估血色素。若血色素數值正常，則可以判斷病人無嚴重出血的可能性",
+      "D": "病人接受內視鏡檢查，若發現有正在出血之潰瘍或潰瘍處可見血管，則內視鏡止血術可降低病人之再出血、住院天數及死亡率"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_1_19",
+    "category": "腸胃肝膽科",
+    "stem": "關於胃腸道吸收（absorption），下列敘述何者正確？",
+    "options": {
+      "A": "鐵與鈣的吸收主要在上端小腸",
+      "B": "膽酸的吸收主要在大腸",
+      "C": "維生素A、D、E、K為水溶性維生素",
+      "D": "分泌型腹瀉（secretory diarrhea）在禁食24小時後腹瀉會減輕"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "113_1_20",
+    "category": "腸胃肝膽科",
+    "stem": "關於急性腸阻塞（acute intestinal obstruction）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "小腸阻塞比起大腸阻塞常見",
+      "B": "手術後沾黏是小腸阻塞的常見原因",
+      "C": "腸扭轉（volvulus）是大腸阻塞最常見的原因",
+      "D": "乙狀結腸扭轉引發之大腸阻塞可以內視鏡置放引流管減壓（decompression）"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_1_21",
+    "category": "腸胃肝膽科",
+    "stem": "一般而言，癌症的確診都需要病理切片。由於肝細胞癌（hepatocellular carcinoma, HCC）有其特殊性，所以國際上的診斷標準除了切片外，如果在影像學上有典型的特徵，也可以不必做肝臟切片就符合肝細胞癌的診斷條件。下列何者情況即使沒有病理切片診斷，也符合肝細胞癌的診斷條件？",
+    "options": {
+      "A": "在脂肪肝的背景下，有一顆3公分的肝腫瘤，在電腦斷層動脈相中影像增強（arterial enhancement），靜脈相中顯影劑沖失（venous washout）",
+      "B": "肝硬化病人，不過沒有B型肝炎也沒有C型肝炎，有一顆5公分的肝腫瘤，在電腦斷層動脈相中影像增強（arterial enhancement），靜脈相中顯影劑沖失（venous washout）",
+      "C": "B型肝炎帶原者沒有肝硬化，有一顆2公分的肝腫瘤，在電腦斷層動脈相及靜脈相中，都具有影像增強（arterial enhancement）",
+      "D": "慢性C型肝炎病人併有肝硬化，有一顆4公分的肝腫瘤，在電腦斷層動脈相中無影像增強（no arterialenhancement），在靜脈相中為呈現影像強度降低（hypodense）"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_1_22",
+    "category": "腸胃肝膽科",
+    "stem": "下列何種族群，最不需要加強篩檢B型肝炎？",
+    "options": {
+      "A": "懷孕婦女",
+      "B": "女女性行為者（women who have sex with women, WSW）",
+      "C": "C型肝炎感染患者",
+      "D": "接受免疫抑制劑治療的患者"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_1_23",
+    "category": "腸胃肝膽科",
+    "stem": "55歲男性肝硬化病人，併發腹水與下肢水腫，抽血檢查血中鈉離子：130 mEq/L，白蛋白：2.6 g/dL。下列那一種處置對這位病人較恰當？",
+    "options": {
+      "A": "每天限水1.5 L，每天補充鈉離子4 g，furosemide 40 mg/day + spironolactone 100 mg/day",
+      "B": "每天限水1.5 L，每天限制鈉離子攝取2 g，furosemide 40 mg/day + spironolactone 100 mg/day",
+      "C": "每天intravenous normal saline 2 L，furosemide 40 mg/day + spironolactone 100 mg/day",
+      "D": "每天intravenous normal saline 2 L，每天補充鈉離子4 g"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_2_3",
+    "category": "腸胃肝膽科",
+    "stem": "70歲男性最近半年喉嚨時常有異物感，吞嚥時較為困難，且後咽部有刺痛感，最近1個月喝水時常發生咳嗽且水從鼻孔流出的現象，病人因此有點害怕吞嚥。關於此病人症狀的描述，不包含下列何者？",
+    "options": {
+      "A": "transfer dysphagia",
+      "B": "aphagia",
+      "C": "odynophagia",
+      "D": "phagophobia"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_2_15",
+    "category": "腸胃肝膽科",
+    "stem": "有關自體免疫肝炎（autoimmune hepatitis）的病理機轉，何者錯誤？",
+    "options": {
+      "A": "病理特色為肝細胞的壞死發炎，經常合併纖維化，可能導致肝硬化甚至肝衰竭",
+      "B": "肝臟內調節性T淋巴細胞（regulatory T cells）活性上升",
+      "C": "CTLA-4或TNFA*2的基因多形性（polymorphism）和此疾病的發生有關",
+      "D": "病患血清中常出現抗核抗體（antinuclear antibody）、antibody to liver-kidney microsomes（anti-LKM）等自體抗體"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_2_17",
+    "category": "腸胃肝膽科",
+    "stem": "關於腸躁症（irritable bowel syndrome）的敘述何者錯誤？",
+    "options": {
+      "A": "糞便檢查常見糞便潛血反應，也可見到糞便中白血球過多",
+      "B": "可以依照症狀分為便秘型、腹瀉型及混合型",
+      "C": "治療上的第一步是同理及支持病人，建議飲食上避免會發酵的寡糖類及豆類食物",
+      "D": "糞便體積增加劑（bulking agent）、止瀉劑、瀉劑、抗腸痙攣藥物、血清素促進劑或拮抗劑、抗憂鬱劑、選擇性血清素回收抑制劑等藥物及益生菌可以用來治療"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "113_2_18",
+    "category": "腸胃肝膽科",
+    "stem": "關於急性腸阻塞（acute intestinal obstruction）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "機械性腸阻塞（mechanical obstruction）常見的原因為術後沾黏、腫瘤、疝氣、腸套疊或是腸扭轉，以及發炎性腸病變",
+      "B": "腸功能性阻塞也稱為偽阻塞（pseudo-obstruction），主要是腸道蠕動功能異常引起，常見的原因為脊椎受傷、代謝及電解質異常、使用鴉片類或是抗膽鹼藥物、腸道缺血等",
+      "C": "機械性腸阻塞（mechanical obstruction）阻塞處前端的腸子會擴大，腸管腔內壓力上升，之後導致腸壁水腫及缺氧，最後腸壁會缺血及壞死",
+      "D": "小腸阻塞時，腸音常會先由正常變慢（hypoactive）進展為無腸音（absent bowel sound）。之後因為腸子加速蠕動，會形成高頻（high-pitched）快速蠕動的腸音"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_2_19",
+    "category": "腸胃肝膽科",
+    "stem": "幽門螺旋桿菌感染會造成胃潰瘍、胃癌及胃淋巴瘤之風險增加，因此必須選擇適當且高成功率之幽門螺旋桿菌除菌方法。下列除菌療法在clarithromycin抗藥比例小於15%之地區，何者目前不推薦使用？",
+    "options": {
+      "A": "七日療程之clarithromycin triple therapy（proton pump inhibitor, clarithromycin, amoxicillin）",
+      "B": "十四日療程之clarithromycin triple therapy（proton pump inhibitor, clarithromycin,amoxicillin）",
+      "C": "十至十四日療程之concomitant therapy（proton pump inhibitor, clarithromycin, amoxicillin,metronidazole）",
+      "D": "十至十四日療程之bismuth quadruple therapy（proton pump inhibitor, bismuth, tetracycline,metronidazole）"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "113_2_20",
+    "category": "腸胃肝膽科",
+    "stem": "對於膽結石引發之急性胰臟炎（acute pancreatitis），下列何者為最重要的治療？",
+    "options": {
+      "A": "抗生素",
+      "B": "內視鏡逆行性膽管造影術（endoscopic retrograde cholangiography）確認是否有總膽管結石，若有則進行內視鏡取石",
+      "C": "積極的靜脈輸液",
+      "D": "鼻胃管引流"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_2_21",
+    "category": "腸胃肝膽科",
+    "stem": "下列何者不是慢性胰臟炎（chronic pancreatitis）常見的併發症？",
+    "options": {
+      "A": "慢性腹痛",
+      "B": "糖尿病酮酸中毒症（diabetic ketoacidosis）",
+      "C": "吸收不良（malabsorption）",
+      "D": "膽道狹窄"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_2_22",
+    "category": "腸胃肝膽科",
+    "stem": "對於肝硬化病人的胃食道靜脈曲張（gastroesophageal varices）處理，下列敘述何者正確？",
+    "options": {
+      "A": "食道靜脈曲張通常是在病人發生腹水之後才會出現",
+      "B": "新診斷的肝硬化病人，大約50%已經有胃食道靜脈曲張",
+      "C": "除了使用內視鏡來做靜脈結紮術（variceal ligation）外，藥物治療並無法有效的預防胃食道靜脈曲張出血",
+      "D": "就算發生胃食道靜脈曲張出血，只要還沒有黃疸，沒有腹水，沒有肝性腦病變，就還不算是肝失代償（decompensation）"
+    },
+    "answer": "一律給分"
+  },
+  {
+    "id": "113_2_23",
+    "category": "腸胃肝膽科",
+    "stem": "35歲患者有胃部分切除病史，主訴進食後腹痛、腹瀉，約2小時後有頭暈、盜汗症狀，最可能的診斷為何？",
+    "options": {
+      "A": "afferent loop syndrome",
+      "B": "adhesion ileus",
+      "C": "dumping syndrome",
+      "D": "postvagotomy diarrhea"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_2_31",
+    "category": "腸胃肝膽科",
+    "stem": "關於IgG4-related disease的描述，下列何者最適當？",
+    "options": {
+      "A": "可侵犯眼部造成periocular tissue swelling，可能合併有allergy和eosinophilia",
+      "B": "主要的組織病理特點為IgG4在組織血管內的沉積，但不會看到B淋巴球的浸潤",
+      "C": "大於90%病人血中IgG4的濃度會上升，且血中IgG4的濃度與疾病嚴重度成正相關",
+      "D": "大量IgG4在組織活化T淋巴球，因此本疾病常造成急性的器官破壞而應給與大量steroid治療"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "114_1_15",
+    "category": "腸胃肝膽科",
+    "stem": "一位慢性B型肝炎帶原者因活動性肺結核併發燒而接受下列藥物治療：isoniazid、rifampin、ethambutol、streptomycin。一個月後抽血檢查發現aspartate aminotransferase（AST）/alanine aminotransferase（ALT）：120/140（U/L），total bilirubin：0.9（mg/dL），肝功能其他項目仍在正常範圍內。下列敘述何者正確？",
+    "options": {
+      "A": "應立即停止所有抗結核藥物",
+      "B": "如同acetaminophen，isoniazid服用的劑量越大，肝的傷害也就越大",
+      "C": "口服類固醇可降低肝臟發炎，改善肝指數異常情形",
+      "D": "isoniazid引起肝炎的風險較ethambutol為高"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "114_1_16",
+    "category": "腸胃肝膽科",
+    "stem": "一位剛上大學的女性因流涎、肢體僵硬及震顫等運動性障礙，住進神經科病房。住院抽血發現肝功能異常會診胃腸肝膽科醫師。病人血清檢查HBsAg及anti-HCV皆呈陰性。下列敘述何者最適當？①可能發生急性猛爆性肝炎（fulminant hepatitis），血清及膽汁內的銅離子濃度減少　②口服zinc、trientine不可用於懷孕期　③身體診察在病人的角膜上可見Kayser-Fleischer ring　④肝臟病理切片呈現hepato-lenticular degeneration",
+    "options": {
+      "A": "①④",
+      "B": "①③",
+      "C": "③④",
+      "D": "②④"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "114_1_18",
+    "category": "腸胃肝膽科",
+    "stem": "關於下列食道構造及功能性之疾病敘述，何者錯誤？",
+    "options": {
+      "A": "在橫膈膜裂孔疝氣（hiatal hernia）中以第一型之滑脫型（sliding hernia）占最多",
+      "B": "食道憩室Zenker's diverticulum產生之處為上端食道之食道壁脆弱之位置（Killian'striangle）",
+      "C": "食道遲緩不能（achalasia）為吞嚥時近端食道括約肌無法放鬆所造成",
+      "D": "高解析度食道壓力測量（manometry）為一食道功能性疾病之診斷工具"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "114_1_19",
+    "category": "腸胃肝膽科",
+    "stem": "一位38歲女性病人因胃痛求診，胃鏡下發現胃潰瘍。病人自述家庭中也有數人有胃或十二指腸潰瘍的病史。下列何者正確？",
+    "options": {
+      "A": "胃潰瘍成因可能為幽門螺旋桿菌感染，要確診唯一的方法僅有做胃部切片進行組織病理檢驗檢出細菌",
+      "B": "若病人組織切片培養不出幽門螺旋桿菌，則病人不可能感染幽門螺旋桿菌",
+      "C": "病人得到胃腺癌和胃部淋巴瘤的機會增加",
+      "D": "尿素呼氣測試（urea breath test）的原理為胃幽門螺旋桿菌存在下，會抑制同位素標定尿素水解的反應，減少呼氣中標定碳13的含量"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "114_1_20",
+    "category": "腸胃肝膽科",
+    "stem": "下列關於克隆氏病（Crohn's disease）之敘述何者錯誤？",
+    "options": {
+      "A": "主要侵犯小腸，有時也會侵犯大腸",
+      "B": "末端迴腸（ileum）是最好發部位",
+      "C": "可能會引發進食後腹痛與脂肪便（steatorrhea）",
+      "D": "抗腫瘤壞死因子（anti-TNF）製劑於中重度Crohn's disease之治療效果不佳"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "114_1_21",
+    "category": "腸胃肝膽科",
+    "stem": "預測急性胰臟炎（acute pancreatitis）嚴重度之指標Bedside Index of Severity in AcutePancreatitis（BISAP）不包含下列何項？",
+    "options": {
+      "A": "BUN＞25 mg/dL",
+      "B": "意識障礙",
+      "C": "腹水",
+      "D": "胸部X光顯示有肋膜積液（pleural effusion）"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "114_1_22",
+    "category": "腸胃肝膽科",
+    "stem": "臨床上常用Child-Turcotte-Pugh score來判斷肝硬化嚴重度，Child-Turcotte-Pugh score並未包含下列何項？",
+    "options": {
+      "A": "bilirubin",
+      "B": "prothrombin time",
+      "C": "hepatic encephalopathy",
+      "D": "alanine aminotransferase（ALT）"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "114_1_23",
+    "category": "腸胃肝膽科",
+    "stem": "下列何者不是非酒精性脂肪肝（nonalcoholic fatty liver disease, NAFLD）的主要危險因子？",
+    "options": {
+      "A": "肥胖",
+      "B": "高尿酸血症",
+      "C": "糖尿病",
+      "D": "高血脂症"
+    },
+    "answer": "一律給分"
+  },
+  {
+    "id": "114_1_38",
+    "category": "腸胃肝膽科",
+    "stem": "有關胃腸道或胰臟神經內分泌細胞瘤（neuroendocrine tumor, NET）的病理診斷，下列敘述何者正確？",
+    "options": {
+      "A": "chromogranin A的免疫組織染色，有助於NET的診斷",
+      "B": "synaptophysin的染色呈陽性，可排除NET的診斷",
+      "C": "若腫瘤細胞serotonin及substance P的免疫組織染色呈陽性，即可證實病患的腫瘤會分泌serotonin及substance P並造成臨床表現的症候群（clinical syndrome）",
+      "D": "根據NET腫瘤細胞的分化程度可分成low grade（G1）、intermediate grade（G2）及high grade（G3）。一般將G1稱為well-differentiated NET，G2及G3稱為poorly-differentiated NET"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "114_1_59",
+    "category": "腸胃肝膽科",
+    "stem": "80歲男性，胃潰瘍出血，呼吸衰竭使用呼吸器，預防呼吸器相關肺炎及併發症的措施，下列何者最不適當？",
+    "options": {
+      "A": "床頭抬高30至45度",
+      "B": "若使用鎮定劑須每日中斷評估（sedation vacation）",
+      "C": "使用抗凝血劑預防靜脈栓塞（venous thromboembolism）",
+      "D": "每日評估是否拔管"
+    },
+    "answer": "C"
+  }
+]

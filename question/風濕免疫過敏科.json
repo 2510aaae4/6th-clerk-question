@@ -1,0 +1,530 @@
+[
+  {
+    "id": "110_1_34",
+    "category": "風濕免疫過敏科",
+    "stem": "關於原發性免疫缺陷疾病（primary immunodeficiency diseases）和免疫功能檢查的敘述，下列何者正確？",
+    "options": {
+      "A": "當病人血中IgG和IgA免疫球蛋白低下時，表示病人的B淋巴細胞有缺陷，不會與T淋巴細胞缺陷有關",
+      "B": "病人血中T細胞和B細胞的數量會與免疫缺陷的嚴重程度成正比",
+      "C": "leukocyte adhesion deficiency病人血中neutrophil的數目常會有上升情形",
+      "D": "X-linked agammaglobulinemia病人血中常會有eosinophilia"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "110_1_35",
+    "category": "風濕免疫過敏科",
+    "stem": "35歲男性因腦膜炎住院。腦脊髓液培養為李斯特菌（Listeria monocytogenes）。他主訴近一年來曾經發生過2次帶狀疱疹。下列何項檢查對評估病人目前免疫功能最為適當？",
+    "options": {
+      "A": "serum immunoglobulin levels",
+      "B": "blood cell count and lymphocyte phenotype",
+      "C": "50% hemolytic complement（CH50）",
+      "D": "nitroblue tetrazolium（NBT）assay"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_1_50",
+    "category": "風濕免疫過敏科",
+    "stem": "74歲婦女因下肢無力、容易瘀青、下肢水腫約有3個月而就診。病人有退化性關節炎及骨鬆症，服用alendronate 70 mg/week，calcium citrate及Vit.D，並未服用中藥。身體檢查：病人有庫欣氏症體態，四肢肌肉萎縮無力。抽血檢查：ACTH<10 pg/mL，Cortisol<1 μg/dL，電解值正常。下一步的最佳檢查是：",
+    "options": {
+      "A": "測dexamethasone suppression test",
+      "B": "測24-h urine free cortisol",
+      "C": "腦部核磁共振",
+      "D": "腎上腺電腦斷層"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_1_79",
+    "category": "風濕免疫過敏科",
+    "stem": "甲藥廠想要找乙醫師進行骨關節炎之非類固醇止痛藥（NSAIDs）的新藥臨床試驗計畫。下列敘述何者錯誤？",
+    "options": {
+      "A": "人體試驗必須在受試者自由意志下同意，換言之，必須要有告知後同意",
+      "B": "受試者對於研究內容要有一定程度的了解",
+      "C": "試驗進行過程應有適當的監督與保護機制",
+      "D": "人體試驗前不一定要有實驗室實驗或動物實驗"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "110_2_3",
+    "category": "風濕免疫過敏科",
+    "stem": "有關自體免疫疾病在男性與女性之間，其發生率（incidence）與特色的敘述，下列何者最不適當？",
+    "options": {
+      "A": "自體免疫甲狀腺疾病（autoimmune thyroid diseases）、硬皮症（scleroderma）與全身性紅斑狼瘡，都是女性的發生率較高",
+      "B": "類風濕性關節炎之女性患者，在懷孕期間該疾病可能比較容易緩解",
+      "C": "第一型糖尿病（type 1 diabetes mellitus），女性的發生率較高",
+      "D": "僵直性脊椎炎（ankylosing spondylitis），男性的發生率較高"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "110_2_30",
+    "category": "風濕免疫過敏科",
+    "stem": "28歲女性近2年來，下肢偶會有隆起性的紫斑，並有3次急性氣喘發作。經服用類固醇30 mg/day 3天之後，氣喘及紫斑均很快消失。抽血檢查發現WBC 9600/μL，platelet count 287×103/μL，但eosinophil高達27%。血清學檢查發現：ANA 1：80，ESR 17 mm/1h，CRP 0.81 mg/dL。下列何種檢查陽性對疾病的診斷最有幫助？",
+    "options": {
+      "A": "antineutrophil cytoplasmic antibodies",
+      "B": "IgE",
+      "C": "IgG4",
+      "D": "sputum smear"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "110_2_31",
+    "category": "風濕免疫過敏科",
+    "stem": "36歲的女性，自覺有微燒並發現上眼瞼及臉頰部有紅疹。近2週來，早上醒來時身體無力，必須側身以雙手扶持起床。血液常規檢查正常，血清學檢查ANA 1：40 speckled，C3 116 mg/dL，C4 9.8 mg/dL，ESR 31mm/1h，CRP 1.1 mg/dL。最有可能的診斷為下列何者？",
+    "options": {
+      "A": "dermatomyositis",
+      "B": "systemic lupus erythematosus",
+      "C": "eczema",
+      "D": "photosensitivity"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "110_2_33",
+    "category": "風濕免疫過敏科",
+    "stem": "下列何項檢驗對確診全身性紅斑狼瘡（systemic lupus erythematosus）幫助最小？",
+    "options": {
+      "A": "抗核抗體（anti-nuclear antibodies）",
+      "B": "第四補體（C4）",
+      "C": "全血球計數與血球分類（complete blood count and differential count）",
+      "D": "抗SSA抗體（anti-SSA antibodies）"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "110_2_37",
+    "category": "風濕免疫過敏科",
+    "stem": "下列有關lupus anticoagulant陽性病患的描述，何者錯誤？",
+    "options": {
+      "A": "病人通常沒有出血傾向",
+      "B": "activated partial thromboplastin time（aPTT）經常延長，但在混合正常血漿的試驗（mixing test）中，會變為正常",
+      "C": "不是systemic lupus erythematosus（SLE）的患者，也可能出現lupus anticoagulant",
+      "D": "VDRL梅毒檢驗可能呈陽性反應"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_1_32",
+    "category": "風濕免疫過敏科",
+    "stem": "30歲女性，類風濕性關節炎長期吃藥控制，最近要準備懷孕，下列何種用藥建議最適當？",
+    "options": {
+      "A": "methotrexate與leflunomide都可以在懷孕前使用，驗到受孕再停止即可",
+      "B": "所有生物製劑都可以在懷孕中全程使用",
+      "C": "hydroxychloroquine與sulfasalazine都可以在懷孕中全程使用",
+      "D": "低劑量類固醇在懷孕前可以使用，一旦驗到受孕就不能再使用類固醇"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_1_33",
+    "category": "風濕免疫過敏科",
+    "stem": "有關急性風濕熱（acute rheumatic fever）的敘述，下列何者正確？",
+    "options": {
+      "A": "大多數都是由感染group B Streptococci所引起",
+      "B": "從感染到出現關節炎，平均大概會間隔3個月左右",
+      "C": "erythema marginatum屬於較罕見臨床表徵（約小於5%）",
+      "D": "大概有10 %病人會進展到風濕性心臟病（rheumatic heart disease）"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_1_34",
+    "category": "風濕免疫過敏科",
+    "stem": "42歲周女士因為類風濕性關節炎，自1年前開始接受腫瘤壞死因子拮抗劑（tumor necrosis factor-alphainhibitor）adalimumab每2週40 mg注射治療。大概3週前，周女士發現臉上、手臂伸側、上背部及頸部後側開始出現紅疹，驗血發現抗核抗體（antinuclear antibodies, ANA）以及抗雙股DNA抗體（anti-dsDNAantibodies）由用藥前的陰性轉為陽性，下列處置何者最適當？",
+    "options": {
+      "A": "停掉adalimumab，改用etanercept",
+      "B": "加上prednisolone 1 mg/kg/day，繼續使用adalimumab",
+      "C": "停掉adalimumab，改用rituximab",
+      "D": "停掉adalimumab，改用infliximab"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_1_35",
+    "category": "風濕免疫過敏科",
+    "stem": "目前認為脊椎關節炎（spondyloarthritis）最起始之病灶為何處？",
+    "options": {
+      "A": "軟骨（cartilage）",
+      "B": "肌腱附著點（enthesis）",
+      "C": "硬骨（bone）",
+      "D": "滑膜（synovium）"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_2_24",
+    "category": "風濕免疫過敏科",
+    "stem": "下列何種免疫抑制劑作用於 T 淋巴球活化過程中的 costimulatory pathway？",
+    "options": {
+      "A": "tacrolimus",
+      "B": "mycophenolate mofetil",
+      "C": "sirolimus",
+      "D": "belatacept"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "111_2_31",
+    "category": "風濕免疫過敏科",
+    "stem": "關於 sarcoidosis 疾病的描述，下列何者最適當？",
+    "options": {
+      "A": "主要致病機轉為 B 細胞的活化和自體免疫抗體的產生，再經 antibody-dependent cell-mediated cytotoxicity 造成組織破壞",
+      "B": "大於 95%的病人會有皮膚的侵犯，而約有 43%病人會有肺部的侵犯",
+      "C": "典型的淋巴結病理切片檢查之特徵為出現 noncaseating granuloma",
+      "D": "大於 90%的病人會有 hypercalcemia 和／或 hypercalciuria，常會有腎臟腎絲球的侵犯而造成血中 angiotensin-converting enzyme 濃度的上升"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_2_32",
+    "category": "風濕免疫過敏科",
+    "stem": "一位 72 歲男性病人手部有 clubbing of fingers 的症狀，手部 X 光檢查發現有 hypertrophic osteoarthropathy，此病人的這些臨床特徵與下列何種疾病最有關係？",
+    "options": {
+      "A": "diabetes mellitus",
+      "B": "hemochromatosis",
+      "C": "acromegaly",
+      "D": "bronchogenic carcinoma"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "111_2_33",
+    "category": "風濕免疫過敏科",
+    "stem": "有關乾燥症（Sjögren's syndrome），下列敘述何者最適當？",
+    "options": {
+      "A": "大於半數以上病人會有明顯臨床症狀之腎臟侵犯",
+      "B": "唾液腺發炎是以 CD8+ T 淋巴球浸潤為主",
+      "C": "關節炎大部分是屬於 non-erosive",
+      "D": "跟 HLA-DR5 有關"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_2_34",
+    "category": "風濕免疫過敏科",
+    "stem": "下列那個疾病通常不是因為單一基因突變造成發炎體（inflammasome）過度活化（overactive）所引起？",
+    "options": {
+      "A": "systemic lupus erythematosus（SLE）",
+      "B": "familial Mediterranean fever（FMF）",
+      "C": "Muckle-Wells syndrome（MWS）",
+      "D": "familial cold autoinflammatory syndrome（FCAS）"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "111_2_35",
+    "category": "風濕免疫過敏科",
+    "stem": "33 歲趙小姐，因為反覆流產 3 次前來評估是否有免疫相關問題。病人流產兩次發生在孕期 8～9 週，一次發生在 16 週。病人上週於他院驗血之報告如下：WBC＝5,180/mm3 ，HgB＝12.0 g/dL，platelet count＝91,000/mm3。下列處置何者對於確立診斷最沒有幫助？",
+    "options": {
+      "A": "檢驗 lupus anticoagulant",
+      "B": "檢驗 anti-platelet antibodies",
+      "C": "檢驗 anti-cardiolipin antibodies",
+      "D": "檢驗 anti-beta 2 glycoprotein I antibodies"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "112_1_31",
+    "category": "風濕免疫過敏科",
+    "stem": "全身性紅斑狼瘡（systemic lupus erythematosus）病人的神經及精神症狀中，下列何者最為常見？",
+    "options": {
+      "A": "cognitive dysfunction",
+      "B": "transverse myelopathy",
+      "C": "cerebral hemorrhage",
+      "D": "autonomic nerve imbalance"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "112_1_32",
+    "category": "風濕免疫過敏科",
+    "stem": "下列何種血管炎患者的血清中，可以檢測到antineutrophil cytoplasmic antibodies（ANCA）？",
+    "options": {
+      "A": "serum sickness",
+      "B": "Kawasaki disease",
+      "C": "granulomatosis with polyangiitis",
+      "D": "vasculitis associated with collagen vascular diseases"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_1_33",
+    "category": "風濕免疫過敏科",
+    "stem": "下列細胞激素（cytokine）中，何者與敗血病關係較不密切？",
+    "options": {
+      "A": "interleukin-5（IL-5）",
+      "B": "interleukin-1（IL-1）",
+      "C": "tumor necrosis factor α（TNF-α）",
+      "D": "interleukin-6（IL-6）"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "112_1_34",
+    "category": "風濕免疫過敏科",
+    "stem": "Autoinflammatory diseases包括某些有反覆發燒症狀的發炎性免疫疾病，但下列何者不屬於此類疾病？",
+    "options": {
+      "A": "tumor necrosis factor receptor-associated periodic syndrome",
+      "B": "familial Mediterranean fever",
+      "C": "granulomatosis with polyangiitis",
+      "D": "neonatal-onset multisystem inflammatory disease"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_1_35",
+    "category": "風濕免疫過敏科",
+    "stem": "有關發炎性肌肉病變（inflammatory myopathies）的敘述，下列何者正確？",
+    "options": {
+      "A": "inclusion body myositis好發於年輕人",
+      "B": "dermatomyositis通常不會有肌肉之外的表現（extramuscular manifestations）",
+      "C": "polymyositis通常會有強烈的家族遺傳相關（familial association）",
+      "D": "dermatomyositis有可能與癌症相關"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_2_4",
+    "category": "風濕免疫過敏科",
+    "stem": "65歲女性病人，每日服用trichlormethiazide 4 mg控制血壓已10年。某日半夜病人因突發左踝劇痛而醒來，發覺該處有明顯紅腫現象。醫師自該處抽取關節液化驗，發現有針狀或桿狀、強烈負雙折射性（negativebirefringent）結晶，並有部分結晶被白血球吞噬。針對此病人急性關節發炎之處置，下列何種藥物治療最不恰當？",
+    "options": {
+      "A": "colchicine",
+      "B": "febuxostat",
+      "C": "ibuprofen",
+      "D": "prednisolone"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "112_2_11",
+    "category": "風濕免疫過敏科",
+    "stem": "關於Raynaud's phenomenon的描述，下列何者錯誤？",
+    "options": {
+      "A": "常表現於硬皮症（scleroderma）的病人",
+      "B": "原發性的病人常有較嚴重的症狀",
+      "C": "年紀在50歲以上，動脈粥狀硬化是Raynaud's phenomenon常見的原因",
+      "D": "症狀嚴重的病人可以使用dihydropyridine鈣離子阻斷劑減輕症狀"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "112_2_31",
+    "category": "風濕免疫過敏科",
+    "stem": "一位52歲女性有多處關節疼痛的症狀，經診斷患有fibromyalgia，且未伴隨其他的免疫疾病，其典型的血中C-reactive protein（CRP）和erythrocyte sedimentation rate（ESR）的值應為如何？",
+    "options": {
+      "A": "CRP和ESR皆上升",
+      "B": "CRP上升，但ESR正常",
+      "C": "CRP正常，但ESR上升",
+      "D": "CRP和ESR皆正常"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_2_32",
+    "category": "風濕免疫過敏科",
+    "stem": "有關類風濕性關節炎臨床表現，下列何者正確？",
+    "options": {
+      "A": "通常一開始以左右不對稱、大關節發炎為主，後期才會影響小關節",
+      "B": "當遠端指間關節（distal interphalangeal joint）也受影響時，通常代表同時也患有退化性關節炎",
+      "C": "伸側（extensor）肌腱發生肌腱滑膜炎（tenosynovitis）的機會比曲側（flexor）肌腱常見很多",
+      "D": "頸椎發炎雖然少見，但是通常發生在疾病的早期"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "112_2_33",
+    "category": "風濕免疫過敏科",
+    "stem": "有關inflammatory myopathies的鑑別診斷，下列何者正確？",
+    "options": {
+      "A": "dermatomyositis主要以成人為主，polymyositis則是成人跟幼童都可以發生",
+      "B": "inclusion body myositis主要發生在大於50歲病人，且以女性居多",
+      "C": "polymyositis病人的肌肉切片以endomysial與perivascular inflammation表現，且以CD8+ T cells浸潤為主",
+      "D": "necrotizing myopathy與惡性腫瘤較無關"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_2_35",
+    "category": "風濕免疫過敏科",
+    "stem": "下列有關退化性關節炎（osteoarthritis, OA）之敘述，何者錯誤？",
+    "options": {
+      "A": "手部及髖關節之OA與遺傳基因較有關，而膝關節與遺傳基因的相關性較少",
+      "B": "關節type 2之軟骨主要被MMPs（matrix metalloproteinases）破壞",
+      "C": "華人髖關節OA較白種人少見",
+      "D": "90%以上OA患者必須先行使用非類固醇抗發炎藥物（NSAID）"
+    },
+    "answer": "B或D（BD均給分）"
+  },
+  {
+    "id": "113_1_31",
+    "category": "風濕免疫過敏科",
+    "stem": "關於calcium pyrophosphate deposition（CPPD）disease的描述，下列何者最適當？",
+    "options": {
+      "A": "CPPD disease常被稱為假性痛風（pseudogout）而有類似痛風的臨床症狀，較常發生在年輕人",
+      "B": "會有含calcium的結晶沉澱在關節，但此病與primary hyperparathyroidism沒有關係",
+      "C": "常侵犯膝關節，關節液的偏光顯微鏡分析可發現菱形（rhomboid）或類似棒狀（rod-like）的正偏光結晶",
+      "D": "關節X光可能會看到chondrocalcinosis，但此現象在痛風關節炎（gouty arthritis）也常被發現"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_1_32",
+    "category": "風濕免疫過敏科",
+    "stem": "有關diffuse cutaneous systemic sclerosis與limited cutaneous systemic sclerosis常見臨床表徵比較，下列敘述何者最適當？",
+    "options": {
+      "A": "joint contractures較常出現在limited cutaneous systemic sclerosis病人",
+      "B": "快速進展的間質性肺炎（interstitial lung disease）較常出現在diffuse cutaneous systemicsclerosis病人",
+      "C": "calcinosis cutis較常出現在diffuse cutaneous systemic sclerosis病人",
+      "D": "scleroderma renal crisis 較常出現在 limited cutaneous systemic sclerosis 病人"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_1_33",
+    "category": "風濕免疫過敏科",
+    "stem": "有關giant cell arteritis，下列敘述何者最適當？",
+    "options": {
+      "A": "大多發生在小於50歲的病人",
+      "B": "男性比女性常見",
+      "C": "可以用tocilizumab治療",
+      "D": "約5%病人會合併polymyalgia rheumatica"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_1_34",
+    "category": "風濕免疫過敏科",
+    "stem": "小李是一位計程車司機，近6個月來每到傍晚身上就開始出現奇癢的膨疹（wheals）。醫師幫小李驗血檢查沒有發現什麼特別的疾病，也沒有驗到過敏原，對於小李的治療，下列何者最適當？",
+    "options": {
+      "A": "desloratadine 5 mg daily",
+      "B": "diphenhydramine 50 mg every 6 hours daily",
+      "C": "prednisolone 0.5 mg/kg daily",
+      "D": "topical clobetasol as-needed"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "113_1_35",
+    "category": "風濕免疫過敏科",
+    "stem": "22歲蔡小姐，因為反覆發燒，多處關節腫痛以及下肢水腫約一個月而入院治療。初步抽血檢驗顯示WBC=3,200/mm3，Hb=10 g/dL，platelet=56,000/mm3，urine protein/creatinine ratio=3,800 mg/g，胸部X光發現兩側肋膜皆有少量積水。下列何項處置對疾病確診最無幫助？",
+    "options": {
+      "A": "檢驗血中抗核抗體（antinuclear antibodies, ANA）",
+      "B": "檢驗血中抗磷脂質抗體（anti-phospholipid antibodies）",
+      "C": "安排肺部電腦斷層檢查",
+      "D": "安排腎臟切片檢查"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_2_32",
+    "category": "風濕免疫過敏科",
+    "stem": "一位80歲男性病人有膝關節疼痛，膝關節液的分析為呈現黏稠的（viscous）關節液且白血球數為100/μL，關節液細胞以mononuclear cell為主，此病人最可能患有下列何種關節炎？",
+    "options": {
+      "A": "osteoarthritis",
+      "B": "reactive arthritis",
+      "C": "rheumatoid arthritis",
+      "D": "septic arthritis"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "113_2_33",
+    "category": "風濕免疫過敏科",
+    "stem": "有關類風濕性關節炎的關節外表現（extraarticular manifestations），下列何者最常見？",
+    "options": {
+      "A": "hyperandrogenism",
+      "B": "osteoporosis",
+      "C": "pulmonary artery hypertension",
+      "D": "lumbar myelopathy"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_2_34",
+    "category": "風濕免疫過敏科",
+    "stem": "下列疾病與human leukocyte antigen（HLA）之相關性，何者最高？",
+    "options": {
+      "A": "Type 1 diabetes mellitus與HLA-B5801",
+      "B": "Behçet's disease與HLA-B1502",
+      "C": "Sjögren's syndrome與HLA-DR8",
+      "D": "類風濕性關節炎（rheumatoid arthritis）與HLA-DR4"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_2_35",
+    "category": "風濕免疫過敏科",
+    "stem": "34歲陳女士，因為多次原因不明的laryngeal edema掛急診，其中一次因喉頭水腫太嚴重無法插管，還需緊急氣切才挽回生命。陳女士記得她從有記憶起，就曾經多次因為嚴重腹痛合併腹水而住院，但都沒有找到病因。平時也有很多次突然整個臉或手掌、腳掌突然腫起來。病人發作時皮膚從來沒有蕁麻疹，好幾位醫師曾經幫她驗過血，但也都沒有找到過敏原。下列處置何者對病情最沒有幫助？",
+    "options": {
+      "A": "檢驗血中C4",
+      "B": "檢驗C1 esterase inhibitor",
+      "C": "檢驗total IgE",
+      "D": "處方danazol"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "114_1_31",
+    "category": "風濕免疫過敏科",
+    "stem": "關於退化性關節炎（osteoarthritis, OA）的描述，下列何者最適當？",
+    "options": {
+      "A": "最常發生OA的部位包括手部的metacarpophalangeal joints、手腕關節和膝關節",
+      "B": "造成OA的危險因素包括increased age、genetic susceptibility和obesity",
+      "C": "OA的關節X光變化包括narrowed joint space和bone erosion",
+      "D": "tumor necrosis factor（TNF）在致病機轉扮演重要角色，因此anti-TNF藥物對OA的治療效果很好"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "114_1_32",
+    "category": "風濕免疫過敏科",
+    "stem": "關於一些遺傳性的autoinflammatory disease（例如familial Mediterranean fever）之描述，下列何者最適當？",
+    "options": {
+      "A": "autoinflammatory disease可以起因於pyrin、p55 TNF receptor或NLRP3基因的突變",
+      "B": "目前發現的基因突變均屬於隱性（recessive）遺傳，因此個案數很少",
+      "C": "發炎體（inflammasome）的活化直接造成interleukin-2（IL-2）的分泌過多而產生發燒和關節炎的症狀",
+      "D": "血中的interleukin-1（IL-1）濃度會上升，但IL-1抑制劑的治療效果通常不好而需要使用glucocorticoid來治療"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "114_1_33",
+    "category": "風濕免疫過敏科",
+    "stem": "50歲女性罹患類風濕性關節炎多年，長期服用methotrexate每週15毫克、hydroxychloroquine每天400毫克與低劑量類固醇控制，但仍有許多關節腫痛，抽血檢驗發現發炎指數越來越高，考慮加上生物製劑治療，下列何種藥物治療最適當？",
+    "options": {
+      "A": "secukinumab",
+      "B": "ustekinumab",
+      "C": "ixekizumab",
+      "D": "tocilizumab"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "114_1_34",
+    "category": "風濕免疫過敏科",
+    "stem": "李小姐20歲，因為全身皮膚癢疹，由家人帶來求診，想知道是否對某種東西過敏而發癢。由病史得知，病人從小就常有鼻竇炎，每年至少發生3～4次，也長期有腹瀉問題，5年前還曾因嚴重腹瀉住院，培養出Giardia lamblia，而使用metronidazole治療。下列何項處置對確認病因最有幫助？",
+    "options": {
+      "A": "檢驗allergen-specific IgE",
+      "B": "檢驗血中IgG、IgA、IgM",
+      "C": "檢驗allergen skin testings",
+      "D": "檢驗serum albumin、prealbumin及transferrin"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "114_1_35",
+    "category": "風濕免疫過敏科",
+    "stem": "下列何者是antiphospholipid syndrome最常出現的臨床表現？",
+    "options": {
+      "A": "deep vein thrombosis",
+      "B": "retinal artery thrombosis",
+      "C": "pre-eclampsia",
+      "D": "Libman-Sacks endocarditis"
+    },
+    "answer": "A"
+  }
+]

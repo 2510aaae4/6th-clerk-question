@@ -1,0 +1,686 @@
+[
+  {
+    "id": "110_1_56",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "有關肥胖的敘述，下列何者錯誤？",
+    "options": {
+      "A": "南亞或華人男性之腹部肥胖，其定義為腰圍≧85公分",
+      "B": "瘦素（leptin）由脂肪細胞分泌，為控制食慾的荷爾蒙",
+      "C": "一般而言，肥胖的人血中瘦素濃度比瘦的人高",
+      "D": "體重90公斤，身高170公分的人，其身體質量指數約為31.1 kg/m2"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "110_2_49",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "一位25歲女性，過去沒有任何病史，因為神智不清被送到急診處。身體檢查沒有異常，但是血糖35 mg/dL，一小時後經靜脈注射葡萄糖輸液，神智恢復。隔日早晨又出現低血糖45 mg/dL，同時被檢測有高血鈣13mg/dL。她最不可能有的病灶為：",
+    "options": {
+      "A": "胰島素瘤（insulinoma）",
+      "B": "副甲狀腺瘤（parathyroid adenoma）",
+      "C": "甲狀腺髓質癌（medullary thyroid carcinoma）",
+      "D": "泌乳激素瘤（pituitary prolactinoma）"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "110_2_50",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "35歲女性病患，體檢時發現血壓偏高。她主訴近2個月來覺得頭痛、全身無力和倦怠。理學檢查除了血壓高（160/100 mmHg）以外，並無特殊發現。血液檢驗發現血中肌酸酐（creatinine）1.1 mg/dL，鈉離子137mmol/L，鉀離子 2.6 mmol/L，動脈血液氣體檢查發現代謝性鹼中毒（metabolic alkalosis），血清中腎素（renin）為0.04 ng/mL/hr（參考值，1～5 ng/mL/hr）；血中皮質醛酮濃度（plasma aldosterone concentration）為39.2 ng/dL（參考值，5～30 ng/dL）； 血中腎上腺刺激素（adrenocorticotropin）為12 pg/mL（參考值，10～65 pg/mL）。此病患最有可能的診斷為何？",
+    "options": {
+      "A": "腎動脈狹窄（renal artery stenosis）",
+      "B": "甲狀腺亢進（hyperthyroidism）",
+      "C": "原發性皮質醛酮症（primary aldosteronism）",
+      "D": "庫欣氏症候群（Cushing's  syndrome）"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "110_2_51",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "關於低血糖（hypoglycemia）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "低血糖時，血中皮質醇（cortisol）濃度會上升",
+      "B": "Whipple’s triad包括低血糖之症狀應隨血糖上升而消失或減緩",
+      "C": "正常人空腹血漿血糖值通常不低於70 mg/dL",
+      "D": "胰島素瘤（insulinoma）是空腹低血糖最常見的原因"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "110_2_52",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "關於血脂代謝之敘述，下列何者錯誤？",
+    "options": {
+      "A": "statin抑制膽固醇合成最重要之速率決定酶HMG-CoA oxidase",
+      "B": "HDL是逆向膽固醇運輸（reverse cholesterol transport）最重要的脂蛋白（lipoprotein）",
+      "C": "空腹時，血中三酸甘油脂（triglyceride）主要由VLDL脂蛋白運輸",
+      "D": "LDL受體（receptor）是細胞接受血中膽固醇最重要的受體"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "110_2_53",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "有關先天性腎上腺增生（congenital adrenal hyperplasia）之敘述，下列何者最不可能？",
+    "options": {
+      "A": "最常見的是CYP21A2 基因突變",
+      "B": "血中17-OH progesterone增加",
+      "C": "cortisol分泌增加",
+      "D": "ACTH分泌增加"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "110_2_54",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "有關甲狀腺之敘述，下列何者錯誤？",
+    "options": {
+      "A": "甲狀腺是內分泌腺體，主要分泌的荷爾蒙是三碘甲狀腺素（Triiodothyronine, T3）及四碘甲狀腺素（Thyroxine, T4）",
+      "B": "甲促素（Thyroid-stimulating hormone, TSH）是由腦下垂體分泌的荷爾蒙，TSH與T3、T4之間具有回饋控制的現象",
+      "C": "在碘攝取缺乏之地區，人體內甲狀腺荷爾蒙T3比T4多，但是T4對身體組織的作用活性比T3強",
+      "D": "正常之生理常態下，當T3及T4上升，則TSH下降；反之，當T3及T4下降，則TSH就升高"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_1_52",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "下列有關甲狀腺癌的敘述，何者錯誤？",
+    "options": {
+      "A": "手術可以切除病灶有助於組織病理及癌症分期確認",
+      "B": "若懷疑有甲狀腺癌，可以使用甲狀腺超音波進行頸部中央及兩側淋巴結的檢查，並在可疑之淋巴結作細針穿刺細胞學檢查",
+      "C": "病理學上，細胞分化良好之甲狀腺癌，例如乳突癌或濾泡癌，術後追蹤腫瘤是否再發的主要生物指標是胎兒球蛋白（alpha-fetoprotein）",
+      "D": "甲狀腺癌之同位素放射線根除療法，使用之放射線同位素是碘-131（I-131），而碘-131之半衰期約為8.04天"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_1_53",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "下列何者最不可能引起糖尿病？",
+    "options": {
+      "A": "一些病毒感染後引起自體免疫反應",
+      "B": "肌肉、脂肪或肝臟產生的胰島素阻抗",
+      "C": "類固醇的使用",
+      "D": "投與雙胍類的藥物"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "111_1_54",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "下列有關肥胖的敘述，何者錯誤？",
+    "options": {
+      "A": "肥胖可以引起胰島素阻抗及糖尿病",
+      "B": "身體質量指數越小則代表越胖",
+      "C": "肥胖與飲食習慣、運動及基因等因素有關",
+      "D": "脂肪細胞可以分泌許多影響肥胖發生的物質"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_1_55",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "下列敘述何者錯誤？",
+    "options": {
+      "A": "第一型糖尿病人（type 1 diabetes mellitus）以全靜脈營養（total parenteral nutrition）治療時，除輸液中加胰島素外，應同時給長效胰島素（long acting insulin）",
+      "B": "使用類固醇（glucocorticoid）之糖尿病人，若空腹血糖超過200 mg/dL以上控制不佳時，常需給與胰島素控制血糖",
+      "C": "脂質營養不良性之糖尿病（lipodystrophic diabetes mellitus）病人，可使用重組人類瘦素（recombinant human leptin）治療",
+      "D": "80歲以上之糖尿病病人，其血糖控制目標為糖化血色素＜6.5%"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "111_1_56",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "造成次發性高血壓的內分泌疾病中，下列何者最常見？",
+    "options": {
+      "A": "原發性醛固酮過高（primary aldosteronism）",
+      "B": "嗜鉻細胞瘤（pheochromocytoma）",
+      "C": "庫欣氏症候群（Cushing's syndrome）",
+      "D": "肢端肥大症（acromegaly）"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "111_1_57",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "一位42歲有白斑的女性到門診就醫，主訴這半年來感覺疲倦、怕冷、變胖、抽筋。抽血檢查發現free T4為0.4ng/dL（正常參考值為0.6～1.75 ng/dL），TSH為25 μIU/mL（正常參考值為0.1～4.5 μIU/mL），有關其病因的鑑別診斷，下列何種診療最不需要？",
+    "options": {
+      "A": "甲狀腺觸診和詢問甲狀腺疾病相關家族史",
+      "B": "甲狀腺超音波檢查",
+      "C": "抽血測量甲狀腺相關自體免疫指數，例如anti-thyroid peroxidase antibody（anti-TPO）",
+      "D": "腦下垂體核磁共振檢查"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "111_1_58",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "一位27歲男性，主訴一年來體重上升，身體診察發現有月亮臉、水牛肩、中心型肥胖、皮膚易瘀青、在腹部和雙腿近端有紫色條紋（purple striae），接下來進行何項檢查最為合適？",
+    "options": {
+      "A": "抽血檢查早上8點和下午4點的cortisol和ACTH",
+      "B": "進行high dose dexamethasone suppression test",
+      "C": "安排腎上腺電腦斷層檢查",
+      "D": "安排腦下垂體核磁共振檢查"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "111_2_52",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "下列有關葛瑞夫氏病（Graves' disease）的敘述，何者最不適當？",
+    "options": {
+      "A": "常見於女性，男性發病率只有女性發病率的十分之一。發病年齡通常介於 20 至 50 歲之間",
+      "B": "於老年人發病時，甲狀腺機能亢進的症狀較不明顯，可能僅以疲倦及體重減輕表現，稱為淡漠性甲狀腺機能亢進（apathetic thyrotoxicosis）",
+      "C": "發病時，臨床會出現心悸、心跳過速、體重減輕等症狀，可能有高達約 80%的病例，會出現甲狀腺過氧化酶抗體 （thyroid peroxidase antibody）",
+      "D": "臨床病程中常合併眼病變，可能造成眼瞼內縮、凸眼、複視。甲狀腺功能高低與眼病變的臨床症狀成正相關"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "111_2_53",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "甲狀腺癌是目前臺灣及全世界成長最快速的癌症之一，下列有關甲狀腺癌的敘述，何者錯誤？",
+    "options": {
+      "A": "甲狀腺乳突癌是最常見的甲狀腺癌，約占細胞分化良好之甲狀腺癌的 80～85%",
+      "B": "甲狀腺乳突癌無法以甲狀腺細針穿刺細胞學提供術前診斷",
+      "C": "甲狀腺濾泡癌的侵襲性多以血行性轉移至肺部及骨骼",
+      "D": "甲狀腺濾泡癌的病患中，若原發腫瘤大於 4 公分或病患年齡大於 50 歲，其治療的預後不佳"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_2_54",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "下列有關糖尿病與心臟血管疾病的敘述，何者最不恰當？",
+    "options": {
+      "A": "糖尿病會增加心肌梗塞及心臟衰竭的發生率",
+      "B": "有心肌梗塞或心臟衰竭的病人都不可以使用 metformin",
+      "C": "aspirin 及 statin 類藥物可以有效預防糖尿病病人的心臟血管疾病發生",
+      "D": "thiazolidinediones 可能會增加心臟衰竭的發生"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_2_55",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "下列敘述何者錯誤？",
+    "options": {
+      "A": "pioglitazone 會增加鬱血性心臟衰竭的風險",
+      "B": "DPP-4（dipeptidyl peptidase-4）抑制劑會提升胰島素分泌，減少昇糖素（glucagon）分泌，單獨使用易引起低血糖",
+      "C": "SGLT2（sodium-glucose cotransporter 2）抑制劑比起其它降血糖藥物，有較明顯減輕體重的功效",
+      "D": "metformin 可以減少肝臟葡萄糖新生（gluconeogenesis）"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_2_56",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "下列敘述何者錯誤？",
+    "options": {
+      "A": "低密度脂蛋白受體（LDL receptor）發生突變失去功能，會增加血中低密度脂蛋白膽固醇，加速動脈粥狀硬化",
+      "B": "PCSK9 基因突變失去功能，會增加血中低密度脂蛋白膽固醇，加速動脈粥狀硬化",
+      "C": "降膽固醇首選藥物是 statin 類",
+      "D": "降三酸甘油脂首選藥物是 fibrate 類"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_2_57",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "下列敘述何者錯誤？",
+    "options": {
+      "A": "肥胖易伴有代謝症候群（metabolic syndrome）",
+      "B": "脂質營養不良（lipodystrophy）易伴有代謝症候群",
+      "C": "代謝症候群的病人，血中高密度脂蛋白膽固醇（HDL-C）濃度比一般人高",
+      "D": "代謝症候群的病人，血中脂締素（adiponectin）濃度比一般人低"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_2_58",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "一位 25 歲的男性，因高血壓至門診就醫，檢查發現左側腎上腺有一個 4 公分的腫瘤，經尿液與影像檢查後，高度懷疑為嗜鉻細胞瘤（pheochromocytoma），即將接受手術治療。目前除了未服藥的狀況下血壓高達 150/90mmHg 以外，心跳、呼吸、血氧皆正常。下列處置，何者最正確？",
+    "options": {
+      "A": "立刻安排緊急手術切除",
+      "B": "儘快安排電腦斷層導引的腎上腺腫瘤切片檢查",
+      "C": "手術前 7～10 天需先給與適量的α阻斷劑和水分補給，必要時再給與β阻斷劑",
+      "D": "立即給與體抑素類似物（somatostatin analogue）治療，抑制兒茶酚胺（catecholamines）的分泌"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_1_52",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "一位26歲女性患有高血壓半年，三個月前開始伴有心悸、頭痛、流汗。主治醫師安排她做尿液24小時 catecholamine測定。若欲給藥治療其高血壓，下列何者不適宜？",
+    "options": {
+      "A": "α-adrenergic blocker alone",
+      "B": "β-adrenergic blocker alone",
+      "C": "calcium channel blocker",
+      "D": "β-adrenergic blocker after α-adrenergic blocker"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "112_1_53",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "下列何者不是營養不良（malnutrition）高危險群之特徵？",
+    "options": {
+      "A": "敗血症（sepsis），高燒不退",
+      "B": "老年人",
+      "C": "長期酗酒（alcohol abuse）",
+      "D": "好喝汽水可樂"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_1_54",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "一位50歲男性病人因倦怠、體重減輕來診。患者10年前曾接受鼻咽癌放射線治療，2個月前回診無復發情形。身體診察發現血壓110/70 mmHg，脈搏96次/min，除了乳暈稍有褪色、腋毛及恥毛稍減外並無異常。抽血檢查Na+ 131 mmol/L、K+ 4.0 mmol/L、glucose 90 mg/dL（空腹）。下列那一項檢查對診斷及治療最有幫助？",
+    "options": {
+      "A": "free T4、TSH",
+      "B": "ACTH、cortisol",
+      "C": "tumor marker",
+      "D": "FSH、LH、testosterone"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "112_1_55",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "關於代謝症候群（metabolic syndrome）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "血中脂聯素（adiponectin）的濃度通常會增加",
+      "B": "血中C-反應蛋白（C-reactive protein）濃度通常會增加",
+      "C": "血中尿酸濃度通常會增加",
+      "D": "低密度脂蛋白膽固醇（LDL-C）的血中濃度，一般不是常用的診斷條件之一"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "112_1_56",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "有關低血糖之敘述，下列何者最不適當？",
+    "options": {
+      "A": "血漿中葡萄糖濃度低於50 mg/dL，可能會造成認知障礙",
+      "B": "造成低血糖最常見的原因，是胰島素瘤",
+      "C": "雙胍類藥物（biguanides）不易造成低血糖",
+      "D": "Whipple's triad的判定，需要有可靠的血糖檢測"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "112_1_57",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "一位20歲女性，3個月來有心悸、怕熱、手抖、體重減輕、雙眼突出、紅腫及瀰漫性甲狀腺腫等症狀。她最有可能罹患下列何種疾病？",
+    "options": {
+      "A": "甲狀腺癌",
+      "B": "甲狀腺功能過低",
+      "C": "葛雷夫茲氏症（Graves' disease）",
+      "D": "亞急性甲狀腺炎"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_1_58",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "治療腦下垂體生長激素瘤造成肢端肥大症的首選方法為何？",
+    "options": {
+      "A": "手術切除",
+      "B": "注射體抑素類似物（somatostatin analogue）治療",
+      "C": "立體定位放射線治療（stereotactic radiosurgery）",
+      "D": "口服多巴胺促效劑（dopamine agonist）治療"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "112_2_52",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "下列有關原發性副甲狀腺高能症（primary hyperparathyroidism）的敘述，何者錯誤？",
+    "options": {
+      "A": "副甲狀腺瘤造成之副甲狀腺高能症，此時副甲狀腺之腫瘤多半是單一腺瘤（isolated adenoma）",
+      "B": "副甲狀腺瘤可能是多發性內分泌腫瘤（multiple endocrine neoplasia）的一種臨床表現",
+      "C": "常表現高血鈣、高血磷及低血氯",
+      "D": "血鈣濃度高於14 mg/dL（3.5 mmol/L）時，病理學報告經常是副甲狀腺癌"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_2_53",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "老年男性血中之雄性激素濃度較高時，下列疾病或狀況何者最不可能發生？",
+    "options": {
+      "A": "性慾較高",
+      "B": "罹患冠狀動脈疾病機率較低",
+      "C": "罹患糖尿病機率較高",
+      "D": "死亡率較低"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_2_54",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "下列有關糖尿病與高血壓的敘述，何者錯誤？",
+    "options": {
+      "A": "糖尿病病人的高血壓盛行率較沒有糖尿病者高",
+      "B": "糖尿病病人罹患高血壓的首選控制血壓藥物為angiotensin-converting enzyme inhibitors或是angiotensin receptorblockers",
+      "C": "糖尿病病人的血壓控制目標一般建議比沒有糖尿病的患者來得寬鬆",
+      "D": "高血壓會促進糖尿病的大血管與小血管病變的發生及惡化"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_2_55",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "下列何種藥物未曾被核准用來減輕體重？",
+    "options": {
+      "A": "liraglutide",
+      "B": "lorcaserin",
+      "C": "orlistat",
+      "D": "sitagliptin"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_2_56",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "有關血糖的調控，下列敘述何者錯誤？",
+    "options": {
+      "A": "胰島素是由胰臟所分泌，會使血液中的葡萄糖濃度降低",
+      "B": "一般正常人的血糖會隨著飲食及運動等狀況在一定的範圍內波動",
+      "C": "血糖太低可能會導致死亡",
+      "D": "metformin是最常引起低血糖的口服降血糖藥物"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_2_58",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "腦下垂體後葉若遭受破壞，最可能出現下列何種疾病？",
+    "options": {
+      "A": "尿崩症",
+      "B": "腎上腺機能不足",
+      "C": "甲狀腺功能不足",
+      "D": "性功能異常"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "113_1_1",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "關於妊娠糖尿病（gestational diabetes mellitus, GDM）的敘述，下列何者最不適當？",
+    "options": {
+      "A": "GDM的篩檢時程通常是在懷孕第24～28週執行",
+      "B": "確診有GDM的病患，先以飲食控制使血糖達到理想範圍",
+      "C": "飲食控制無法使血糖達標時，可加上胰島素或口服降血糖藥控制",
+      "D": "患有GDM的女性將來發生第二型糖尿病的風險跟沒有GDM的女性接近"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_1_52",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "嗜鉻細胞瘤源自於交感或副交感神經系統，雖然比例上只占高血壓病患的0.1%，但如果沒有及時診斷，對於心臟及腦血管病變，是個重大的威脅。下列有關嗜鉻細胞瘤的診斷及表現，何者錯誤？",
+    "options": {
+      "A": "嗜鉻細胞瘤可能的臨床表現包括：頭痛、焦慮及恐慌發作、多尿、姿勢性低血壓及血糖上升",
+      "B": "正確診斷嗜鉻細胞瘤應該基於：病患之生化檢查顯示兒茶酚胺（catecholamine）過量以及影像學檢查腫瘤之定位，兩者同樣重要",
+      "C": "傳統上提及嗜鉻細胞瘤的\"Rule of ten\"包括：10%為單側腎上腺腫瘤（unilateral）、10%為惡性嗜鉻細胞瘤（malignant pheochromocytoma），以及10%為腎上腺外之腫瘤（extraadrenal）",
+      "D": "影像診斷學上，在施打顯影劑之後，電腦斷層（CT）及磁振造影（MRI）在診斷嗜鉻細胞瘤之敏感度是類似的"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_1_53",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "淋巴球性腦垂體炎（lymphocytic hypophysitis）是免疫功能干擾到內分泌系統的疾病，下列有關淋巴球性腦垂體炎的敘述，何者錯誤？",
+    "options": {
+      "A": "本項疾病常見於剛生產後之女性，臨床上常以高泌乳激素血症（hyperprolactinemia）表現",
+      "B": "磁振造影（MRI）檢查會發現空蝶鞍（empty sella）之影像學表現",
+      "C": "此種病患，可能會因腦下垂體之病況，表現頭痛及視覺異常等症狀",
+      "D": "淋巴球性腦垂體炎在經過類固醇治療後，因炎性反應緩解，腦下垂體之功能可能可以恢復正常"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_1_54",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "下列有關庫欣氏症候群（Cushing's syndrome）之臨床徵象描述，何者錯誤？",
+    "options": {
+      "A": "中心性肥胖及水牛肩（buffalo hump）",
+      "B": "遠端肌肉無力（distal myopathy），造成爬樓梯之困難",
+      "C": "容易感染及血中白血球數明顯增加",
+      "D": "增加肺栓塞及深部靜脈栓塞之風險"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_1_55",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "下列有關甲狀腺功能檢查之敘述，何者最不適當？",
+    "options": {
+      "A": "自體免疫甲狀腺疾病之診斷，可以藉由測量甲狀腺球蛋白抗體及甲狀腺過氧化酶抗體得知",
+      "B": "病患出現甲狀腺抗體時，比較容易發生甲狀腺機能異常",
+      "C": "所有的甲狀腺毒症（thyrotoxicosis）的病患，血清中之甲狀腺球蛋白都會呈現上升的現象，但是服用甲狀腺素造成之甲狀腺亢進偽症（thyrotoxicosis factitia）是例外",
+      "D": "單獨測量促甲狀腺素（thyrotropin, TSH），可以鑑別診斷病患因腦下垂體疾病造成的甲狀腺機能異常"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_1_56",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "有關第二型糖尿病（type 2 diabetes mellitus）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "第二型糖尿病有程度不一的胰島素阻抗（insulin resistance）",
+      "B": "第二型糖尿病有程度不一的胰島素分泌減少",
+      "C": "第二型糖尿病有程度不一的肝臟葡萄糖新生（gluconeogenesis）增加",
+      "D": "原屬非胰島素依賴型的第二型糖尿病人，一旦須注射胰島素，就轉變成胰島素依賴型的第一型糖尿病人"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_1_57",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "下列有關血糖調控之敘述，何者最不適當？",
+    "options": {
+      "A": "診斷低血糖（hypoglycemia）的Whipple's triad，包括血糖恢復正常後，症狀改善",
+      "B": "一般空腹血漿血糖（fasting plasma glucose）的正常值的下限是50 mg/dL",
+      "C": "肝臟和腎臟均有葡萄糖新生作用（gluconeogenesis）",
+      "D": "血糖降低時，在胰島素分泌減少後，升糖素（glucagon）分泌跟著上升"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_1_58",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "下列有關高尿酸血症之敘述，何者最不適當？",
+    "options": {
+      "A": "代謝症候群（metabolic syndrome）易伴有高尿酸血症（hyperuricemia）",
+      "B": "急性血中尿酸（uric acid）濃度大幅上升，可引起急性腎衰竭",
+      "C": "長期血中尿酸（uric acid）濃度偏高，可造成腎結石",
+      "D": "高尿酸血症（hyperuricemia）病患，即使無症狀，一律應積極給與降尿酸藥物治療"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_2_2",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "關於懷孕期甲狀腺功能變化的敘述，下列何者最不適當？",
+    "options": {
+      "A": "懷孕期因雌激素（estrogen）刺激甲狀腺素結合蛋白（thyroxine-binding globulin）製造，導致血中total T3、total T4上升",
+      "B": "第一孕程（first trimester）的中後段，因高濃度人類絨毛膜促性腺激素（human chorionicgonadotropin, hCG）刺激甲狀腺，造成free T3、free T4上升",
+      "C": "對於甲狀腺功能亢進（hyperthyroidism）的患者，在第一孕程（first trimester）使用methimazole可能與胚胎疾病相關聯",
+      "D": "懷孕期以甲狀腺素（thyroxine）治療甲狀腺功能低下（hypothyroidism），目標是維持TSH在正常範圍，常需比懷孕前使用更低的劑量"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_2_52",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "下列有關於女性更年期停經的敘述，何者最不適當？",
+    "options": {
+      "A": "基本上，女性在35歲之後，卵巢功能，以及生育能力就開始下降",
+      "B": "女性更年期的症狀，包括潮紅（hot flush），以及夜間盜汗（night sweating）",
+      "C": "停經後，濾泡刺激素（follicle-stimulating hormone）及雌二醇（estradiol） 會持續偏低",
+      "D": "停經後，女性補充雌激素，可以改善停經後的症狀，但補充雌激素可能增加發生子宮內膜癌（endometrialcancer）或靜脈血栓症（venous thromboembolism）的風險"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_2_53",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "下列有關basal-bolus胰島素注射法的敘述，何者最適當？",
+    "options": {
+      "A": "三餐注射短效或速效的胰島素，並每日給與一次長效型的胰島素注射",
+      "B": "三餐給與預混型的胰島素，並於睡前給與一次長效型的胰島素注射",
+      "C": "每天給與一次超長效的胰島素注射",
+      "D": "每天給與四次速效型的胰島素注射"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "113_2_54",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "糖尿病下肢病變是導致截肢的主要原因，下列敘述何者最不適當？",
+    "options": {
+      "A": "下肢病變可以是血管阻塞或神經病變所引起",
+      "B": "足部潰瘍會因為血管病變而難以癒合",
+      "C": "足部潰瘍很難透過衛教來預防",
+      "D": "足部潰瘍發生時要避免患部的外來壓力"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_2_55",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "下列有關肥胖及其生理機轉之敘述，何者最適當？",
+    "options": {
+      "A": "體重100公斤，身高180公分之男子，其身體質量指數（body mass index）為32",
+      "B": "男性肥胖定義， 身體質量指數（body mass index）為27，女性則為25",
+      "C": "瘦素（leptin）主要由脂肪組織分泌",
+      "D": "一般而言，瘦的人血中瘦素（leptin）濃度較肥胖者高"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_2_56",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "術前診斷甲狀腺結節良惡性的黃金標準為下列何者？",
+    "options": {
+      "A": "甲狀腺超音波檢查",
+      "B": "抽血檢驗血中甲狀腺球蛋白（thyroglobulin）濃度",
+      "C": "甲狀腺細針穿刺細胞學檢查",
+      "D": "頸部核磁共振檢查"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_2_57",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "造成肢端肥大症的腦下垂體腫瘤的治療首選為何？",
+    "options": {
+      "A": "放射線治療",
+      "B": "多巴胺受體作用劑（dopamine receptor agonist）",
+      "C": "經蝶鞍手術（transsphenoidal surgery）去除腫瘤",
+      "D": "注射體抑素類似物（somatostatin analogue）"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_2_58",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "下列檢查，那一項是診斷「疾病甲狀腺正能症（sick euthyroid syndrome）」最關鍵的指標？",
+    "options": {
+      "A": "三碘甲狀腺素（T3）",
+      "B": "四碘甲狀腺素（T4）",
+      "C": "逆位三碘甲狀腺素（reverse T3）",
+      "D": "甲狀腺超音波"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "114_1_52",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "下列何者最不可能是甲狀腺結節病患發生甲狀腺癌之危險因子？",
+    "options": {
+      "A": "年齡介於20至50歲之女性",
+      "B": "合併頸部單側淋巴結病變",
+      "C": "頭頸部曾接受放射線治療",
+      "D": "聲音沙啞合併聲帶麻痺"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "114_1_53",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "多發性內分泌腫瘤2A型（Multiple endocrine neoplasia 2A, MEN 2A）會以甲狀腺髓質癌、嗜鉻細胞瘤及副甲狀腺腺瘤做為臨床表現。MEN 2A型最常見之基因突變密碼（mutated codon）是下列何者？",
+    "options": {
+      "A": "RET 634",
+      "B": "RET 918",
+      "C": "RET 618",
+      "D": "CDKN1B"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "114_1_54",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "下列何者不是降低血糖的用藥？",
+    "options": {
+      "A": "metformin",
+      "B": "glargine",
+      "C": "glucagon",
+      "D": "degludec"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "114_1_55",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "關於肥胖之敘述，下列何者錯誤？",
+    "options": {
+      "A": "與肥胖相關的內分泌疾病包含甲狀腺功能異常",
+      "B": "臺灣人男、女性肥胖腰圍切點皆為90公分",
+      "C": "庫欣氏症候群（Cushing's syndrome）會有肥胖的表現",
+      "D": "第二型糖尿病與肥胖有關"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "114_1_56",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "關於糖尿病酮酸中毒（diabetic ketoacidosis）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "大多發生於第一型糖尿病（type 1 diabetes mellitus）病人",
+      "B": "初始治療應注射一劑每公斤體重1單位常規胰島素（regular insulin），以快速降血糖",
+      "C": "感染是誘發此症之常見原因",
+      "D": "起始輸液治療，於前1～3小時，通常需給與2～3公升之0.9%食鹽水"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "114_1_57",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "一位65歲女性，40年前生產時有大出血，這次因為泌尿道感染、發燒、意識不清被送來急診。她血壓為85/45 mmHg，心跳每分鐘125下，對於大量靜脈輸液灌注與升壓劑反應不良，其血鈉亦過低，強烈懷疑有腎上腺機能不足的危症（adrenal crisis）。此刻下列何種診治最合適？",
+    "options": {
+      "A": "立刻抽血測量ACTH和cortisol，等待檢查結果，確定異常再給與hydrocortisone治療",
+      "B": "抽血測量8AM和4PM的ACTH和cortisol，等待檢查結果，確定異常再給與hydrocortisone治療",
+      "C": "立刻抽血送ACTH和cortisol檢驗，一抽完血不等待檢驗結果，就給與hydrocortisone治療",
+      "D": "立刻進行cosyntropin test（即ACTH stimulation test），等待檢查結果，確定異常再給與hydrocortisone治療"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "114_1_58",
+    "category": "內分泌暨新陳代謝科",
+    "stem": "下列何者不是對甲狀腺風暴（thyroid storm）引起心房顫動、心搏過速、心衰竭患者的建議用藥？",
+    "options": {
+      "A": "propylthiouracil或methimazole",
+      "B": "hydrocortisone",
+      "C": "saturated solution of potassium iodide",
+      "D": "amiodarone"
+    },
+    "answer": "D"
+  }
+]

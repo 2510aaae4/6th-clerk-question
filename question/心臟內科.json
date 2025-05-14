@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "110_1_6",
+    "category": "心臟內科",
+    "stem": "臨床上診斷心包填塞（pericardial tamponade）需要高度的警覺性，臨床上心包填塞的Beck's triad是指下列那一種情況？",
+    "options": {
+      "A": "低血壓（hypotension），低沉（muffled）的心音，Kussmaul’s徵候",
+      "B": "心包摩擦音（friction rub），低血壓，低沉的心音",
+      "C": "低沉的心音，頸靜脈怒張（jugular vein distention），低血壓",
+      "D": "Kussmaul’s徵候，心包摩擦音，心電圖上QRS波電位降低"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "110_1_8",
+    "category": "心臟內科",
+    "stem": "下列有關先天性主動脈狹縮（congenital coarctation of the aorta）之敘述，何者錯誤？",
+    "options": {
+      "A": "先天性雙主動脈瓣（congenital bicuspid aortic valve）為常見的合併先天性異常",
+      "B": "通常下肢血壓會較上肢為低",
+      "C": "可在兩側肩胛骨間區域聽到輕度收縮期雜音",
+      "D": "胸部X光檢查在第3～9肋骨上緣可看到凹痕（notching）"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "110_1_9",
+    "category": "心臟內科",
+    "stem": "有關慢性心衰竭（左心室射出分量<35%）的口服藥物治療原則，何者錯誤？",
+    "options": {
+      "A": "angiotensin-converting enzyme inhibitor或 angiotensin receptor blocker屬優先選用藥物",
+      "B": "乙型交感神經阻斷劑（β-blocker，如carvedilol or bisoprolol）如臨床無水腫狀況亦應優先選用",
+      "C": "aldosterone antagonist（aldactone）即使病人臨床上並無水腫現象亦屬優先選用藥物",
+      "D": "口服硝酸鹽（nitrates）及hydralazine血管擴張劑組合，宜優先選用"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "110_1_11",
+    "category": "心臟內科",
+    "stem": "一位50歲男性病人，因急性下壁心肌梗塞，接受緊急心導管治療，在right coronary artery置放支架後血壓130/90 mmHg，心跳90/min，轉至加護病房治療，隔天要拔除femoral sheath時，病人主訴做導管處傷口異常疼痛，之後臉色蒼白，血壓下降至80/50 mmHg，心跳也下降至40/min，則此時立即的處理何者最恰當？",
+    "options": {
+      "A": "IV dopamine or norepinephrine",
+      "B": "IV atropine and fluid challenge",
+      "C": "緊急放置主動脈氣球幫浦",
+      "D": "回導管室做心導管檢查"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_1_12",
+    "category": "心臟內科",
+    "stem": "下列有關經皮冠狀動脈介入術（PCI）的敘述何者錯誤？",
+    "options": {
+      "A": "對穩定心絞痛病人而言，當代PCI與積極藥物治療相比，可較有效減少心絞痛、增加運動耐受、增進生活質量，並減少心肌梗塞及死亡",
+      "B": "使用藥物塗抹金屬支架，比起傳統裸金屬支架，再狹窄率變小，但仍有支架血栓風險",
+      "C": "雖然現今PCI的成功率已大量提升，但在慢性全阻塞病灶的成功率各家報告差異甚大",
+      "D": "糖尿病人合併複雜多處冠狀動脈病灶時，以外科繞道手術治療優於PCI"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "110_1_13",
+    "category": "心臟內科",
+    "stem": "48歲男性，有高血壓及吸菸史，早上8點進辦公室便感到胸口悶痛、冒冷汗，被同事送至急診，9點做心電圖顯示如下圖，你是急診醫師，下列判斷及處置何者正確？",
+    "options": {
+      "A": "儘快完成身體診察，若血壓穩定且無肺水腫，則應等待抽血檢測心肌酶是否升高，以決定診斷及後續處置",
+      "B": "心電圖顯示急性ST段上升心肌梗塞，應盡快通知心臟科醫師並啟動緊急心導管流程",
+      "C": "給與氧氣鼻管2 L/min，aspirin 100 mg，確認血壓穩定後給與硝酸甘油靜脈注射（nitroglycerin IV drip）",
+      "D": "急性藥物溶栓治療可爭取時效，較緊急心導管介入治療療效更好，應優先考慮"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_1_16",
+    "category": "心臟內科",
+    "stem": "58歲酒精性肝硬化患者，有食道靜脈瘤出血病史，因吐血而就醫，血壓90/50 mmHg、心跳：148/min，意識不清並躁動，下列的初步處置，何者為宜？①建立中心靜脈導管或兩條周邊靜脈導管以利大量輸液輸注 ②給與propranolol（β blocker）以降低肝門靜脈壓，減緩出血程度 ③安排大腸鏡檢查 ④給與氣管插管以避免吸入性肺炎",
+    "options": {
+      "A": "①②③",
+      "B": "①②④",
+      "C": "僅②③",
+      "D": "僅①④"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "110_1_51",
+    "category": "心臟內科",
+    "stem": "25歲女性，有心悸、手抖、怕熱、體重減輕等症狀，正服用抗甲狀腺藥物治療。最近出現發燒、喉嚨痛。下列何處置應最優先考量？",
+    "options": {
+      "A": "立即給與抗生素",
+      "B": "檢查白血球及分類",
+      "C": "給與Lugol’s solution",
+      "D": "給與lithium"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_1_66",
+    "category": "心臟內科",
+    "stem": "28歲未婚男性主訴自從換工作後，睡不好、經常會半夜全身冒汗且白天嗜睡、腰痠背痛、口乾、胃口不佳，體重雖未見明顯改變，但容易心悸又偶而暈眩，早上都不想去上班，如此已經持續超過3個月。以上述的病史資料，照顧這位病人最適當的診療模式為下列何者？",
+    "options": {
+      "A": "biomedical family model",
+      "B": "holistic social model",
+      "C": "biopsychosocial model",
+      "D": "ethnomedical cultural model"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "110_1_77",
+    "category": "心臟內科",
+    "stem": "下列何種臨床情況，最不適合使用阿托平（atropine）作為心跳低於每分鐘50下的治療？",
+    "options": {
+      "A": "收縮壓低於90 mmHg且心電圖顯示為第二度第一型房室傳導阻滯病人",
+      "B": "接受心臟移植病人合併呼吸急促的竇性心搏過緩",
+      "C": "意識昏迷的病人合併竇性心搏過緩",
+      "D": "嚴重胸痛的病人合併第一度房室傳導阻滯"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_1_80",
+    "category": "心臟內科",
+    "stem": "40歲胰臟癌末期病人，呈現癌症惡體質（cachexia），因疼痛難以控制入住安寧病房。病人表示，弟弟最了解他，知道自己不願意急救的意願，並已預立弟弟為醫療委任代理人。若病人昏迷時，下列家屬簽具拒絕心肺復甦術的順位，何者正確？①父母 ②配偶 ③弟弟 ④成人子女",
+    "options": {
+      "A": "①②③④",
+      "B": "②④①③",
+      "C": "③②④①",
+      "D": "②①④③"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "110_2_6",
+    "category": "心臟內科",
+    "stem": "胡先生76歲患有糖尿病、高血壓、慢性腎功能不全及心房顫動於心臟科門診追蹤治療，主訴近兩天頭暈、倦怠及運動後呼吸急促之症狀，在急診測得之心跳呈現不規則，每分鐘約為32下，以下何者門診用藥最不可能和其症狀相關？",
+    "options": {
+      "A": "乙型交感神經阻斷劑（β-blocker）",
+      "B": "毛地黃（digoxin）",
+      "C": "鈣離子通道阻斷劑（calcium channel blocker）",
+      "D": "甲型交感神經阻斷劑（α-blocker）"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "110_2_7",
+    "category": "心臟內科",
+    "stem": "80歲肥胖女性住院病人，因為漸進出現的雙下肢水腫，夜間喘咳和新出現的輕微發燒，在深夜由家人送來急診。醫師在檢查中包含了B型利鈉胜肽（B-type natriuretic peptide, BNP），檢查數值為100 pg/mL，有關該項檢查應用在心衰竭診斷上下列何者正確？",
+    "options": {
+      "A": "這一位喘的病人如果出現BNP上升到100 pg/mL，就可以診斷是左心室收縮功能衰竭",
+      "B": "在肥胖的心衰竭病人，BNP數值會略低於不肥胖的心衰竭病人",
+      "C": "在腎衰竭的病人，如果有心衰竭，BNP也不容易上升",
+      "D": "住院中會以反覆系列測量BNP當作心衰竭治療方針的依據"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_2_8",
+    "category": "心臟內科",
+    "stem": "65歲有冠心症，經乙型阻斷劑（beta blockers）治療且症狀穩定的男性病人，因為咳嗽與黃色痰，接受胸部X光檢查，結果發現兩側肺野正常但呈現紆曲的（tortuous）主動脈，同時有縱膈腔擴大。接下來的電腦斷層檢查顯示在胸部降主動脈有4公分大小的主動脈瘤，沒有剝離狀況。這位病人的主動脈瘤，下列處置何者較佳？",
+    "options": {
+      "A": "每年檢查一次胸部電腦斷層，動脈瘤若有每年增大超過1公分，轉介外科手術處理",
+      "B": "立刻會診外科手術處理",
+      "C": "每年檢查一次胸部電腦斷層，動脈瘤大小達到4.5公分時，轉介外科手術處理",
+      "D": "每年檢查一次心臟超音波檢查（transthoracic echocardiography）追蹤動脈瘤，如果增加大於1公分即轉介外科手術處理"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "110_2_9",
+    "category": "心臟內科",
+    "stem": "下列何者成年人的先天性心臟病於出生時即為cyanotic type？",
+    "options": {
+      "A": "atrial septal defect",
+      "B": "ventricular septal defect",
+      "C": "tetralogy of Fallot",
+      "D": "patent ductus arteriosus"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "110_2_10",
+    "category": "心臟內科",
+    "stem": "22歲女性因心悸來到急診求診。生命徵象為：意識清楚，體溫37℃，心跳每分鐘160次，血壓110/70毫米汞柱，呼吸每分鐘24次。心電圖如下，以下處置何者最不恰當？",
+    "options": {
+      "A": "胸前電擊100J",
+      "B": "給與adenosine靜脈注射治療",
+      "C": "對病患實施carotid sinus massage",
+      "D": "給與verapamil靜脈注射治療"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "110_2_11",
+    "category": "心臟內科",
+    "stem": "當高血壓病人同時合併下列狀況時，較不考慮有次發性高血壓？",
+    "options": {
+      "A": "抽血檢查發現低血鉀症",
+      "B": "易有頭痛、心悸和盜汗",
+      "C": "睡覺會打鼾，且白天常想睡",
+      "D": "高血脂症"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "110_2_12",
+    "category": "心臟內科",
+    "stem": "一位55歲男性病人在3個月之內發生數次暈厥（syncope），每次都是坐姿時發生，每次都持續約兩分鐘後自然恢復意識，沒有任何後遺症；初步的身體診察並未發現心血管方面的異常，病人臥姿的血壓是130/80mmHg，沒有姿態性低血壓，以下何項診斷工具最不可能發現導致暈厥的原因？",
+    "options": {
+      "A": "肺功能檢查",
+      "B": "心臟超音波",
+      "C": "24-小時心電圖（Holter monitoring）",
+      "D": "心臟電生理檢查（electrophysiological study）"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "111_1_1",
+    "category": "心臟內科",
+    "stem": "關於造成昏厥（syncope）的原因，下列敘述何者最不適當？",
+    "options": {
+      "A": "血管迷走神經性昏厥（vasovagal syncope）是最常見的原因",
+      "B": "心因性（cardiac）昏厥的原因包括心律不整（arrhythmias）及結構性心臟病（structural heart disease）",
+      "C": "姿勢性低血壓（orthostatic hypotension）也可能造成昏厥。在站立後第3分鐘時收縮壓下降15毫米汞柱或是舒張壓下降5毫米汞柱，符合姿勢性低血壓的定義",
+      "D": "懷疑是血管迷走神經性昏厥（vasovagal syncope）時可建議病人做傾斜床測試（tilt table test）"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_1_6",
+    "category": "心臟內科",
+    "stem": "下列有關主動脈瘤之敘述，何者錯誤？",
+    "options": {
+      "A": "造成主動脈瘤之可能病因為：退化、Marfan氏症候群等遺傳性症候群、慢性主動脈剝離、感染及非感染性動脈炎、創傷等",
+      "B": "胸主動脈瘤破裂的機會與其大小有關，直徑在4 cm以下者，風險約為每年2～3%，但若直徑大於6 cm，則風險升高至每年7%",
+      "C": "直徑4 cm以上的腹主動脈瘤，大多因動脈硬化所致，位於腎動脈以上，若瘤體內有管壁血栓，則可能因此造成下肢周邊血管栓塞",
+      "D": "無症狀腹主動脈瘤若直徑5.5 cm以上，應考慮進行主動脈瘤修補術，以血管內（endovascular）介入方式之短期死亡率較傳統外科手術為低，而長期死亡率相似"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_1_7",
+    "category": "心臟內科",
+    "stem": "當病人因心功能失常或嚴重心肌缺血而出現血行動力不穩、甚或心因性休克時，除強心藥物外，可能需要機械性循環支持，下列相關敘述，何者錯誤？",
+    "options": {
+      "A": "主動脈氣球泵浦（IABP）之球囊置放於降主動脈，由氦氣充填，於心舒張早期充氣、舒張中後期消氣，因此可降低主動脈早期舒張期血壓以增加冠狀動脈血流，且降低主動脈收縮期血壓以降低左心室後負荷",
+      "B": "Impella導管可經由股動脈逆行置入左心室，其先端部位有一小型軸向泵浦，可將左心室血液泵至主動脈，以增加心輸出量並降低左心室壓力",
+      "C": "TandemHeart系統可經由左心房導管將血液抽出、由離心泵浦推送至股動脈，提供每分鐘達5公升之血流量",
+      "D": "體外膜氧合系統（ECMO）可用於急性心衰竭合併心因性休克及嚴重肺損傷合併呼吸衰竭"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "111_1_8",
+    "category": "心臟內科",
+    "stem": "下列狀況何者不是壓力催迫性檢查（stress test）的絕對禁忌症？",
+    "options": {
+      "A": "不穩定心絞痛",
+      "B": "嚴重心內膜炎",
+      "C": "無症狀之主動脈狹窄",
+      "D": "嚴重心律不整，且曾併發血行動力學不穩定"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_1_9",
+    "category": "心臟內科",
+    "stem": "使用下列何種抗心律不整藥物可能會造成心電圖上出現ST節段升高（ST segment elevations）情形？",
+    "options": {
+      "A": "class 1C antiarrhythmic drugs",
+      "B": "class II antiarrhythmic drugs",
+      "C": "class III antiarrhythmic drugs",
+      "D": "class IV antiarrhythmic drugs"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "111_1_10",
+    "category": "心臟內科",
+    "stem": "一位75歲男性因心悸至門診，十二導程心電圖顯示心房顫動。下列對心房顫動之敘述何者錯誤？",
+    "options": {
+      "A": "心房顫動為女性多於男性",
+      "B": "心房顫動風險因子（risk factor）包括甲狀腺亢進、高血壓、糖尿病及肥胖等",
+      "C": "心房顫動可能會造成心衰竭",
+      "D": "心房顫動之缺血性中風風險評估可用 CHA2DS2-VASc score"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "111_1_11",
+    "category": "心臟內科",
+    "stem": "關於慢性靜脈疾病，包括靜脈曲張（varicose vein）的描述，下列何者正確？",
+    "options": {
+      "A": "原發性靜脈曲張的病人絕大多數是因為靜脈高壓所造成，很少有家族史",
+      "B": "女性使用荷爾蒙替代療法不會增加靜脈曲張的風險",
+      "C": "原發性的靜脈曲張常發生在深層靜脈",
+      "D": "慢性靜脈疾病的主要診斷工具是venous duplex ultrasonography"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "111_1_12",
+    "category": "心臟內科",
+    "stem": "下列何種乙型交感神經阻斷劑（beta blocker）無法改善左心室射出分率降低的心衰竭（heart failure with reduced ejection fraction）之預後？",
+    "options": {
+      "A": "carvedilol",
+      "B": "bisoprolol",
+      "C": "propranolol",
+      "D": "metoprolol succinate"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_1_13",
+    "category": "心臟內科",
+    "stem": "有關心臟衰竭（heart failure, HF）血清標記的描述，何者錯誤？",
+    "options": {
+      "A": "當低收縮分率心臟衰竭患者使用angiotensin receptor neprilysin inhibitor（ARNI）後，B-type natriuretic peptide（BNP）的濃度會降低",
+      "B": "當年齡增加時，N-terminal pro-BNP（NT-proBNP）血清濃度會增加",
+      "C": "當腎功能變差時，NT-proBNP血清濃度會增加",
+      "D": "在門診呼吸困難患者中，BNP或NT-proBNP的測量可用於支持有關HF診斷的臨床決策，尤其是在臨床不確定性情況下"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "111_1_14",
+    "category": "心臟內科",
+    "stem": "一位75歲的女性病人最近感覺到漸進性運動性氣促，下列何項檢查對呼吸困難的鑑別診斷幫助最小？",
+    "options": {
+      "A": "胸部X光",
+      "B": "身體診察（physical examination）",
+      "C": "24小時心電圖（Holter monitoring）",
+      "D": "心臟超音波"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_1_50",
+    "category": "心臟內科",
+    "stem": "31歲女性，健康狀況良好，突然間抱怨無法忍受的頭痛，合併頸部僵硬、噁心、嘔吐，接著喪失意識。最有可能的診斷為何？",
+    "options": {
+      "A": "腦膜炎",
+      "B": "梗塞性中風",
+      "C": "顱內動脈瘤破裂",
+      "D": "偏頭痛"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_2_3",
+    "category": "心臟內科",
+    "stem": "在評估胸痛病患時，下列那一個病史與急性主動脈症候群（acute aortic syndrome）之相關性最低？",
+    "options": {
+      "A": "Ehlers-Danlos syndrome",
+      "B": "pregnancy",
+      "C": "bicuspid aortic valve",
+      "D": "sick sinus syndrome"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "111_2_6",
+    "category": "心臟內科",
+    "stem": "下列有關冠狀動脈心臟病的非侵入式檢查敘述，何者錯誤？",
+    "options": {
+      "A": "靜態標準十二導程心電圖之 ST 段或 T 波異常，並不能確診是冠狀動脈心臟病",
+      "B": "運動心電圖是最廣泛使用的檢查評估工具，但因運動檢查有千分之一的死亡風險，故檢查場所必須備有急救器材",
+      "C": "合併藥物催迫（pharmacological stress）之核醫心肌灌注造影可用以檢出心肌缺血（ischemia）及心肌梗塞後之疤痕（scar）",
+      "D": "電腦斷層（multi-detector CT）測得之鈣化分數（calcium score）可準確診斷冠狀動脈心臟病，但對疾病預後之應用尚不明確"
+    },
+    "answer": "B或D"
+  },
+  {
+    "id": "111_2_7",
+    "category": "心臟內科",
+    "stem": "下列何種狀況運動心電圖出現 ST-segment depression 時，冠狀動脈心臟病可能性最高？",
+    "options": {
+      "A": "58 歲男性，早發性冠狀動脈心臟病家族史，靜態心電圖為竇性脈及左束支傳導阻滯（LBBB）",
+      "B": "45 歲女性，糖尿病及高血壓，靜態心電圖有左心室肥厚（LVH）",
+      "C": "76 歲女性，近期運動出現氣促，長期抽菸，靜態心電圖無特殊異常",
+      "D": "65 歲男性出現運動後氣促，長期使用乙型交感神經阻斷劑（beta blocker），毛地黃（digoxin）及硝酸鹽（nitrate）類藥物"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_2_8",
+    "category": "心臟內科",
+    "stem": "下列關於壓力催迫性（stress）核醫心肌灌流造影（stress SPECT）與冠狀動脈心臟病的敘述，何者錯誤？",
+    "options": {
+      "A": "電腦斷層高鈣化指數者建議安排運動心電圖或壓力催迫性核醫心肌灌流檢查，依據心肌缺血嚴重度決定是否需要血管再通術",
+      "B": "非心臟外科手術術前風險評估除了考慮心肌缺氧嚴重度及範圍、左心室功能之外，還要考量手術種類及麻醉方式",
+      "C": "若前一次的壓力催迫性核醫心肌造影正常，受試者一年內出現急性心肌梗塞或是死亡的年度風險低於 1%。如無特殊狀況，兩年內不需要再追蹤；年長或是糖尿病等高風險族群，可以一年後再複查。完全不需要用藥治療",
+      "D": "壓力催迫性核醫心肌造影完全正常，並不能完全斷言絕對不會發生急性心肌梗塞；因為有時候血管狹窄雖然不嚴重，仍可能發生急性的動脈硬化斑塊破裂，導致血栓形成"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_2_9",
+    "category": "心臟內科",
+    "stem": "59 歲男性，過去有冠狀動脈疾病開過繞道手術，最近 6 個月運動時胸悶加劇、喘，就診時發現心電圖有新的變化，因此心臟科醫師安排了靜態核醫心肌灌流單光子造影（MPI-SPECT）（圖一）及 F-18 FDG 正子掃描（PET）（圖二），下列敘述何者錯誤？",
+    "options": {
+      "A": "在左心室側壁的心肌灌流缺損多為休眠的心肌",
+      "B": "左心室前壁大部分是瘢痕心肌，血管再通治療效果不佳",
+      "C": "左心室下壁混和有瘢痕與休眠心肌，，可以考慮積極進行血管再通治療血管再通治療效果可能較全為存活心肌處略差",
+      "D": "左心室心尖混和有瘢痕與休眠心肌，血管再通治療效果可能較全為存活心肌處略差"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_2_10",
+    "category": "心臟內科",
+    "stem": "一位年輕男性因心悸胸悶至急診，心電圖顯示 regular narrow QRS tachycardia。下列何者是最不可能的診斷？",
+    "options": {
+      "A": "orthodromic atrioventricular reentrant tachycardia（AVRT）",
+      "B": "atrioventricular nodal reentry tachycardia（AVNRT）",
+      "C": "atrial tachycardia",
+      "D": "ventricular tachycardia"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "111_2_11",
+    "category": "心臟內科",
+    "stem": "一位 65 歲女性因胸悶至門診，十二導程心電圖發現有心房顫動。為了評估之後缺血性中風風險，可以使用 CHA2DS2-VASc score。 下列何者不是 CHA2DS2-VASc score 之計分項目？",
+    "options": {
+      "A": "心衰竭",
+      "B": "冠狀動脈心臟病",
+      "C": "年紀大於等於 65 歲",
+      "D": "深部靜脈血栓"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "111_2_12",
+    "category": "心臟內科",
+    "stem": "關於身體診察的異常發現，下列敘述何者錯誤？",
+    "options": {
+      "A": "姿態性低血壓的定義為從平躺到起立的 3 分鐘內收縮壓下降超過 20 mmHg，或舒張壓下降超過 10 mmHg",
+      "B": "身體診察時看到右上胸骨旁有脈動（pulsation），可懷疑升主動脈瘤",
+      "C": "脈搏每跳之間有差異，稱為奇脈（pulsus paradoxus），常出現在嚴重的左心室收縮功能不全的病人",
+      "D": "雙峰脈波（bifid pulse）可以出現在肥厚型阻塞性心肌症（hypertrophic obstructive cardiomyopathy）的病人"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_2_13",
+    "category": "心臟內科",
+    "stem": "適當的使用下列藥物被認為對治療 heart failure with reduced ejection fraction 可以改善症狀和預後，但何者除外？",
+    "options": {
+      "A": "angiotensin converting enzyme inhibitor",
+      "B": "mineralocorticoid receptor antagonist",
+      "C": "second-generation calcium channel blocker",
+      "D": "angiotensin receptor neprilysin inhibitor"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_2_14",
+    "category": "心臟內科",
+    "stem": "有關心臟衰竭（heart failure, HF）相關猝死（sudden death）預防描述，何者錯誤？",
+    "options": {
+      "A": "在大約一半的心衰竭患者中，是由於心室性心律不整（ventricular arrhythmia）所引起的猝死，HFrEF 患者中尤為普遍",
+      "B": "在猝死發作後倖存的心衰竭患者被認為具有很高再猝死的風險，應考慮植入式心臟內去顫器（implantablecardioverter-defibrillator, ICD）",
+      "C": "無論心衰竭的病因為何，凡具有心衰竭的 NYHA 第 I 級症狀，但 LVEF 大於 35%的患者，是考慮植入式心臟內去顫器（implantable cardioverter-defibrillator, ICD）預防性治療的合適候選人",
+      "D": "對於心肌梗塞發生之後已經 3 個月，LVEF≦30%且仍有心室頻脈，即使已使用最佳藥物治療的患者，也建議植入式心臟內去顫器（implantable cardioverter-defibrillator, ICD）"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_1_1",
+    "category": "心臟內科",
+    "stem": "一位80歲獨居老人，多日未外出，經里長發現意識不清、皮膚乾癟、眼眶深陷，血壓80/55 mmHg。緊急送醫發現頸靜脈低陷，胸部X光肺野清晰、心電圖為竇性頻脈、血中白血球7000/mm3、BUN 45 mg/dL、creatinine4 mg/dL、Na+ 155 mEq/L。此病人最有可能的診斷為：",
+    "options": {
+      "A": "急性心肌梗塞引起心因性休克（cardiogenic shock）",
+      "B": "嚴重性過敏反應（anaphylaxis）",
+      "C": "低血容積性休克（hypovolemic shock）",
+      "D": "心包膜填塞（pericardial tamponade）引起休克"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_1_5",
+    "category": "心臟內科",
+    "stem": "下列有關藥物動力或藥效的描述，那一項最正確？",
+    "options": {
+      "A": "心臟衰竭時，藥物在心臟或腦部的效用會相對減低",
+      "B": "心臟衰竭時，藥物從腸胃道的吸收會增加",
+      "C": "心臟衰竭時，藥物經由腎臟或肝臟的廓清率（clearance）會增加",
+      "D": "一般來說，即使沒有明顯的腎臟疾病，老年人之藥物腎廓清率仍然可能下降達35～50%"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_1_6",
+    "category": "心臟內科",
+    "stem": "關於淋巴水腫（lymphedema）的描述，下列何者錯誤？",
+    "options": {
+      "A": "持續的淋巴水腫會引起發炎和免疫反應，造成脂肪和膠原蛋白在皮膚以及皮下的堆積",
+      "B": "次發性淋巴水腫常見於腋下或是鼠蹊部淋巴結的手術摘除以及放射線治療",
+      "C": "下肢淋巴水腫的病人使用潤膚劑塗抹患側是禁忌，因為會增加皮膚感染",
+      "D": "淋巴水腫的肢體經常不會伴隨疼痛"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_1_7",
+    "category": "心臟內科",
+    "stem": "關於B-type natriuretic peptide（BNP）和N-terminal pro-BNP（NT-proBNP）在心衰竭的診斷與治療，下列何者正確？",
+    "options": {
+      "A": "在舒張性心衰竭不會上升",
+      "B": "對收縮性心衰竭的診斷有幫助，但是無法評估疾病的預後",
+      "C": "在健康人的血中濃度會隨著年紀而上升",
+      "D": "血中濃度在右心衰竭的病人不會上升"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_1_8",
+    "category": "心臟內科",
+    "stem": "有關心音及心雜音的敘述，下列何者錯誤？",
+    "options": {
+      "A": "在嚴重肺高壓症病患，肺動脈瓣環擴大造成肺動脈瓣閉鎖不全，在左胸骨側會有舒張期心雜音，稱為Graham Steell murmur",
+      "B": "主動脈瓣膜閉鎖不全會產生舒張早期如風吹的心雜音，稱為Austin Flint murmur",
+      "C": "嚴重二尖瓣（僧帽瓣）狹窄病患有些聽診時會有opening snap，通常在心尖內側，第二心音後約0.05至0.12秒",
+      "D": "二尖瓣（僧帽瓣）閉鎖不全的心雜音，通常位於心尖部位，為全收縮期雜音，且會傳至左腋下"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "112_1_9",
+    "category": "心臟內科",
+    "stem": "比較竇結細胞（sinus nodal cell）與心室細胞（ventricular cell）的動作電位，下列敘述何者正確？",
+    "options": {
+      "A": "就靜態膜電位（resting membrane potential）而言，竇結細胞較極化（more polarized）",
+      "B": "第0期（Phase 0）上衝速度（upstroke），竇結細胞較快速",
+      "C": "第2期（Phase 2），竇結細胞較顯著",
+      "D": "第4期（Phase 4）有舒張期去極化（diastolic depolarization）是竇結細胞的特徵"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_1_10",
+    "category": "心臟內科",
+    "stem": "下列針對主動脈縮窄（coarctation of the aorta）的敘述，何者錯誤？",
+    "options": {
+      "A": "狹窄處最常見於左鎖骨下動脈遠端，且近動脈韌帶（ligamentum arteriosum）開口端",
+      "B": "屬於一種先天性心臟病",
+      "C": "通常女性多於男性",
+      "D": "常見於有性腺發育不全（gonadal dysgenesis）的患者（例如Turner's syndrome）"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_1_11",
+    "category": "心臟內科",
+    "stem": "某女士因前一日無故暈倒到醫院內科門診求治，醫師懷疑是orthostatic hypotension，就讓該女士平躺5分鐘後，測量血壓，為124/78 mmHg，再請該女士起立，於1分鐘內再測量血壓，為90/62 mmHg。下列診斷何者為正確？",
+    "options": {
+      "A": "因收縮壓下降超過20 mmHg，舒張壓下降超過10 mmHg，符合orthostatic hypotension的診斷",
+      "B": "因收縮壓下降超過20 mmHg，但舒張壓下降未超過20 mmHg，不符合orthostatic hypotension的診斷",
+      "C": "因未測量心跳數，無法判斷是否有orthostatic hypotension",
+      "D": "因起立後不到3分鐘即測量血壓，無法判斷是否有orthostatic hypotension"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "112_1_12",
+    "category": "心臟內科",
+    "stem": "有關抗血小板藥物的敘述，下列何者正確？",
+    "options": {
+      "A": "新的抗血小板藥物ticagrelor比過去clopidogrel抑制adenosine diphosphate（ADP）受體半衰期更長，作用時間更久",
+      "B": "相較於clopidogrel，ticagrelor與prasugrel兩種藥物對STEMI病患在心臟死亡事件及心肌梗塞與中風的機會均有意義下降",
+      "C": "aspirin抑制血小板活性，主要是抑制cyclooxygenase，使arachidonic acid無法變成thromboxane A2",
+      "D": "長期口服glycoprotein IIb/IIIa antagonist被證實可以有效地降低心肌梗塞發作及死亡率"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_1_13",
+    "category": "心臟內科",
+    "stem": "下列何者不是寬的脈搏壓（wide pulse pressure）要考慮的鑑別診斷？",
+    "options": {
+      "A": "主動脈瓣狹窄（aortic stenosis）",
+      "B": "甲狀腺毒症（thyrotoxicosis）",
+      "C": "感染發燒",
+      "D": "開放性動脈導管（patent ductus arteriosus）"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "112_1_14",
+    "category": "心臟內科",
+    "stem": "有關心臟冠狀動脈血管檢查的歷史沿革與相關敘述，下列何者錯誤？",
+    "options": {
+      "A": "最初開始在人體進行心臟心導管檢查的人是Forssmann，他在1929年將當時的無菌導尿管經過手部靜脈植入到右心房，再以X光透視確定導管的位置",
+      "B": "1940年代，Cournand以及Richards將Forssmann的血管攝影方式改良後用在評估人體的心血管系統上面",
+      "C": "進行心臟冠狀動脈血管攝影最常見的合併症是血管植入部位的出血，約占1.5～2.0%",
+      "D": "因為資訊與機器的進步，要檢查心臟冠狀動脈的解剖學與生理變化，心臟血管電腦斷層已經取代心導管檢查，成為最標準的方法"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_2_7",
+    "category": "心臟內科",
+    "stem": "下列有關冠狀動脈心臟病的藥物治療敘述，何者正確？",
+    "options": {
+      "A": "乙型交感神經阻斷劑（beta blocker）可減少心肌耗氧，因此可以減少心絞痛，甚至可以降低心肌梗塞後之死亡率",
+      "B": "鈣離子阻斷劑（calcium channel blocker）可以擴張冠狀動脈、增加心肌供血，因此短效型dihydropyridine類鈣離子阻斷劑特別適用於無法耐受乙型交感神經阻斷劑（beta blocker）副作用的病人",
+      "C": "阿斯匹靈（aspirin）為可逆性血小板cyclooxygenase抑制劑，減低血小板活化能力，冠狀動脈心臟病人常用劑量為每日75～325 mg",
+      "D": "有機硝酸鹽類（nitrate）經人體代謝後，可釋放一氧化氮（NO）與血管平滑肌adenylyl cyclase結合，造成血管擴張"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "112_2_8",
+    "category": "心臟內科",
+    "stem": "27歲男性病人與好友熬夜玩電玩，翌日清晨突然倒地急救，經119 EMT施行心肺復甦術，30分內送抵急診，中間多次VT/VF並施行DC shock，到院後CPCR共50分及電擊5次，除了急救藥物使用之外，並在50分鐘內找心臟外科醫師放置葉克膜。病況穩定後進行身體檢查，體溫35.4°C、HR：80/min、RR：20/min、BP：125/68mmHg，聽診呈現心尖及lower left sternal border（LLSB）有grade 3/6 systolic murmur。緊急冠狀動脈血管攝影顯示無冠狀動脈狹窄或血栓阻塞。心電圖跟心臟超音波如附圖所示。下列何者敘述錯誤？",
+    "options": {
+      "A": "這位病人的診斷是肥厚型心肌症（hypertrophic cardiomyopathy）",
+      "B": "因惡性心律不整可能復發，應考慮植入式心律去顫器﹙implantable cardioverter defibrillator, ICD﹚的置入",
+      "C": "如果病人左心室出口阻塞的症狀嚴重，可以考慮心導管酒精消融（alcohol ablation）或是外科手術，要是還是無法改善，可以考慮換心",
+      "D": "除了考慮乙型交感神經阻斷劑（beta blocker），鈣離子阻斷劑（calcium channel blocker）等，還要增加利尿劑的使用量，避免心臟衰竭"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_2_10",
+    "category": "心臟內科",
+    "stem": "關於肺高壓的描述，下列何者錯誤？",
+    "options": {
+      "A": "病人在疾病初期所表現的症狀常無專一性",
+      "B": "當懷疑病人有肺高壓，心臟超音波是優先考量的篩檢工具",
+      "C": "本病的確診須靠右側心導管（right heart catheterization）檢查",
+      "D": "確診的病人常合併有貧血"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_2_12",
+    "category": "心臟內科",
+    "stem": "關於心包膜疾病的描述，下列何者正確？",
+    "options": {
+      "A": "急性心包膜炎的臨床分類主要包括fibrinous和effusive（serous or sanguineous）兩大類",
+      "B": "急性心包膜炎常見的症狀是以發燒為主，但罕見胸痛",
+      "C": "只有不到10%急性心包膜炎的病人在疾病過程中可以聽到friction rub",
+      "D": "colchicine用於治療急性不明原因性心包膜炎（acute idiopathic pericarditis）病人的標準治療期程不可超過兩週，否則轉變成慢性心包膜炎的機率會增加"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "112_2_13",
+    "category": "心臟內科",
+    "stem": "有關心衰竭的New York Heart Association Classification，下列何者當下的functional capacity是屬於class II？",
+    "options": {
+      "A": "一位24歲的大學畢業男性在兵役體檢的時候發現有主動脈瓣二葉畸形（bicuspid aortic valve），該位男性表示之前在學校的籃球課表現並無異樣",
+      "B": "一位45歲的魚市場搬運男工平常扛20公斤的魚貨從卡車走到倉庫的二樓都不需休息，但是兩週前心律不整發生後扛15公斤樓梯走到一半就很喘，完全無法走上二樓",
+      "C": "一位75歲的男性診斷有中度二尖瓣閉鎖不全。平時很少運動，每天頂多走到離家20公尺的便利商店買報紙。最近1個禮拜腳漸漸腫起來，還是可以走到該便利商店買報紙，但是會覺得明顯比之前喘和累",
+      "D": "一位50歲女性診斷有擴大型心肌症（dilated cardiomyopathy），平常可以躺平一覺睡到天亮，最近2個禮拜腳漸漸腫起來，需要頭部墊兩個枕頭才有辦法躺下來睡"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_2_14",
+    "category": "心臟內科",
+    "stem": "一位78歲男性病患因心房顫動就診，該心律不整病史已有1年以上。過去有高血壓及糖尿病史，最近有呼吸困難與腳部水腫；心臟超音波左心射出分率29%。無心肌梗塞、中風或周邊血管阻塞疾病病史。估算其CHA2DS2-VASc score，該病患之分數為：",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_2_51",
+    "category": "心臟內科",
+    "stem": "下列有關急性肺栓塞（acute pulmonary embolism）的敘述，何者正確？",
+    "options": {
+      "A": "胸痛為Wells' clinical prediction rule臨床診斷準則項目之一",
+      "B": "plasma D-dimer test對急性肺栓塞的診斷有極高敏感度（sensitivity）與專一性（specificity）",
+      "C": "經靜脈或皮下注射的抗凝劑，如低分子量肝素（low-molecular-weight heparin），應持續使用5天以上，並維持international normalized ratio在2.0～3.0之間至少連續2天",
+      "D": "嚴重肺栓塞病人最常見的死因為右心室衰竭所導致的心因性休克"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_1_2",
+    "category": "心臟內科",
+    "stem": "4位醫學生分別使用下列量表評估病人的預後，何者最不恰當？學生量表 評估對象甲生  APACHE II Score  加護病房重症病人乙生  BODE Index  壓傷（pressure injury）病人丙生  International Prognostic Index 非何杰金氏淋巴瘤（non-Hodgkin's lymphoma）病人丁生  TIMI Risk Score 非ST波段上升之急性冠心症（non-ST segment elevation acute coronary syndrome)病人",
+    "options": {
+      "A": "甲生",
+      "B": "乙生",
+      "C": "丙生",
+      "D": "丁生"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_1_4",
+    "category": "心臟內科",
+    "stem": "80歲男性過去有高血壓、糖尿病、高血脂症及痛風病史，最近3週以來主訴全身水腫，特別是在早晨起床時覺得眼皮周圍及臉部腫脹，日間活動之後才會逐漸改善，問診時病人表示平躺時沒有呼吸困難，半夜沒有因為喘不過氣而醒來，下列抽血檢驗結果何者最符合此病人的特徵？",
+    "options": {
+      "A": "NT-Pro-BNP：2500 pg/mL",
+      "B": "Albumin：1.8 g/dL",
+      "C": "TSH：9.0 μIU/mL",
+      "D": "Free T4：2.8 ng/dL"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_1_6",
+    "category": "心臟內科",
+    "stem": "下列有關診斷性心導管中所得各項壓力之敘述，何者正確？",
+    "options": {
+      "A": "主動脈瓣狹窄病人當心室早搏後，於下一心跳時會出現左心室及主動脈間壓差變大，且主動脈脈搏壓減少，稱為Brockenbrough-Braunwald sign",
+      "B": "心包積液病人發生心包填塞時，右心房壓力會上升，且壓力曲線之「y下降段（y descent）」會變得極明顯",
+      "C": "束縮性心包膜炎（constrictive pericarditis）病人之右心室收縮期壓力一般低於50 mmHg，且其壓力曲線會呈現square root sign",
+      "D": "限制性心肌症（restrictive cardiomyopathy）病人之右心室舒張末期壓力，一般高於右心室收縮期壓力之1/3，且與左心室舒張末期壓力相差不超過5 mmHg"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_1_7",
+    "category": "心臟內科",
+    "stem": "下列有關非ST段上升急性冠狀動脈症候群（non-ST-segment elevation acute coronary syndrome, NSTE-ACS）之敘述，何者正確？",
+    "options": {
+      "A": "超過一半的NSTE-ACS病人，在急診行心電圖檢查能發現新的ST段下降，深的（＞3mV）T波倒置也很常見",
+      "B": "NSTE-ACS的病人，若抽血發現cardiac troponin升高，但creatine kinase仍正常，尚不能診斷非ST段上升心肌梗塞（non-ST-segment elevation myocardial infarction, NSTEMI）",
+      "C": "因NSTE-ACS之致病機轉通常為不穩定斑塊破裂，所以所有病人須合併使用aspirin、P2Y12抑制劑、醣蛋白GPIIb/IIIa受體抑制劑三者，以抑制血小板凝集",
+      "D": "生命跡象及血行動力穩定、胸痛可以用藥物控制，但GRACE危險評分＞140的NSTE-ACS病人，應考慮在24小時內進行心導管及血流重建治療"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_1_8",
+    "category": "心臟內科",
+    "stem": "下列關於核醫心肌灌流造影的敘述，何者錯誤？",
+    "options": {
+      "A": "同位素心肌攝取量與血流量及心肌是否存活有關",
+      "B": "Thallium-201（Tl-201）半衰期12小時，為主動運輸進入心肌，不同狀況的心肌細胞其清除率及活性不同，在心肌受傷或缺氧時，活性較高且清除率較快，因此會有「逆再分布（reverse redistribution）」的現象",
+      "C": "Tc-99m sestamibi半衰期為6小時，是利用被動運輸進入心肌",
+      "D": "Thallium-201（Tl-201）擁有與鉀離子相同的生物學特性"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_1_9",
+    "category": "心臟內科",
+    "stem": "一位40歲男性病患，沒有任何心臟的病史，因為中風而住院。經詢問病史，過去一年躺臥呈某特定姿勢時，會伴隨眼前發黑的徵兆（black out）、倦怠、體重減輕等狀況；身體診察發現心臟聽診於心尖部舒張中期有一低頻心音，輕微杵狀指（digital clubbing）；心臟超音波檢查如附圖。圖①為心室收縮期呈像，圖②為心室舒張期呈像 （RA=右心房；RV=右心室；LV=左心室），經診斷為左心房黏液瘤（left atrialmyxoma），下列敘述何者正確？",
+    "options": {
+      "A": "男女的比例約為3比1",
+      "B": "因復發率高，開刀後需要肝素（heparin）或新型抗凝血劑（NOAC）治療以預防中風",
+      "C": "大部分發生在右心房，左心房次之，其他也可能在心室且常是多發性",
+      "D": "其腫瘤表面纖細（fine）、呈現絨毛（villous）、凝膠（gelatinous）狀、易碎，一旦脫落就會產生栓塞"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_1_10",
+    "category": "心臟內科",
+    "stem": "一位80歲男性，過去有高血壓、高血脂及心肌梗塞病史。最近一次抽血腎功能正常（CCr = 100 mL/min）今日因喘至門診，十二導程心電圖如附圖所示。為降低病患之後罹患缺血性中風之風險，下列對於給與藥物治療之敘述，何者正確？",
+    "options": {
+      "A": "病患不需要接受抗凝血劑治療",
+      "B": "若選擇dabigatran，當有緊急出血情況時，有抗凝血藥物反轉劑（reversal agent）可使用",
+      "C": "若病患希望選擇一天僅需吃一次的藥物，應選擇apixaban",
+      "D": "若病患出血風險高，根據目前心房顫動治療指引，可選擇aspirin替代"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_1_11",
+    "category": "心臟內科",
+    "stem": "關於心雜音的描述，下列何者錯誤？",
+    "options": {
+      "A": "Valsalva maneuver會使主動脈狹窄（aortic stenosis）的心雜音變短和變弱",
+      "B": "在吐氣時三尖瓣回流（tricuspid regurgitation）的心雜音會變大聲",
+      "C": "在站立時二尖瓣回流（mitral regurgitation）的心雜音會變小聲",
+      "D": "在蹲著時肥厚型阻塞性心肌症（hypertrophic obstructive cardiomyopathy）的心雜音會變小聲"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_1_12",
+    "category": "心臟內科",
+    "stem": "關於肥厚型心肌症（hypertrophic cardiomyopathy）的描述，下列何者正確？",
+    "options": {
+      "A": "演變成擴大型心肌症的比率小於10%",
+      "B": "大部分病人在出生時即有左心室肥厚的現象",
+      "C": "若有左心室出口阻塞，藥物處理原則是擴張血管和降低心率",
+      "D": "運動時血壓增加30 mmHg是猝死的危險因子"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "113_1_13",
+    "category": "心臟內科",
+    "stem": "下列有關血壓測量的敘述，何者錯誤？",
+    "options": {
+      "A": "小腿與上臂的血壓差增加常見於重度主動脈閉鎖不全（aortic regurgitation）或嚴重下肢周邊血管疾病",
+      "B": "小腿的收縮壓通常比上臂的收縮壓高20 mmHg",
+      "C": "血壓袖帶的長度和寬度應分別為手臂圓周的80%和40%。使用不合適的小袖帶，會導致對實際血壓值明顯低估",
+      "D": "兩側上臂的收縮血壓差距，正常應在10 mmHg以內"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_1_14",
+    "category": "心臟內科",
+    "stem": "有關心室性心律不整（ventricular arrhythmia）與心臟猝死（sudden cardiac death）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "心室性心律不整的診斷是通過在心電圖上記錄心律不整，或通過植入的心律設備（如：心律調節器或植入性心內去顫器﹝Implanted Cardioversion Defibrillator, ICD﹞）或在電生理檢查過程中引發的心律不整來確定的",
+      "B": "如果可能，面對心臟猝死的病患應獲取心律不整的十二導程心電圖，並研究潛在起源部位和潛在可能心臟病",
+      "C": "猝死的發生多見於心肌缺氧性心室顫動（ventricular fibrillation）。當有植入性心內去顫器（Implanted Cardioversion Defibrillator, ICD）啟動而迅速終止心室心律不整時，代表病患在往後的死亡率與心衰竭的風險均大幅減少",
+      "D": "對於心室性心律不整的病患，其初始治療以穩定病患的血流動力學為處理目標"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_2_1",
+    "category": "心臟內科",
+    "stem": "葡萄柚汁（grapefruit juice）會抑制代謝酵素cytochrome P450（CYP）3A的活性而使某些藥物的血中濃度增高，下列何者主要的代謝途徑不是經由CYP3A？",
+    "options": {
+      "A": "pravastatin",
+      "B": "lovastatin",
+      "C": "simvastatin",
+      "D": "atorvastatin"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "113_2_6",
+    "category": "心臟內科",
+    "stem": "下列有關急性心肌梗塞的敘述，何者正確？",
+    "options": {
+      "A": "ST段上升心肌梗塞（STEMI）之致病冠狀動脈血管病灶，通常都是慢性、無血栓存在之高度狹窄，平時血流供應就不足，在心肌需氧量急遽增加、例如激烈運動時，無法維持心肌細胞需求而造成壞死",
+      "B": "ST段上升心肌梗塞（STEMI）若不及時恢復心肌灌流，所有病人心電圖最後都會出現Q波",
+      "C": "第一型、自發性心肌梗塞，連續心肌酶cardiac troponin監測，不會有升高至大於99百分位（99th percentile）參考值上限（upper reference limit）",
+      "D": "第五型心肌梗塞，連續心肌酶cardiac troponin監測，應該至少有一次升高至大於99百分位（99th percentile）參考值上限（upper reference limit）之十倍"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_2_7",
+    "category": "心臟內科",
+    "stem": "下列有關成人先天性心臟病之敘述，何者正確？",
+    "options": {
+      "A": "心房中隔缺損（atrial septal defect, ASD）為常見之成人先天性心臟病之一，因存在「左往右分流（left-to-right shunt）」，因此右心室擴大，且可能產生肺動脈高壓",
+      "B": "Ebstein氏異常（Ebstein anomaly）患者，因先天二尖瓣環較正常人為低而更靠近心尖部，因此常有反流現象造成左心房擴大",
+      "C": "部分肺靜脈回流異常（partial anomalous pulmonary venous return, PAPVR）因終究會造成肺動脈高壓，因此經確診後應儘早進行外科手術治療",
+      "D": "心室中隔缺損（ventricular septal defect, VSD）因存在高壓力差，所以無論缺損大小，很少會自行關閉"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "113_2_8",
+    "category": "心臟內科",
+    "stem": "下列對於診斷冠狀動脈心臟病的工具的適切性（appropriateness），何者敘述錯誤？",
+    "options": {
+      "A": "對於冠狀動脈心臟病接受過支架治療的病人，無論有無症狀，每年定期做壓力摧迫性（stress）測試並非必要",
+      "B": "冠狀動脈心臟病低風險但有典型胸痛症狀的病人，也可考慮運動心電圖壓力摧迫性（stress）測試以評估風險",
+      "C": "冠狀動脈心臟病高風險，在典型胸痛症狀的病人，且無法運動或是無法接受壓力摧迫性（stress）測試時，考慮做心導管檢查是適切的",
+      "D": "具有典型胸痛症狀的病人，無論冠狀動脈心臟病風險高低，電腦斷層鈣化指數都是最合適的檢查工具"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_2_9",
+    "category": "心臟內科",
+    "stem": "下列何者最不可能造成房室傳導阻斷（atrioventricular block）？",
+    "options": {
+      "A": "carotid sinus hypersensitivity",
+      "B": "Lyme disease",
+      "C": "myocardial infarction",
+      "D": "cat scratch disease"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_2_10",
+    "category": "心臟內科",
+    "stem": "一位30歲男性，過去有法洛式四重症（tetralogy of Fallot）病史並開過刀。早上突然因為胸悶至急診，十二導程心電圖顯示 left bundle branch block（LBBB）pattern monomorphic ventriculartachycardia（VT）。下列何者最有可能為此患者VT出處（origin）？",
+    "options": {
+      "A": "right atrium",
+      "B": "right ventricle",
+      "C": "left atrium",
+      "D": "left ventricle"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_2_11",
+    "category": "心臟內科",
+    "stem": "關於瓣膜性心臟病的描述，下列何者錯誤？",
+    "options": {
+      "A": "主動脈瓣二葉畸形（bicuspid aortic valve）伴隨的主動脈病變，主要是發生在主動脈弓",
+      "B": "隨著人口的老化，感染性心內膜炎的發生率升高",
+      "C": "成人發生的主動脈瓣狹窄，主要是因主動脈瓣退化性鈣化造成的",
+      "D": "傳統的動脈粥狀硬化危險因子，常會合併出現在鈣化性主動脈瓣狹窄的進展過程中"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "113_2_12",
+    "category": "心臟內科",
+    "stem": "關於心包膜疾病的描述，下列何者正確？",
+    "options": {
+      "A": "心包填塞（cardiac tamponade）的三個主要特徵（Beck's triad）為hypotension、pericardialfriction rub和jugular venous distention",
+      "B": "心包膜積水在臨床優先考慮的診斷工具為胸部X光",
+      "C": "限制性心肌病（restrictive cardiomyopathy）經常合併有束縮性心包膜炎（constrictivepericarditis）",
+      "D": "心包膜積水的病人一旦發現有心包填塞（cardiac tamponade），此時應緊急施行心包腔穿刺（pericardiocentesis）"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_2_13",
+    "category": "心臟內科",
+    "stem": "有關心衰竭的敘述，下列何者錯誤？",
+    "options": {
+      "A": "冠狀動脈疾病通常被認為是心衰竭的重要原因",
+      "B": "心衰竭在家族裡可有群聚效應。例如，親代心衰竭與其後代的左心室質量、心臟大小、收縮功能異常的比例有關",
+      "C": "長期嚴重高血壓也是造成心衰竭的原因之一",
+      "D": "左心室射出分率正常的心衰竭（heart failure with preserved ejection fraction）的病人與左心室射出分率降低的心衰竭（heart failure with reduced ejection fraction）的病人其病因存在相當大的重疊，以目前藥物治療臨床試驗對兩者的效果看起來是相同的"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_2_14",
+    "category": "心臟內科",
+    "stem": "有關心臟核子醫學心肌灌注掃描SPECT的描述，何者錯誤？",
+    "options": {
+      "A": "壓力測試核子醫學心肌灌注掃描（SPECT）常用於冠狀動脈疾病評估",
+      "B": "附圖（左）核子醫學心肌灌注掃描（SPECT）呈現可逆的心肌灌注缺損，暗示心肌有缺血",
+      "C": "附圖（右）核子醫學心肌灌注掃描（SPECT）則呈現固定的灌注缺損，通常反映陳舊性心肌梗塞",
+      "D": "核子醫學心肌灌注掃描（SPECT）與電腦斷層冠狀動脈造影相比，對於冠狀動脈疾病的診斷更加敏感，尤其是在多支血管疾病的情況下"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "114_1_5",
+    "category": "心臟內科",
+    "stem": "有關急性主動脈剝離（acute aortic dissection）之描述，下列何者最不適當？",
+    "options": {
+      "A": "發生於後背肩胛骨間的撕裂性疼痛，比單純前胸的撕裂性疼痛更危險",
+      "B": "可能出現上肢單側脈搏消失",
+      "C": "若出現頸靜脈怒張（jugular vein engorgement），需考慮心包膜填塞",
+      "D": "可能同時伴有急性心肌梗塞"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "114_1_6",
+    "category": "心臟內科",
+    "stem": "利用介入心導管技術、不開刀處置結構性心臟病，為近年來重要醫學進展之一，下列相關敘述何者錯誤？",
+    "options": {
+      "A": "經由阻塞器（occluder）置放，可以有效關閉心房中隔缺損（atrial septal defect, ASD）、開放性卵圓窗（patent foramen ovale, PFO）、或開放性動脈導管（patent ductus arteriosus,PDA）等疾病",
+      "B": "氣球瓣膜擴張術可用於治療風濕性二尖瓣狹窄，目前常用術式中，氣球導管是經由股靜脈送入",
+      "C": "經導管主動脈瓣置換（transcatheter aortic valve replacement, TAVR）可治療嚴重主動脈瓣狹窄，適合用於高度及中度外科手術風險之病患",
+      "D": "經導管二尖瓣緣對緣（edge-to-edge）修補術可治療嚴重二尖瓣閉鎖不全，特別適合用於因腱索斷裂（chordae rupture）造成瓣膜逆流之病患"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "114_1_7",
+    "category": "心臟內科",
+    "stem": "關於核醫心肌灌流造影用於已知冠狀動脈疾病病人的臨床應用，下列敘述何者錯誤？",
+    "options": {
+      "A": "接受冠狀動脈繞道術後5年內，在病人無症狀的情形下，常規的心肌灌流造影評估是必要的檢查項目",
+      "B": "接受經皮冠狀動脈介入治療（PCI）後2年內，在病人無症狀的情形下，常規的心肌灌流造影評估並非必要的常規檢查項目",
+      "C": "在接受冠狀動脈繞道術後仍有症狀的病人，核醫心肌灌流造影可用以評估術後血管的狹窄造成心肌缺血之嚴重程度",
+      "D": "經皮冠狀動脈介入治療（PCI）後的早期，核醫心肌灌流造影仍可能觀察到輕微可逆性的心肌灌流缺損"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "114_1_8",
+    "category": "心臟內科",
+    "stem": "47歲男性，曾頭暈昏倒多次，心電圖檢查顯示多發性心室期外收縮。磁振造影發現左心室較大，下壁及下外側壁收縮功能較差，顯影劑注射後，磁振造影出現顯影劑延遲增強（late gadoliniumenhancement, LGE），如附圖所示。下列敘述何者錯誤？",
+    "options": {
+      "A": "此病患的LGE位於心壁的中外層（mid myocardial, epicardial region），是典型浸潤型疾病（infiltration）的特殊表現，如肉瘤病（sarcoidosis），在此切片檢查（biopsy）可增加陽性率",
+      "B": "如果是擴大型心肌病變的LGE多位於心壁中間（midwall），呈現斑塊（patchy）或是細線狀（linear），最常見位置是basal septum",
+      "C": "心肌梗塞病人的LGE代表心肌結疤處，多寡與心臟功能及預後有關，一般由心內膜開始（subendocardial region）",
+      "D": "心肌水腫時在MRI的T1訊號會增加，與LGE分別代表不同的組織變化，此與疾病的不同時期有關"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "114_1_9",
+    "category": "心臟內科",
+    "stem": "心臟動作電位（action potential）由許多離子通道（ion channel）調控。下列何種離子不直接參與心臟動作電位的產生與維持？",
+    "options": {
+      "A": "鈉離子（Na+）",
+      "B": "鉀離子（K+）",
+      "C": "鈣離子（Ca2+）",
+      "D": "鎂離子（Mg2+）"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "114_1_10",
+    "category": "心臟內科",
+    "stem": "下列何種藥物不會造成心電圖 QT interval prolong？",
+    "options": {
+      "A": "quinidine",
+      "B": "digoxin",
+      "C": "ibutilide",
+      "D": "sotalol"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "114_1_11",
+    "category": "心臟內科",
+    "stem": "下列何者不是genetic arrhythmia syndrome？",
+    "options": {
+      "A": "long QT syndrome",
+      "B": "Brugada syndrome",
+      "C": "catecholaminergic polymorphic ventricular tachycardia（VT）",
+      "D": "ventricular tachycardia（VT）with structural heart disease"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "114_1_12",
+    "category": "心臟內科",
+    "stem": "關於heart failure with preserved ejection fraction的敘述，下列何者正確？",
+    "options": {
+      "A": "常見於急性心肌梗塞的急性期",
+      "B": "常見於甲狀腺亢進早期的病人",
+      "C": "常見於有多年高血壓病史的老年人",
+      "D": "常見於病毒性心肌炎的急性期"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "114_1_13",
+    "category": "心臟內科",
+    "stem": "下列關於心房顫動（atrial fibrillation）臨床上使用抗血栓治療之敘述，何者錯誤？",
+    "options": {
+      "A": "atrial fibrillation在老人較多，80歲以上約有10%",
+      "B": "發生atrial fibrillation的危險因素包括高血壓、糖尿病、心臟病、肥胖症和睡眠呼吸暫停",
+      "C": "atrial fibrillation使中風的風險增加約5倍，據估計占所有中風的病人約25%",
+      "D": "如果atrial fibrillation的持續時間超過48小時或未知，但中風風險較低（CHA2DS2-VASc為0或1）的病人中，在未給抗凝血劑的狀況下，將心臟電擊回正常心律應是安全而被建議的"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "114_1_14",
+    "category": "心臟內科",
+    "stem": "有關心衰竭（heart failure, HF）治療同時考慮其他共病時，下列敘述何者錯誤？",
+    "options": {
+      "A": "雖然有些治療糖尿病的藥物與增加HF的風險有關，但是使用第二型鈉依賴型葡萄糖共同運輸蛋白抑制劑（SGLT2 inhibitor，如empagliflozin）降低血糖被證明可降低糖尿病患者HF的風險",
+      "B": "較高的身體活動量與較低的HF發生風險有關",
+      "C": "在中年人和老年人中，吸菸是HF的風險因素之一",
+      "D": "在Framingham心臟研究中，心肌梗塞病史、右束支傳導阻滯（RBBB）、無症狀左心室收縮功能障礙、總血紅蛋白濃度升高都與HF風險增加顯著相關"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "114_1_17",
+    "category": "心臟內科",
+    "stem": "80歲的林先生被送來急診室，主訴嚴重且無法緩解的腹痛一天，由身體診察發現體溫為攝氐36.5度，血壓 95/58 mmHg，心跳105 bpm。心音快且不規則，兩側肺部聽診正常，腹部脹且腸音較慢，但腹部柔軟，並沒有明顯的腹膜炎徵象，其他身體診察大致正常。他平常有高血壓及高血脂且用藥控制中，最近因為胸悶有接受過心導管檢查。下列針對他的疾病的敘述及治療方式何者錯誤？",
+    "options": {
+      "A": "由於年齡大且有心律不整，最近有接受過心導管檢查，需考慮缺血性腸炎",
+      "B": "血壓降低及有血管粥狀硬化的風險，是疾病的加重因子，需要儘速給與血管收縮劑以提升血壓",
+      "C": "可以檢查全血球計數、血液生化檢查包括胰澱粉酶及胰脂酶、凝血功能、乳酸、動脈血液氣體分析、心肌酵素及心電圖等",
+      "D": "可以利用電腦斷層合併血管攝影來協助診斷，治療上應給與針對革蘭氏陰性菌及厭氧菌的抗生素。若有腹膜炎的徵象時，需要考慮剖腹探查"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "114_1_51",
+    "category": "心臟內科",
+    "stem": "下列何者所導致的休克狀態，周邊血管阻抗（systemic vascular resistance）的改變與其他三者明顯不同？",
+    "options": {
+      "A": "進行電腦斷層掃描時注射顯影劑發生過敏",
+      "B": "病毒性心肌炎",
+      "C": "嚴重脊髓損傷",
+      "D": "金黃色葡萄球菌敗血症"
+    },
+    "answer": "B"
+  }
+]

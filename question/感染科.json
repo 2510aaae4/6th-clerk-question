@@ -1,0 +1,698 @@
+[
+  {
+    "id": "110_1_20",
+    "category": "感染科",
+    "stem": "幽門螺旋桿菌（Helicobacter pylori）感染不會造成下列何者疾病？",
+    "options": {
+      "A": "消化性潰瘍",
+      "B": "胃食道逆流性疾病",
+      "C": "胃腺癌",
+      "D": "胃黏膜相關淋巴組織淋巴癌"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_1_57",
+    "category": "感染科",
+    "stem": "一位26歲男同性戀，出現4週左右發燒、腹瀉、食慾不振、肛門潰瘍和體重減輕，身體診察發現口腔有念珠菌感染，血液培養長出nontyphoidal Salmonella，此時首要考慮下列何種疾病？",
+    "options": {
+      "A": "後天免疫不全症候群",
+      "B": "第一型胰島素依賴型糖尿病",
+      "C": "急性骨髓性白血病",
+      "D": "多發性骨髓瘤"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "110_1_60",
+    "category": "感染科",
+    "stem": "下列何者是普通感冒最常見之致病病毒？",
+    "options": {
+      "A": "rhinoviruses",
+      "B": "parainfluenza viruses",
+      "C": "coxsackievirus A",
+      "D": "coxsackievirus B"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "110_2_1",
+    "category": "感染科",
+    "stem": "82歲的李奶奶最近有些小感冒，醫師開了一些藥物給她吃。從3天前起，她開始活動力下降，胃口不好，昨天開始發燒，今天早上家人發現無法叫她起床，人不太清醒，於是趕快送到急診。對於本病人之初始評估（initial evaluation），下列那一個項目最不需要？",
+    "options": {
+      "A": "詳細的病史查詢，包括含用藥史",
+      "B": "腰椎穿刺",
+      "C": "身體檢查應包括神經學檢查",
+      "D": "血液檢驗包括全血球計數、電解質、肝功能、腎功能檢查"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_2_55",
+    "category": "感染科",
+    "stem": "使用下列何種抗生素治療時應避免與牛奶製品、含鎂或鋁制酸劑合用，以免影響吸收？",
+    "options": {
+      "A": "cephalexin + erythromycin",
+      "B": "tetracycline + ciprofloxacin",
+      "C": "ampicillin + clarithromycin",
+      "D": "dicloxacillin + cefuroxime"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_2_56",
+    "category": "感染科",
+    "stem": "下列關於Nesseria meningitidis的敘述，何者正確？",
+    "options": {
+      "A": "屬革蘭氏陰性雙球菌",
+      "B": "屬革蘭氏陽性雙球菌",
+      "C": "沒有移生（colonization）狀態，一定會引起宿主嚴重的侵襲性感染",
+      "D": "現有的疫苗可涵蓋所有的血清型"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "110_2_57",
+    "category": "感染科",
+    "stem": "關於myositis或pyomyositis的敘述，下列何者錯誤？",
+    "options": {
+      "A": "influenza virus與coxsackievirus B可造成myositis",
+      "B": "細菌引起的myositis通常會有劇烈的肌肉疼痛症狀",
+      "C": "寄生蟲不會引起myositis",
+      "D": "Staphylococcus是pyomyositis常見的致病菌"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "110_2_58",
+    "category": "感染科",
+    "stem": "下列關於分枝桿菌（Mycobacterium species）的敘述，何者錯誤？",
+    "options": {
+      "A": "M. tuberculosis是由開放性結核病人藉由空氣傳播給他人",
+      "B": "nontuberculous mycobacteria（NTM）主要是由病人藉由空氣傳播給他人",
+      "C": "NTM可以是移生狀態（colonization），也可以引起肺炎",
+      "D": "NTM可由環境中培養出來"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_2_59",
+    "category": "感染科",
+    "stem": "外科重症加護病房病人有甲氧西林抗藥金黃色葡萄球菌（methicillin-resistant Staphylococcus aureus, MRSA）引起的群聚感染。管制此次MRSA傳播最有效的手段為何？",
+    "options": {
+      "A": "採取嚴格的感染管制措施，且以頭孢菌素（cephalosporin）治療感染的病人",
+      "B": "採取嚴格的感染管制措施，且以高劑量苯唑西林（oxacillin）治療感染的病人",
+      "C": "採取嚴格的感染管制措施，且以萬古黴素（vancomycin）治療感染的病人",
+      "D": "感染管制措施是無效的，所有帶菌（包括感染及移生）的病人一律使用有效的抗生素以去除MRSA"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "110_2_60",
+    "category": "感染科",
+    "stem": "40歲男性人類免疫不全病毒（HIV）感染者，體重65公斤，服用抗反轉錄病毒治療2年，服用組合為 lopinavir/ritonavir（蛋白酶抑制劑）＋tenofovir/emtricitabine（核苷反轉錄酶抑制劑），CD4+ T細胞數600cells/μL，HIV病毒量＜20 copies/mL，潛伏結核（latent tuberculosis）檢查為陽性，若要接受潛伏結核治療，且不改變抗反轉錄病毒治療，則下列何種處置最為恰當？",
+    "options": {
+      "A": "每天isoniazid 300 mg，治療9個月",
+      "B": "每天isoniazid 300 mg＋rifampin 600 mg，治療3個月",
+      "C": "每天rifampin 600 mg＋pyrazinamide 1,500 mg，治療2個月",
+      "D": "每週isoniazid 900 mg＋rifapentine 900 mg，治療12週"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "110_2_61",
+    "category": "感染科",
+    "stem": "50歲男性病人有慢性C型肝炎，近2日咳嗽有濃痰，今天凌晨出現發燒和寒顫。上午10點至急診就醫時意識清醒但是呼吸急促，體溫39.0℃，呼吸每分鐘30次，血壓116/86 mmHg，身體診察並未聽見心雜音。胸部X光顯示右側下肺葉浸潤增加。痰液經革蘭氏染色（Gram's stain）結果如圖示。經使用呼吸器和ceftriaxone，病人在隔日凌晨仍出現持續呼吸衰竭，併發休克後死亡。最可能的致病菌為何?",
+    "options": {
+      "A": "Staphylococcus aureus",
+      "B": "Streptococcus pneumoniae",
+      "C": "Listeria monocytogenes",
+      "D": "Streptococcus pyogenes"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_1_59",
+    "category": "感染科",
+    "stem": "醫療人員在照顧不同病人之間執行手部衛生，下列何種情境不適合單獨使用酒精性乾洗手液？①手部有明顯髒污（visibly soiled） ②照護困難梭狀桿菌（C. difficile）患者後 ③要置放導尿管之前 ④照護新型冠狀病毒患者（COVID-19）之前",
+    "options": {
+      "A": "僅①②",
+      "B": "僅②③",
+      "C": "僅②④",
+      "D": "①②③④"
+    },
+    "answer": "A或B（均給分）"
+  },
+  {
+    "id": "111_1_61",
+    "category": "感染科",
+    "stem": "關於初次發生、未曾使用過抗生素預防或治療的腹膜炎，其致病原與抗生素治療，下列敘述何者錯誤？",
+    "options": {
+      "A": "肝硬化病人發生原發性細菌性腹膜炎（primary bacterial peritonitis）的經驗性抗生素治療（empirical antibiotictherapy）選擇，原則上不需要考慮針對厭氧菌（anaerobes）",
+      "B": "肝硬化病人發生原發性細菌性腹膜炎（primary bacterial peritonitis）的致病原中，最常見是革蘭氏陽性菌（Gram-positive bacteria）",
+      "C": "次發性細菌性腹膜炎（secondary bacterial peritonitis）的致病原，常見的是腸道革蘭氏陰性菌（enteric Gram-negative bacteria）和厭氧菌（anaerobes）",
+      "D": "次發性細菌性腹膜炎（secondary bacterial peritonitis）的治療除了抗生素以外，也需要開刀介入"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_1_62",
+    "category": "感染科",
+    "stem": "28歲確診人類免疫不全病毒（HIV）感染男性病人有3週漸進嚴重的體重減輕、發燒、乾咳與氣促（dyspnea），入院檢查發現臉部脂漏性皮膚炎（seborrheic dermatitis）、口腔念珠菌感染（oralcandidiasis）、嘴唇粘膜發紺（cyanosis），在呼吸室內空氣（ambient air）時血氧飽和度（oxygen saturation）是86%。胸部X光和電腦斷層顯示雙側嚴重間質性肺炎（interstitial pneumonitis），並未發現肋膜積液（pleuraleffusion）。針對這位病人的間質性肺炎，下列病因與處置的敘述，何者錯誤？",
+    "options": {
+      "A": "此臨床肺炎病徵最常見的診斷是肺囊蟲肺炎（Pneumocystis jirovecii pneumonia）",
+      "B": "針對此臨床肺炎病徵最常見的致病原，trimethoprim-sulfamethoxazole是優先建議的治療",
+      "C": "針對此肺炎臨床病徵最常見的致病原，此時病人的輔助治療並不適合加上類固醇（steroids）",
+      "D": "針對此肺炎臨床病徵最常見的致病原，在治療療程結束後，還需要續用低劑量原抗生素以預防再發"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_1_63",
+    "category": "感染科",
+    "stem": "皮膚軟組織感染之經驗性抗微生物製劑選擇，若過去無藥物過敏記錄，且沒有其他慢性疾病，則下述各診斷，建議的第一線治療何者最不恰當？",
+    "options": {
+      "A": "狗咬傷 — amoxicillin-clavulanate或ampicillin-sulbactam",
+      "B": "帶狀疱疹（免疫力正常，大於50歲）— acyclovir",
+      "C": "蜂窩性組織炎（staphylococcal or streptococcal）— vancomycin",
+      "D": "壞死性筋膜炎 — 能同時治療嗜氧菌及厭氧菌的抗生素組合"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_1_64",
+    "category": "感染科",
+    "stem": "下列社區型肺炎診斷工具的說明，何者錯誤？",
+    "options": {
+      "A": "痰液抹片有利於致病菌的診斷。而品質好的抹片標準是每個低倍視野下有＞10個嗜中性白血球（neutrophil）及＞10個上皮細胞（squamous epithelial cells）",
+      "B": "若是需住院的社區型肺炎，一般而言血液培養的陽性率約為5～14%",
+      "C": "可用尿液檢測Legionella pneumophila（serogroup 1）",
+      "D": "可用尿液檢測pneumococcal感染"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "111_1_65",
+    "category": "感染科",
+    "stem": "引起皮膚軟組織感染的病原菌，可能有不同接觸史或表現形態，下列何者錯誤？",
+    "options": {
+      "A": "Pseudomonas — hot-tub folliculitis",
+      "B": "Streptococcus pyogenes — lymphangitis",
+      "C": "Treponema pallidum — 露珠狀水泡（dewdrop vesicle）",
+      "D": "herpes simplex virus-1（HSV-1）— 唇邊水泡"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_2_60",
+    "category": "感染科",
+    "stem": "Extended-spectrum β-lactamase（ESBL）可以水解下列那些β-lactam 類抗生素，而使其失效？ 1.cefotaxime（第三代頭孢子素） 2.aztreonam（monobactam） 3.ertapenem（carbapenem）",
+    "options": {
+      "A": "僅12",
+      "B": "僅13",
+      "C": "僅23",
+      "D": "123"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "111_2_61",
+    "category": "感染科",
+    "stem": "下列有關 Q 熱疾病（Q fever）的敘述，何者正確？",
+    "options": {
+      "A": "相同的暴露風險下，小於 15 歲的年輕人相對於年長者有症狀的感染是較常見的",
+      "B": "人傳人是常見的傳播途徑",
+      "C": "急性感染常表現為心內膜炎",
+      "D": "宿主可經由吸入霧化空氣（aerosol）中 Q 熱細菌而感染"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "111_2_62",
+    "category": "感染科",
+    "stem": "針對細菌性腦膜炎病人的診斷，下列有關腦脊髓液（CSF）檢查之敘述何者錯誤？",
+    "options": {
+      "A": "超過一半病人的 CSF 會有 polymorphonuclear（PMN）白血球增加至＞100 cells/μL 現象",
+      "B": "超過一半病人的 CSF/serum glucose 比值＜0.4",
+      "C": "超過一半病人的 CSF 細菌培養會是陽性",
+      "D": "病人 CSF 進行 Gram's stain 檢查幫助不大，只有大約 20%可以看到致病原"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "111_2_63",
+    "category": "感染科",
+    "stem": "48 歲男性二週來頭隱隱的痛與漸進步履不穩，入院身體檢查沒有發燒，但是發現口腔念珠菌感染（oralcandidiasis）和困難維持軀幹平衡，胸部 X 光並無異常。電腦斷層發現右側一個 3.5 cm 小腦腫瘤併有病灶周圍水腫（perifocal edema）。血液人類免疫不全病毒（HIV）西方墨點（Western blot）呈現陽性反應，血液 CD4 數值是 48 cells/mm3，血漿 HIV 病毒量是 432,000 copies/ml。血清弓蟲（Toxoplasma gondii）抗體呈陽性反應，隱球菌抗原（cryptococcal antigen）呈現陰性反應。針對這些病徵的病因與處置，下列敘述何者錯誤？",
+    "options": {
+      "A": "此臨床腦部病徵最常見的病因是原發性中樞神經淋巴瘤（primary central nervous system lymphoma），預後不好，開顱手術（craniotomy）有風險應該避免執行。同時應儘快給與化學治療（chemotherapy）",
+      "B": "先以抗弓蟲腦炎治療一到二週後，再追蹤腦部影像學變化。如果沒有改善，需要開顱手術確認診斷",
+      "C": "病人已經符合愛滋病（AIDS）診斷，在排除隱球菌腦膜腦炎（cryptococcal meningoencephalitis）和結核腦膜腦炎（tuberculous meningoencephalitis）後，儘快投與抗病毒組合治療（combination antiretroviral therapy）",
+      "D": "這位病人需要服用 trimethoprim-sulfamethoxazole 預防肺囊蟲肺炎（Pneumocystis jirovecii pneumonia）"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "111_2_64",
+    "category": "感染科",
+    "stem": "20 歲男性病人，自從兒童時被診斷有 hypogammaglobulinemia，需要定期輸注免疫球蛋白（immunoglobulin）。近期，與同學前往山區露營，返家 5 天後出現日趨嚴重的腹瀉、腹脹、噁心、嘔吐和體重降低，服用止瀉藥和 ciprofloxacin，均不見改善。整個病程並沒有發燒。糞便檢查並未出現潛血（occult blood）反應，細菌學培養也沒有長出腸道致病性細菌。糞便顯微鏡檢 400 倍下發現有移動的寄生原蟲。下列敘述何者正確？",
+    "options": {
+      "A": "最有可能的致病原是 Giardia lamblia",
+      "B": "針對此感染最好的治療是 azithromycin",
+      "C": "預防此感染原的最好方法是飲用經氯消毒處理的水",
+      "D": "治癒後很常出現 Guillain-Barré syndrome 併發症"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "111_2_65",
+    "category": "感染科",
+    "stem": "80 歲男性因發燒一週，合併下背痛來到診間就診，外院診斷為腰椎 L1～L2 的骨髓炎，則下列敘述何者錯誤？",
+    "options": {
+      "A": "成人脊椎骨髓炎症狀並不典型，較常見的症狀為發燒及局部疼痛",
+      "B": "腰椎不是成人的急性脊椎骨髓炎最常見的感染部位",
+      "C": "最常見的致病原為格蘭氏陽性菌",
+      "D": "magnetic resonance imaging（MRI）是脊椎骨髓炎診斷的黃金標準，若不適合使用 MRI，則考慮使用 positronemisson tomography（PET）"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "112_1_59",
+    "category": "感染科",
+    "stem": "下列有關HIV初次感染（primary infection）引起acute HIV syndrome之敘述，何者錯誤？",
+    "options": {
+      "A": "大多數HIV初次感染之病人於急性期並無症狀，只有小於10%的病人會出現急性症狀",
+      "B": "急性症狀通常在感染後3～6週時出現",
+      "C": "此時病人會有病毒血症（viremia），血中會有很高量之HIV病毒",
+      "D": "出現acute HIV syndrome後若未給與抗病毒藥物治療，症狀也會自然消失"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "112_1_60",
+    "category": "感染科",
+    "stem": "關於醫療人員手部衛生（濕洗手或以酒精乾洗手）時機之敘述，下列何者錯誤？①醫師查房時，手未碰觸病人，僅碰觸病人床欄，離開病室不用洗手 ②輸送小組人員至病房接病人至檢查室、協助病人從床上移至輪椅，不用洗手 ③加護病房護理人員倒第一床病人的尿壺時因有戴手套且未碰到病人床，再倒第二床之間都不用洗手 ④護理人員在準備藥物或是協助病人清潔身體前不用洗手 ⑤呼吸照護病房護理人員準備替病人導尿，將圍簾拉起，乾洗手後再幫病人導尿",
+    "options": {
+      "A": "僅①②③④",
+      "B": "僅②③⑤",
+      "C": "僅①④⑤",
+      "D": "①②③④⑤"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "112_1_61",
+    "category": "感染科",
+    "stem": "診斷感染性心內膜炎所使用之Duke criteria中，下列何者屬於major criteria？①兩套blood culture培養出典型引起感染性心內膜炎的細菌，其中包括HACEK Group的細菌 ②心臟超音波檢查見到心臟瓣膜上有oscillatingmass ③體溫超過38℃ ④出現Janeway lesion或Osler's node",
+    "options": {
+      "A": "僅①②",
+      "B": "僅③④",
+      "C": "僅①②④",
+      "D": "①②③④"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "112_1_62",
+    "category": "感染科",
+    "stem": "下列有關流感之敘述，何者錯誤？",
+    "options": {
+      "A": "流行性感冒病毒屬於RNA病毒",
+      "B": "主要傳播方式是透過飛沫傳染與接觸傳染",
+      "C": "免疫缺損病人及兒童可傳染期較成人病例為長",
+      "D": "流感快篩陰性，即可排除流感"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_1_63",
+    "category": "感染科",
+    "stem": "下列何種菌種不屬於Mycobacterium tuberculosis complex？",
+    "options": {
+      "A": "M. africanum",
+      "B": "M. bovis",
+      "C": "M. chelonae",
+      "D": "M. microti"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_1_64",
+    "category": "感染科",
+    "stem": "40歲男性，有肝硬化病史多年。夏天時在高雄旗津海邊釣魚被魚刺刺傷左腳，隔天因左腳紅腫熱痛被送至急診，左腳發現有紫紅色水泡，且有休克現象，這位病人最可能之致病菌為何？",
+    "options": {
+      "A": "Staphylococcus aureus",
+      "B": "Streptococcus pyogenes",
+      "C": "Pseudomonas aeruginosa",
+      "D": "Vibrio vulnificus"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_2_34",
+    "category": "感染科",
+    "stem": "病人出現下列何種感染時，最應考慮是否有補體系統的缺損（complement deficiencies）？",
+    "options": {
+      "A": "反覆分枝桿菌（Mycobacteria）感染",
+      "B": "反覆奈瑟氏菌（Neisseria）感染",
+      "C": "反覆帶狀疱疹（herpes zoster）感染",
+      "D": "反覆葡萄球菌（Staphylococcus）感染"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "112_2_59",
+    "category": "感染科",
+    "stem": "有關中心靜脈導管相關血流感染之預防措施組合（bundle），包括下列那些項目：①參與導管及置放照護人員需接受教育訓練  ②中心導管置入時使用最大無菌面防護（maximal barrier precaution） ③皮膚消毒使用含有chlorhexidine的抗菌液 ④常規每兩週更換中心靜脈導管",
+    "options": {
+      "A": "①②③④",
+      "B": "僅①②③",
+      "C": "僅③④",
+      "D": "僅①②④"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "112_2_60",
+    "category": "感染科",
+    "stem": "血液幹細胞移植後使用一年trimethoprim-sulfamethoxazole（TMP-SMX）預防，可以減少的致病原感染，下列何者最不適當？",
+    "options": {
+      "A": "Listeria monocytogenes",
+      "B": "Nocardia spp.",
+      "C": "Streptococcus pneumoniae",
+      "D": "Neisseria meningitidis"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_2_61",
+    "category": "感染科",
+    "stem": "對於年紀3個月以下嬰兒、55歲以上民眾及細胞媒介免疫（cell-mediated immunity）缺損病人感染細菌性腦膜炎時，要考慮針對革蘭氏陽性桿菌Listeria monocytogenes的治療，應以下列何種藥物為首選？",
+    "options": {
+      "A": "ceftriaxone",
+      "B": "ampicillin",
+      "C": "vancomycin",
+      "D": "ciprofloxacin"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "112_2_62",
+    "category": "感染科",
+    "stem": "35歲病人因為出現兩天的尿道分泌物與灼熱疼痛感就醫，沒有符合腸胃感染的腹瀉病徵。經檢測診斷為non-gonococcal urethritis，治癒大約四週後，出現膝、踝和薦椎部等關節炎，同時併有結膜炎（conjunctivitis）與葡萄膜炎（uveitis）、手掌與腳部丘疹。下列敘述何者錯誤？",
+    "options": {
+      "A": "病人發生staphylococcal infective endocarditis和septic arthritis",
+      "B": "病人發生reactive arthritis",
+      "C": "病人先前的non-gonococcal urethritis和後續併發的病症，最有可能和Chlamydia trachomatis感染相關",
+      "D": "發生這些併發症的病人，超過80%帶有HLA-B27表現型（phenotype）"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "112_2_63",
+    "category": "感染科",
+    "stem": "關於細菌性食物中毒與旅行者腹瀉（traveler's diarrhea）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "潛伏期（incubation period）最短的致病菌是Staphylococcus aureus和Bacillus cereus",
+      "B": "Shigella spp.只能藉由污染的飲水和食物傳播，不會由人對人直接傳染",
+      "C": "Shigella spp.、Entamoeba histolytica、Giardia lamblia引起疾病所需感染劑量（infectious dose），遠低於Vibrio cholerae",
+      "D": "Vibrio cholerae所致的腹瀉係因產生enterotoxin，糞便中鮮少或不會出現白血球"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "112_2_64",
+    "category": "感染科",
+    "stem": "60歲男性病患，已接受血液透析治療10年。此次因發燒、喘及胸部X光發現診斷為肺炎，住院後痰液培養為 methicillin-resistant Staphylococcus aureus（MRSA），則可能的抗生素治療中，下列何者不宜？",
+    "options": {
+      "A": "vancomycin",
+      "B": "teicoplanin",
+      "C": "linezolid",
+      "D": "oxacillin"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_1_48",
+    "category": "感染科",
+    "stem": "有關敗血症的治療，下列敘述何者最不適當？",
+    "options": {
+      "A": "抗生素使用非常重要，選擇合適的抗生素立即給與，可以提高存活率",
+      "B": "敗血症病人有血液酸化的情況，因此，給與碳酸氫鈉維持血液中酸鹼平衡是治療的首要目標",
+      "C": "給與靜脈輸液，維持足夠器官灌流是治療的目標之一",
+      "D": "當血壓太低，給與靜脈輸液後血壓仍低，應考慮給與升壓劑（vasopressor）"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_1_60",
+    "category": "感染科",
+    "stem": "下列何種抗生素懷孕婦女應避免使用？",
+    "options": {
+      "A": "azithromycin",
+      "B": "clindamycin",
+      "C": "erythromycin",
+      "D": "tetracycline"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_1_61",
+    "category": "感染科",
+    "stem": "有關結核性腦膜炎的敘述，下列何者錯誤？",
+    "options": {
+      "A": "腦脊髓液檢查通常會有淋巴球增多lymphocytic pleocytosis（10～500 cells/μL）",
+      "B": "腦脊髓液檢查通常葡萄糖濃度會下降（20～40 mg/dL）",
+      "C": "文獻報告少於一半的病人，腦脊髓液檢查acid-fast stain會呈陽性",
+      "D": "腦脊髓液進行結核菌聚合酶鏈鎖反應（polymerase chain reaction, PCR）已經取代培養，成為最主要診斷工具"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_1_62",
+    "category": "感染科",
+    "stem": "80歲病人，有慢性C型肝炎相關的肝硬化病史，因為腹痛、腹瀉和發燒住院。住院後，血壓低，有黃疸，糞便和血液培養均長出Campylobacter jejuni。在藥物敏感檢測報告出來前，下列何者是最適當的抗生素治療？",
+    "options": {
+      "A": "trimethoprim-sulfamethoxazole",
+      "B": "metronidazole",
+      "C": "ampicillin",
+      "D": "carbapenem"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_1_63",
+    "category": "感染科",
+    "stem": "關於人類免疫不全病毒（HIV）的特徵，下列敘述何者錯誤？",
+    "options": {
+      "A": "HIV藉由與帶有CD8受器（receptor）和CCR5或者CXCR4的輔助受器（co-receptor）結合，進入人類CD8 T淋巴球",
+      "B": "HIV是RNA病毒，複製過程中需要將RNA反轉錄（reverse transcription）為DNA",
+      "C": "在淋巴球內的複製過程中，HIV的DNA會進入細胞核並嵌入宿主細胞的DNA中",
+      "D": "異性間不安全性行為，依然是全球HIV感染最常見的傳染途徑"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "113_1_64",
+    "category": "感染科",
+    "stem": "56歲的女性病人，主訴為右腳紅腫熱痛，已經在診所接受了一週的口服第一代cephalosporin藥物治療，因為沒有改善來到門診。病史詢問知道病人有糖尿病，已使用口服血糖藥物治療十多年，但是不知道自己血糖控制的情形。病人在廚房擔任清潔工作，長時間穿著膠鞋且常接觸到水，身體診察時發現右足底有一個潰瘍及黃綠色膿狀分泌物，依據上述，下列何者錯誤？",
+    "options": {
+      "A": "如果懷疑骨髓炎，可以採取probe-to-bone的測試，即以金屬探針穿刺傷口處，若可觸及骨頭，則高度懷疑為骨髓炎",
+      "B": "進一步可用磁振造影檢查（MRI）診斷，其敏感度高於X光檢查",
+      "C": "傷口檢體（wound swab）與骨頭切片培養的結果通常是一致的，故骨頭切片培養是不必要的處置",
+      "D": "因有綠膿桿菌感染風險，可考慮使用piperacillin-tazobactam或cefepime"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_1_65",
+    "category": "感染科",
+    "stem": "當皮膚軟組織感染合併水泡（vesicles or bullae），下列敘述何者錯誤？",
+    "options": {
+      "A": "coxsackievirus常好發於小孩，小水泡多分布於手腳或嘴巴",
+      "B": "Vibrio vulnificus的危險因子為接觸淡水",
+      "C": "staphylococcal scalded skin syndrome或toxic epidermal necrolysis不容易於外觀分辨，切片可幫助鑑別診斷",
+      "D": "當水痘為紅黑色，紅腫區域快速蔓延或合併感染處感覺異常（anesthesia），應把壞死性筋膜炎列入鑑別診斷"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_2_4",
+    "category": "感染科",
+    "stem": "有一位75歲男性病患，因最近2日呈嗜睡狀態、進食明顯減少而就醫。病患罹患高血壓與糖尿病25年以上，並因末期腎病接受長期血液透析治療已10年。病人平躺時，將其脖子向前彎，觀察其髖部及膝蓋是否有自主性屈曲（flexion）動作，此項身體診察欲測試的為何？",
+    "options": {
+      "A": "Babinski's sign",
+      "B": "Brudzinski's sign",
+      "C": "Kernig's sign",
+      "D": "Trendelenburg's sign"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_2_51",
+    "category": "感染科",
+    "stem": "75歲中風而長期臥床男性病人，因為要入住安養中心而進行身體健康檢查。胸部X光並無異常發現，但痰液塗片耐酸性染色鏡檢（acid-fast stain）為陽性。下列敘述何者最適當？",
+    "options": {
+      "A": "應等待痰的分枝桿菌培養結果後，再決定是否可入住安養中心及接受抗結核藥物治療",
+      "B": "此檢體應進行結核菌核酸增幅檢驗（nucleic acid amplification test）",
+      "C": "應立即另外再採集3套痰檢體進行分枝桿菌培養及鑑定",
+      "D": "應立刻進行胸部電腦斷層檢查"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_2_59",
+    "category": "感染科",
+    "stem": "導管長期置放是造成醫療照護相關感染的常見危險因子，導尿管置放後每日發生尿路感染的機會，約為多少？",
+    "options": {
+      "A": "0.03%～0.07%",
+      "B": "0.3%～0.7%",
+      "C": "3%～7%",
+      "D": "30%～70%"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_2_60",
+    "category": "感染科",
+    "stem": "下列有關抗生素的主要抑制機轉配對，何者最不適當？",
+    "options": {
+      "A": "盤尼西林（penicillin）— 細胞壁合成（cell wall synthesis）",
+      "B": "四環黴素（tetracycline）— 蛋白質合成（protein synthesis）",
+      "C": "巨環素（macrolide）— DNA合成（DNA synthesis）",
+      "D": "磺胺類（sulfonamide）— 葉酸合成（folate synthesis）"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_2_61",
+    "category": "感染科",
+    "stem": "有關中樞神經感染單純疱疹病毒（HSV）診斷工具中的HSV腦脊髓液聚合酶鏈鎖反應（polymerase chainreaction, PCR），下列敘述何者錯誤？",
+    "options": {
+      "A": "敏感性（sensitivity）及專一性（specificity）都超過90%",
+      "B": "在發病的72小時內，腦脊髓液HSV PCR有可能呈現陰性",
+      "C": "腦脊髓液HSV PCR的陽性率會隨著病程而逐漸降低，發病超過14天之病人，大約只有20%仍然呈現陽性",
+      "D": "抗病毒藥物之治療對腦脊髓液HSV PCR的陽性率有重大影響，治療3天後，腦脊髓液HSV PCR的陽性率即低於10%"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_2_62",
+    "category": "感染科",
+    "stem": "25歲男性，因為軀幹紅疹，合併手掌與足底多處脫屑紅疹，以及陰莖底部無痛性潰瘍而就醫，血液檢測後，醫師診斷為一期與二期梅毒。經進一步檢測，病人並沒有感染人類免疫不全病毒。關於梅毒處置之敘述，下列何者錯誤？",
+    "options": {
+      "A": "梅毒篩檢與確診的血清檢查，分別使用rapid plasma reagin（RPR）與Treponema pallidum particleagglutination（TPPA）檢測",
+      "B": "美國疾病管制局（US Centers for Disease Control and Prevention）2015年的性病治療指引對於早期梅毒（early syphilis）治療，針對沒有penicillin過敏，且沒有神經病徵者，建議使用一次單劑肌肉注射benzathine penicillin G（2.4 mU）",
+      "C": "美國疾病管制局（US Centers for Disease Control and Prevention）2015年的性病治療指引對於早期梅毒（early syphilis）治療，針對penicillin過敏，但沒有神經病徵者，建議使用doxycycline 100 mg，每日兩次，服用14天",
+      "D": "此病人梅毒治療後的療效評估，是在治療後6個月與12個月追蹤TPPA檢測，確認抗體效價下降至少4倍或以上"
+    },
+    "answer": "B/D/BD 均給分"
+  },
+  {
+    "id": "113_2_63",
+    "category": "感染科",
+    "stem": "25歲病人因為發燒多日、腹瀉、皮疹、咽喉痛和頸部淋巴腺腫就醫。診視發現口腔上顎有幾點白斑，血液相（hemogram）出現白血球與血小板降低，生化檢查發現轉氨酶（transaminases）10倍上升。醫師懷疑是人類免疫不全病毒（HIV）急性感染所引起的急性反轉錄病毒感染症候群（acute retroviral syndrome）。經病史詢問，發現病人在14天前第一次與網路上認識的一位男性發生未戴保險套的肛交性行為。下列敘述何者正確？",
+    "options": {
+      "A": "此時以第四代合併抗原與抗體的HIV檢測，對這位病人，100%可以確診HIV感染",
+      "B": "此時這位感染HIV的病人，儘快進行西方墨點（Western blot），因為它是最敏感而且確認HIV感染的檢測",
+      "C": "HIV核酸檢測（nucleic-acid amplification test）是診斷這位急性HIV感染病人最敏感和特異性（specificity）最高的檢測方式",
+      "D": "這位病人急性HIV感染病症會自然改善，並不急著給與抗病毒治療。根據國內外治療指引，等到他血液中的CD4數值降低到350 cells/mm3以下，或者出現愛滋病（AIDS）相關病症再開始治療即可"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_2_64",
+    "category": "感染科",
+    "stem": "關於蜂窩性組織炎的致病菌描述，下列何者錯誤？",
+    "options": {
+      "A": "經由切片（punch biopsy）培養陽性結果的機會可高達70%",
+      "B": "鏈球菌（streptococci）在下肢循環不良的病人常導致反覆感染",
+      "C": "被貓狗咬傷易產生厭氧菌相關感染",
+      "D": "綠膿桿菌（Pseudomonas aeruginosa）可見於被鐵釘穿刺傷（penetrating injury）造成的傷口感染"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "113_2_65",
+    "category": "感染科",
+    "stem": "引起社區型肺炎的菌種，常與特殊的旅遊史或接觸史有關，下列配對何者錯誤？",
+    "options": {
+      "A": "structural lung disease — Pseudomonas aeruginosa",
+      "B": "在發病前二週內住過旅館或郵輪 — Acinetobacter spp.",
+      "C": "近期接觸過鳥 — Chlamydia psittaci",
+      "D": "近期接觸過羊 — Coxiella burnetii"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "114_1_60",
+    "category": "感染科",
+    "stem": "下列有關β-lactamase抗藥性基因及其作用機轉的敘述，何者錯誤？",
+    "options": {
+      "A": "AmpC抗藥性基因常存在於Enterobacter spp.染色體上",
+      "B": "存在於K. pneumoniae染色體上的β-lactamase基因比較傾向於水解cephalosporins而非penicillins",
+      "C": "cefoxitin及cefepime對於AmpC是比較穩定不容易被水解的cephalosporins",
+      "D": "如果對cefepime產生抗藥性，常見是因為AmpC加上另一個抗藥機轉，如porin diffusion通道減少"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "114_1_61",
+    "category": "感染科",
+    "stem": "下列何種病毒最不可能造成急性腦炎？",
+    "options": {
+      "A": "腸病毒（enterovirus）",
+      "B": "巨細胞病毒（cytomegalovirus）",
+      "C": "第6型人類疱疹病毒（human herpesvirus 6）",
+      "D": "卡波西氏肉瘤疱疹病毒（Kaposi's sarcoma-associated herpesvirus, human herpesvirus 8）"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "114_1_62",
+    "category": "感染科",
+    "stem": "30歲男性，因尿道炎入院治療，尿液經細菌培養並未發現致病細菌，接受口服cefixime治療多次效果不佳，後續發生副睪炎（epididymitis）和嚴重的潰瘍性直腸和大腸發炎出血（ulcerative,hemorrhagic proctocolitis），腹股溝淋巴腺逐日腫大和潰瘍與下肢淋巴水腫。經過核酸增幅檢測（nucleic acid amplification test），發現是披衣菌（Chlamydia）感染，臨床醫師的診斷是lymphogranuloma venereum。下列關於此疾病的病因與處置之敘述，何者錯誤？",
+    "options": {
+      "A": "致病原是Chlamydia trachomatis LGV serovars L1、 L2及L3",
+      "B": "致病原是Chlamydia psittaci",
+      "C": "可以採用三週doxycycline（100 mg 每日口服兩次）治療",
+      "D": "可以採用三週erythromycin base（500 mg 每日口服四次）治療"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "114_1_63",
+    "category": "感染科",
+    "stem": "關於人類免疫不全病毒（HIV）感染所致免疫系統缺損引起的伺機性感染（opportunisticinfections）與首選治療之配對，下列何者錯誤？",
+    "options": {
+      "A": "non-typhoid salmonellosis — ceftriaxone",
+      "B": "oral candidiasis — fluconazole",
+      "C": "cytomegalovirus retinitis — valacyclovir",
+      "D": "cryptococcal meningitis — amphotericin B + flucytosine"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "114_1_64",
+    "category": "感染科",
+    "stem": "關於社區型肺炎的治療結果，下列敘述何者錯誤？",
+    "options": {
+      "A": "在有效治療下，一般可在2～4天退燒",
+      "B": "在有效治療下，胸部X光檢查病灶一般可在7天內完全消失",
+      "C": "需住院之社區型肺炎患者，一般死亡率約12～40%",
+      "D": "若後續胸部X光追蹤又再次發現病灶在相同地方（relapse or recurrence），須懷疑是否有癌症的可能性"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "114_1_65",
+    "category": "感染科",
+    "stem": "下列何者最不需要於牙科手術前接受預防性抗生素以避免心內膜炎？",
+    "options": {
+      "A": "具人工瓣膜（prosthetic heart valves）",
+      "B": "之前曾得過心內膜炎（endocarditis）",
+      "C": "先天性心臟病經完整修復術6個月以後",
+      "D": "未修復之發紺性先天性心臟病（cyanotic congenital heart disease）"
+    },
+    "answer": "C"
+  }
+]

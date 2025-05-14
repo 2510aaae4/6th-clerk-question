@@ -1,0 +1,806 @@
+[
+  {
+    "id": "110_1_7",
+    "category": "胸腔內科",
+    "stem": "許多疾病可引發次發性肺高壓（secondary pulmonary hypertension），下列何者除外？",
+    "options": {
+      "A": "肝硬化合併肝門靜脈高壓（liver cirrhosis with portal hypertension）",
+      "B": "心包膜填塞（pericardial tamponade）",
+      "C": "結締性組織疾病（connective tissue disease），如硬皮症",
+      "D": "慢性阻塞性肺病（chronic obstructive pulmonary disease）"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_1_25",
+    "category": "胸腔內科",
+    "stem": "56歲男性病人因意識不清至急診，身體診察發現呼吸22次/分鐘且深沉，初步血液檢查K+ 4.6 mEq/L、Na+ 138mEq/L、Cl- 99 mEq/L、HCO3- 10 mEq/L，動脈血氣分析呈現pH 7.20、pCO2 22 mmHg，此病人最不可能的診斷為：",
+    "options": {
+      "A": "乳酸酸血症（lactic acidosis）",
+      "B": "酮酸血症（ketoacidosis）",
+      "C": "急性腹瀉",
+      "D": "慢性腎衰竭"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "110_1_37",
+    "category": "胸腔內科",
+    "stem": "一位40歲亞裔女性病人，沒有抽菸史，最近被診斷有非小細胞肺癌第四期。下列何種基因檢測對她的治療選擇最重要？",
+    "options": {
+      "A": "K-ras突變",
+      "B": "EGFR突變",
+      "C": "VEGF receptor突變",
+      "D": "BRAF突變"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_1_44",
+    "category": "胸腔內科",
+    "stem": "關於慢性阻塞性肺病（COPD），下列敘述何者最正確？",
+    "options": {
+      "A": "最常見的症狀是咳嗽、痰和喘鳴（wheezing）",
+      "B": "在病程最早期身體診察（physical examination）幾乎正常",
+      "C": "氣道的阻力（resistance）增加主要在中型氣道（medium-size airways）",
+      "D": "只要FEV1下降到預期的50％（predicted FEV1），PaO2幾乎都偏低"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_1_45",
+    "category": "胸腔內科",
+    "stem": "45歲男性重症肌無力病人，因為上呼吸道感染後肌無力症狀惡化，且意識紊亂，由家人送至急診處。動脈血氧氣體分析（room air）結果如下：PaCO2 70mmHg，PaO2 55 mmHg，HCO3-  26 mEq/L。下列敘述何者錯誤？",
+    "options": {
+      "A": "屬於急性缺氧性呼吸衰竭",
+      "B": "主要是因為呼吸系統發生唧筒衰竭（pump failure）",
+      "C": "必須使用呼吸器協助呼吸",
+      "D": "動脈血之酸鹼值＜7.30"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "110_1_46",
+    "category": "胸腔內科",
+    "stem": "下列何種因素易導致吸入性肺炎（aspiration pneumonia）？①全身性硬化症（systemic sclerosis） ②巴金森氏症（parkinsonism） ③肺部纖維化（pulmonary fibrosis） ④無脾症（asplenia）",
+    "options": {
+      "A": "①④",
+      "B": "①②",
+      "C": "②③",
+      "D": "①③"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_1_47",
+    "category": "胸腔內科",
+    "stem": "有關間質性肺疾（interstitial lung disease）主要病理生理學的變化，下列敘述何者錯誤？",
+    "options": {
+      "A": "明顯氣道阻塞現象（airflow limitation）",
+      "B": "全肺活量（total lung capacity）正常或減少",
+      "C": "一氧化碳瀰散量（CO diffusing capacity, DLco）降低",
+      "D": "動脈血氧分壓（PaO2）容易下降"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "110_1_48",
+    "category": "胸腔內科",
+    "stem": "下列有關結核性肋膜積液（tuberculous pleural effusion）之敘述，何者錯誤？",
+    "options": {
+      "A": "成因是結核菌在肺部原發性感染後，直接引起延遲性免疫反應所造成",
+      "B": "積液中細胞分類，淋巴球比率很高，間皮細胞（mesothelial cell）則很少超過 5%",
+      "C": "積液中生物性標記（biological marker）adenosine deaminase ≤ 40 U/L時，結核性肋膜積液機會很低",
+      "D": "胸水引流後，不需要做肋膜粘連術（pleurodesis）"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "110_1_49",
+    "category": "胸腔內科",
+    "stem": "50歲之女性病人，因呼吸困難而前來就診，近距離即可聽到其吸氣時有stridor聲音，最可能診斷為下列何者？",
+    "options": {
+      "A": "氣喘",
+      "B": "慢性阻塞性肺病",
+      "C": "肋膜積水",
+      "D": "雙邊聲帶麻痺"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "110_1_62",
+    "category": "胸腔內科",
+    "stem": "下列關於上呼吸道感染的敘述，何者最不恰當？",
+    "options": {
+      "A": "健康年輕人突然打噴涕、流鼻水、鼻塞、咳嗽，最可能的致病原是病毒",
+      "B": "健康年輕人有上呼吸道感染症狀，合併有膿性分泌物，但沒有發燒或局部症狀，要考慮續發性細菌性感染，並立即投與細菌藥物治療",
+      "C": "健康年輕人有上呼吸道感染症狀，若病程延長、病情惡化且局部症狀明顯，如副鼻竇處有壓痛時，要考慮續發性細菌性副鼻竇炎",
+      "D": "健康中年人突然發燒、打噴涕、流鼻水、鼻塞、全身肌肉酸痛，其家人兩天前亦有類似症狀，則最可能的致病原是流行性感冒病毒"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_1_64",
+    "category": "胸腔內科",
+    "stem": "25歲男性氣喘病人至門診求診，主訴最近一個月內有常規性使用吸入性類固醇，白天運動量沒有太大問題，但是一週使用急救藥物短效支氣管擴張劑3～4次，晚上睡覺偶爾會胸悶醒來，尖峰呼氣流量為正常預測值之75%，則此病人氣喘的控制情況為何？",
+    "options": {
+      "A": "totally controlled",
+      "B": "well controlled",
+      "C": "partly controlled",
+      "D": "uncontrolled"
+    },
+    "answer": "C、D"
+  },
+  {
+    "id": "110_1_72",
+    "category": "胸腔內科",
+    "stem": "下列有關職業性肺病（occupational lung disease）之敘述，何者最適當？",
+    "options": {
+      "A": "成年氣喘病人中，至少10%與其職業暴露有關",
+      "B": "塵肺症（pneumoconiosis）是暴露到有機的固體顆粒所致",
+      "C": "過敏性肺炎（hypersensitivity pneumonitis）是暴露到無機物質所致之廣泛性肺實質病變",
+      "D": "最有效之預防策略是個人防護具之使用"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "110_1_73",
+    "category": "胸腔內科",
+    "stem": "有關末期病人呼吸困難（dyspnea）的評估及處置，下列敘述何者最不適當？",
+    "options": {
+      "A": "癌症末期病人中最常出現呼吸困難的是肺癌病人",
+      "B": "應先尋找可逆的原因，予以適當處置",
+      "C": "社會、心理或靈性等層面都可能引起末期病人呼吸困難的症狀",
+      "D": "無論末期病人呼吸困難的原因為何，目前建議都可以使用嗎啡予以控制"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "110_1_78",
+    "category": "胸腔內科",
+    "stem": "18歲高中男生身高182公分，體重58公斤，平常喜歡打籃球，昨天打籃球時，突然感到左胸疼痛，感覺是尖銳的痛且深呼吸更嚴重，有喘不上來的感覺，他最有可能的診斷為何？",
+    "options": {
+      "A": "心肌梗塞",
+      "B": "肺栓塞",
+      "C": "氣胸",
+      "D": "心包膜炎"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "110_2_42",
+    "category": "胸腔內科",
+    "stem": "陳先生每天抽一包菸已40年，最近一年來，走路爬坡出現呼吸困難現象，門診的胸部Ｘ光檢查顯現兩側肺野皆透亮較黑，若要安排肺功能檢查，下列項目何者最適當？",
+    "options": {
+      "A": "篩檢肺功能（screening spirometry），包括FVC, FEV1, FEV1/FVC",
+      "B": "標準肺功能（standard spirometry），包括FVC, FEV1, FEV1/FVC及肺容積",
+      "C": "一氧化碳肺瀰散量檢查（CO diffusing capacity test）",
+      "D": "支氣管激發試驗（bronchoprovocation test）"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_2_43",
+    "category": "胸腔內科",
+    "stem": "下列何者不是廣泛性支氣管擴張症（diffuse bronchiectasis）常見的致病原因？",
+    "options": {
+      "A": "Kartagener's syndrome",
+      "B": "游離肺（pulmonary sequestration）",
+      "C": "反覆吸入性肺炎",
+      "D": "免疫球蛋白缺乏症（hypogammaglobulinemia）"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_2_44",
+    "category": "胸腔內科",
+    "stem": "有關類肉瘤病（sarcoidosis），下列敘述何者錯誤？",
+    "options": {
+      "A": "致病機轉與T淋巴球（T lymphocyte）及巨噬細胞（macrophage）激活有關",
+      "B": "急性期病患血清中angiotensin-converting enzyme（ACE）值會升高",
+      "C": "通常以兩側肺門淋巴結腫大表現，組織切片診斷出noncaseating granuloma",
+      "D": "肺泡灌洗術（bronchoalveolar lavage）發現淋巴球數目及比例增高，CD4/CD8比例會下降"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "110_2_45",
+    "category": "胸腔內科",
+    "stem": "24歲男性，因為高燒、喉嚨不適與肌肉酸痛，被診斷出罹患H3N2流感。有關此病症之敘述，下列何者錯誤？",
+    "options": {
+      "A": "屬於B型流感，曾因為抗原突變造成全球大流行",
+      "B": "以oseltamivir治療效果優於adamantanes",
+      "C": "可以用疫苗加以預防，需每年定期接種",
+      "D": "肺炎是最重要的併發症"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "110_2_46",
+    "category": "胸腔內科",
+    "stem": "23歲女性幼稚園老師，無過往病史，因4天的咳嗽、胸痛至急診求治。體溫38.8°C，呼吸不順暢，聽診顯示左側下肺部呼吸聲減弱，觸診之觸覺震顫（tactile fremitus）降低，叩診左下肺部有濁音（dullness）。在尚無檢驗室結果可供參考之前，下列敘述何者最正確？",
+    "options": {
+      "A": "肺栓塞是最可能的診斷",
+      "B": "最可能是病毒感染",
+      "C": "為孕齡女性，不應作胸部X光攝影",
+      "D": "需考慮胸腔穿刺術（thoracentesis）"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "110_2_47",
+    "category": "胸腔內科",
+    "stem": "下列有關原發性肺纖維化（idiopathic pulmonary fibrosis）之敘述，何者錯誤？",
+    "options": {
+      "A": "是自發性間質性肺炎（idiopathic interstitial pneumonia）中最常見的一種疾病",
+      "B": "在病理變化上是屬於非特異性間質性肺炎（nonspecific interstitial pneumonia）",
+      "C": "在胸部電腦斷層影像上常呈現蜂窩狀（honeycombing appearance）",
+      "D": "對類固醇的治療反應不佳"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_2_64",
+    "category": "胸腔內科",
+    "stem": "張先生，30歲，有皮膚過敏（skin allergy）病史。因感冒後斷斷續續咳嗽2個月來求診。主訴最近四、五年來，每當感冒後常常咳嗽會持續超過一個月以上，且好發於秋冬之際。依病人所述，下列何者症狀最不可能發生？",
+    "options": {
+      "A": "咳嗽多發生在清晨",
+      "B": "咳嗽常合併胸悶或喘鳴聲",
+      "C": "咳嗽常發生在進食後",
+      "D": "過敏原暴露或運動時常誘發咳嗽"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_1_39",
+    "category": "胸腔內科",
+    "stem": "沒有遠端轉移的非小細胞肺癌，治癒性切除（curative resection）的禁忌症是：",
+    "options": {
+      "A": "上腔靜脈症候群（superior vena cava syndrome）",
+      "B": "同側肺門淋巴結轉移（ipsilateral hilar lymph node metastasis）",
+      "C": "穩定性心絞痛（stable angina pectoris）",
+      "D": "肺功能檢查FEV1大於1公升"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "111_1_45",
+    "category": "胸腔內科",
+    "stem": "下列有關氣喘（asthma）致病機轉的敘述，何者最適當？",
+    "options": {
+      "A": "過敏原刺激dendritic cells釋放chemokine CCL17和CCL22，誘使TH1 lymphocytes分泌IL-5，進而吸引eosinophils進入呼吸道",
+      "B": "病毒可刺激呼吸道上皮細胞分泌IL-25和IL-33導致ILC2 lymphocytes分泌IL-5，吸引eosinophils進入呼吸道",
+      "C": "一氧化氮在氣喘病患的呼出氣體中，代表呼吸道發炎反應的程度，與呼吸道的dendritic cells和lymphocytes有正性相關",
+      "D": "IL-10和IL-12是proinflammatory mediators，由呼吸道發炎細胞產生與氣喘的嚴重度有正性相關"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_1_46",
+    "category": "胸腔內科",
+    "stem": "22歲女性病患主訴胸悶及運動性氣促。感冒時症狀加劇，有過敏性鼻炎症狀，最近爬樓梯到2樓就覺得很喘。身體診察有輕微哮鳴音，下列何者檢查最適合幫助診斷？",
+    "options": {
+      "A": "methacholine provocation test",
+      "B": "bronchodilator test",
+      "C": "allergen test",
+      "D": "呼氣一氧化氮測試"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_1_47",
+    "category": "胸腔內科",
+    "stem": "62歲男性患者，因近三個月有慢性咳嗽而前來就診，肺部聽診時發現有單頻喘鳴聲（monophonic wheeze），最有可能的診斷為何？",
+    "options": {
+      "A": "心衰竭",
+      "B": "肺癌",
+      "C": "肺纖維化症",
+      "D": "肺炎"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_1_48",
+    "category": "胸腔內科",
+    "stem": "70歲男性病人因運動時呼吸困難前來就診，其肺功能檢查顯示：TLC為70%預測值，FEV1為65%預測值，FEV1/FVC 78%，DLco為55%預測值，最有可能的診斷為何？",
+    "options": {
+      "A": "胸廓畸形",
+      "B": "右側氣胸",
+      "C": "間質性肺病",
+      "D": "肺氣腫"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_1_49",
+    "category": "胸腔內科",
+    "stem": "70歲男性因咳嗽數個月而就醫被診斷為肺結核，分子檢測時，發現此病人痰液結核菌中的rpoB基因有突變。此病人應該合理的被認為對下列何種藥物具有抗藥性？",
+    "options": {
+      "A": "isoniazid",
+      "B": "rifampin",
+      "C": "ethambutol",
+      "D": "pyrazinamide"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_1_51",
+    "category": "胸腔內科",
+    "stem": "非侵襲性正壓呼吸器（noninvasive positive pressure ventilator）的禁忌症，不包括下列何者？",
+    "options": {
+      "A": "血壓60/40 mmHg",
+      "B": "昏迷指數3分",
+      "C": "每20分鐘需要抽痰一次",
+      "D": "PaCO2 70 mmHg"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "111_2_45",
+    "category": "胸腔內科",
+    "stem": "下列有關氣喘治療敘述，何者最為適當？",
+    "options": {
+      "A": "懷孕婦女不可使用任何吸入性類固醇，避免造成畸胎",
+      "B": "aspirin-sensitive asthma 對吸入性類固醇沒有療效",
+      "C": "氣喘如果得到良好控制，在手術過程中全身麻醉及插管並非禁忌",
+      "D": "allergic bronchopulmonary aspergillosis 發生在氣喘病人，口服類固醇是禁忌不可使用"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_2_46",
+    "category": "胸腔內科",
+    "stem": "63 歲女性，3 週前因下背劇痛至門診求診，並接受 non-steroid anti-inflammatory drug 止痛劑緩解症狀。最近一週開始出現咳嗽、發燒症狀及呼吸急促現象，至急診室求診發現胸部 X 光片有兩側肺野浸潤疑似肺炎現象，無心臟擴大或肋膜積水，血液檢查白血球：14,200/mm3；neutrophil：70%；eosinophil：25%；C-reactive protein：0.9mg/dL，其他生化檢查正常。下列何種檢查對確定診斷最有幫助？",
+    "options": {
+      "A": "胸部電腦斷層",
+      "B": "blood antineutrophil cytoplasmic antibody",
+      "C": "serum anti-IgE",
+      "D": "bronchoalveolar lavage"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "111_2_47",
+    "category": "胸腔內科",
+    "stem": "下列何種檢查，最能正確診斷特發性肺纖維化症（idiopathic pulmonary fibrosis）？",
+    "options": {
+      "A": "胸部 X 光片",
+      "B": "電腦斷層攝影",
+      "C": "動脈血液氣體分析",
+      "D": "肺功能檢查"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_2_48",
+    "category": "胸腔內科",
+    "stem": "關於呼吸器相關肺炎（ventilator associated pneumonia），下列敘述何者最適當？",
+    "options": {
+      "A": "當病人接受氣管內管插管並將氣囊充氣打飽後，可完全避免吸入性肺炎",
+      "B": "應將病人頭部抬高至 15 度，以避免產生呼吸器相關的吸入性肺炎",
+      "C": "給與長期之預防性抗生素，可避免產生呼吸器相關的肺炎",
+      "D": "因為心因性肺水腫而導致的呼吸衰竭，採用非侵襲性正壓通氣較插管使用呼吸器可減少呼吸器相關肺炎的發生"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "111_2_49",
+    "category": "胸腔內科",
+    "stem": "罹患開放性肺結核的 35 歲女性病人，接受含有 isoniazid、rifampin、ethambutol 及 pyrazinamide 的抗結核藥物治療；治療前的檢查證實並未罹患 B 或 C 型肝炎且 AST 為 20 U/L（正常值：13～39 U/L），ALT 為 14 U/L（正常值：7～52 U/L）。在治療 1 個月時，病人精神明顯改善且食慾良好，但卻發現肝功能指數異常（AST：48U/L 及 ALT：71 U/L）。下列何者為最適當之處置？",
+    "options": {
+      "A": "繼續維持目前治療處方，並密切追蹤肝功能",
+      "B": "停止所有抗結核藥物，等待肝功能恢復後，再重新治療",
+      "C": "停止 isoniazid、rifampin 及 pyrazinamide 等可能會傷害肝臟的藥物，並加入 streptomycin 及 moxifloxacin 等不會傷害肝臟的藥物治療",
+      "D": "先停止最容易傷害肝臟的藥物 pyrazinamide，並密切追蹤肝功能"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "111_2_51",
+    "category": "胸腔內科",
+    "stem": "下列何者不是 COVID-19 肺部感染的特徵？",
+    "options": {
+      "A": "COVID-19 引起的呼吸衰竭主要是第二型呼吸衰竭（type II respiratory failure）",
+      "B": "COVID-19 可以造成急性呼吸窘迫症候群",
+      "C": "COVID-19 引起的呼吸衰竭，通常需要呼吸器來幫忙維持足夠的血氧濃度",
+      "D": "嚴重感染 COVID-19 時，肺泡充滿了液體，內含有許多的發炎物質"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "111_2_59",
+    "category": "胸腔內科",
+    "stem": "有關肺結核病患之感染管制，下列敘述何者最不適當？",
+    "options": {
+      "A": "開放性肺結核病人須儘早移入單人負壓隔離病室",
+      "B": "病室門窗應關閉，且每小時應有 6 至 12 次氣體交換",
+      "C": "照護者使用 N95 口罩（或更高等級）做防護",
+      "D": "醫療人員接種 BCG 疫苗（卡介苗）可有效預防感染肺結核之風險"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_1_45",
+    "category": "胸腔內科",
+    "stem": "張小姐因肺炎治療一星期後持續發燒且出現胸痛的症狀，胸部X光檢查發現右側肋膜積液（pleural effusion），下列肋膜積液生化檢查的結果，何者最應積極引流治療？",
+    "options": {
+      "A": "pH = 7.3",
+      "B": "glucose = 38 mg/dL",
+      "C": "LDH = 700 U/L",
+      "D": "WBC = 7000/μL"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "112_1_46",
+    "category": "胸腔內科",
+    "stem": "吳先生45歲，不抽菸，因咳嗽2個月至門診就醫，胸部Ｘ光檢查結果如圖所示，最可能的診斷為何？",
+    "options": {
+      "A": "細菌性肺炎",
+      "B": "間質性肺炎",
+      "C": "肺結核",
+      "D": "肺癌"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_1_47",
+    "category": "胸腔內科",
+    "stem": "張先生經醫師診斷為氣喘病人，依氣喘診療指引，下列關於其治療與追蹤敘述何者錯誤？",
+    "options": {
+      "A": "第二階的氣喘病人應接受吸入型類固醇治療",
+      "B": "對於氣喘病情的監測，可教育病人使用尖峰呼氣流速計（peak flowmeter）記錄峰速值（peak expiratory flowrate）",
+      "C": "氣喘治療採階梯式治療原則",
+      "D": "每一階段的治療至少要2個月以上才能考慮降階"
+    },
+    "answer": "一律給分"
+  },
+  {
+    "id": "112_1_48",
+    "category": "胸腔內科",
+    "stem": "有關慢性阻塞性肺病（COPD）病人的治療策略，下列敘述何者錯誤？",
+    "options": {
+      "A": "輕度病人平時治療可僅使用吸入型抗膽鹼（inhaled anticholinergic）藥物，以改善呼吸功能障礙",
+      "B": "頻繁急性發作（acute exacerbation）的病人，可嘗試使用吸入型類固醇",
+      "C": "胸腔復健對COPD患者的成效不彰",
+      "D": "肺臟移植為治療選項之一"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_1_49",
+    "category": "胸腔內科",
+    "stem": "急性呼吸窘迫症（acute respiratory distress syndrome, ARDS）與心因性肺水腫（cardiogenic pulmonary edema）最大的不同在於：",
+    "options": {
+      "A": "ARDS時，肺動脈wedge pressure通常＞18 mmHg",
+      "B": "ARDS肺部浸潤較少見於肺部周圍（pulmonary periphery）",
+      "C": "ARDS時，肺部血管的通透性（permeability）增加",
+      "D": "ARDS出現缺氧的原因，主要導因於肺泡氣體擴散障礙（alveolar diffusion impairment）"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_1_50",
+    "category": "胸腔內科",
+    "stem": "下列關於矽肺症（silicosis）的敘述，何者錯誤？",
+    "options": {
+      "A": "主要是因吸入free silica（SiO2）造成",
+      "B": "持續暴露於高濃度矽粉塵數年後，產生急性、亞急性矽肺症，只要離開污染源，疾病即不再惡化",
+      "C": "胸腔影像呈現上肺野小結節陰影、肺門淋巴腺腫大、鈣化或進行性大量纖維化（progressive massivefibrosis）",
+      "D": "容易合併肺結核（pulmonary tuberculosis）、肺癌或自體免疫疾病如類風濕性關節炎（rheumatoid arthritis）等"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "112_1_51",
+    "category": "胸腔內科",
+    "stem": "下列那個標誌無法區分小細胞肺癌與非小細胞肺癌？",
+    "options": {
+      "A": "CD56",
+      "B": "neural cell adhesion molecule（NCAM）",
+      "C": "chromogranin",
+      "D": "thyroid transcription factor-1（TTF-1）"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_2_45",
+    "category": "胸腔內科",
+    "stem": "65歲男性至門診求診，主訴慢性咳嗽及運動性氣促，過去無心臟病或糖尿病之病史，抽菸史50包年，已戒菸2年。最近咳嗽氣促的症狀加劇，下列何者是診斷COPD的必要檢查？",
+    "options": {
+      "A": "胸部電腦斷層",
+      "B": "支氣管鏡檢查",
+      "C": "支氣管擴張試驗",
+      "D": "serum alpha-1 antitrypsin level"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_2_46",
+    "category": "胸腔內科",
+    "stem": "COPD病人接受長效型支氣管擴張劑治療3個月後症狀仍不穩定，抽血檢查發現WBC：9,500/mm3；neutrophil：70%；eosinophil：5%；C-reactive protein：1.5 mg/dL，下列治療何者最為恰當？",
+    "options": {
+      "A": "add-on theophylline",
+      "B": "add-on macrolide",
+      "C": "add-on leukotriene modifier",
+      "D": "add-on inhaled corticosteroid"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_2_47",
+    "category": "胸腔內科",
+    "stem": "體外胸腔超音波檢查對下列何種情況之診斷，最沒有幫助？",
+    "options": {
+      "A": "肋膜腔積水",
+      "B": "氣胸",
+      "C": "橫膈膜麻痺",
+      "D": "兩側肺門淋巴腺腫"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_2_48",
+    "category": "胸腔內科",
+    "stem": "63歲男性病人，因運動時呼吸困難前來就診，肺功能檢查顯示TLC 70%預測值，FEV1/FVC 80%，最大吸氣壓力（maximal inspiratory pressure）55%預測值，下列何者為最有可能之診斷？",
+    "options": {
+      "A": "慢性阻塞性肺病",
+      "B": "肥胖症",
+      "C": "肺葉切除術後",
+      "D": "重症肌無力"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_2_49",
+    "category": "胸腔內科",
+    "stem": "因為丈夫罹患isoniazid抗藥性的開放性肺結核而接受接觸者檢查的33歲女性，她的胸部X光檢查正常但丙型干擾素血液測驗（interferon-γ release assay）為陽性。下列何者為此女性最適合的潛伏結核感染治療處方？",
+    "options": {
+      "A": "9個月的每日一次isoniazid治療",
+      "B": "2個月的rifampin及pyrazinamide治療",
+      "C": "4個月的每日一次rifampin治療",
+      "D": "9個月的每日一次levofloxacin治療"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_2_50",
+    "category": "胸腔內科",
+    "stem": "關於非結核分枝桿菌（nontuberculous mycobacteria），下列敘述何者最適當？",
+    "options": {
+      "A": "非結核分枝桿菌的肺部感染，幾乎都發生於人類免疫缺陷病毒感染的病人",
+      "B": "非結核分枝桿菌中的M. gordonae表現與結核菌相似，容易造成肺部的感染",
+      "C": "M. avium complex是慢速生長菌；此菌引起的肺部感染，治療時間通常需要達18個月",
+      "D": "M. abscessus是快速生長菌；此菌引成的肺部感染，藥物治療時間與一般肺炎相同，約需2個星期"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_1_45",
+    "category": "胸腔內科",
+    "stem": "有關interstitial lung disease（ILD）的治療，下列何者最為適當？",
+    "options": {
+      "A": "對於idiopathic pulmonary fibrosis病人，免疫抑制治療可以減少死亡率",
+      "B": "cryptogenic organizing pneumonia使用類固醇可以改善臨床症狀",
+      "C": "anti-fibrotic therapy（pirfenidone and nintedanib）對於idiopathic pulmonary fibrosis病人死亡率沒有改善",
+      "D": "connective tissue disease-associated ILDs 病人不可以併用免疫抑制劑及抗纖維化治療"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_1_46",
+    "category": "胸腔內科",
+    "stem": "下列何種指標不是阻塞型呼吸中止症候群（obstructive sleep apnea syndrome）嚴重度的指標？",
+    "options": {
+      "A": "睡眠檢查apnea-hypopnea index（AHI）",
+      "B": "夜間血氧濃度下降程度",
+      "C": "BMI數值",
+      "D": "白天嗜睡情形"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_1_47",
+    "category": "胸腔內科",
+    "stem": "18歲男性，過去身體健康良好。此次因發燒及咳嗽數天到門診就醫，其胸部X光檢查呈現雙下肺野的肺炎，血液白血球數目為7.91 × 103/μL。下列何者是最可能的致病菌？",
+    "options": {
+      "A": "金黃色葡萄球菌（Staphylococcus aureus）",
+      "B": "黴漿菌（Mycoplasma pneumoniae）",
+      "C": "肺炎克雷伯氏菌（Klebsiella pneumoniae）",
+      "D": "綠膿桿菌（Pseudomonas aeruginosa）"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_1_49",
+    "category": "胸腔內科",
+    "stem": "急性低血氧性呼吸衰竭（acute hypoxemic respiratory failure），若胸部X光片顯示無異常，則鑑別診斷可包括：①肺栓塞　②右至左分流（right-to-left shunt）　③氣胸　④肝硬化　⑤氣喘　⑥肺水腫",
+    "options": {
+      "A": "①②③⑤",
+      "B": "②③④⑤",
+      "C": "①②④⑤",
+      "D": "①③④⑥"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_1_50",
+    "category": "胸腔內科",
+    "stem": "下列何種檢查在診斷氣喘時最有價值？",
+    "options": {
+      "A": "動脈血液氣體分析",
+      "B": "胸部X光片",
+      "C": "肺功能檢查",
+      "D": "心電圖檢查"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_1_51",
+    "category": "胸腔內科",
+    "stem": "30歲男性因咳嗽有痰數月而就醫，其胸部X光檢查如附圖。下列何者為最可能的診斷？",
+    "options": {
+      "A": "肺結核",
+      "B": "肺膿瘍",
+      "C": "肺炎",
+      "D": "肺癌"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "113_1_59",
+    "category": "胸腔內科",
+    "stem": "有關醫療照護相關感染肺炎致病原之敘述，下列敘述何者最不適當？",
+    "options": {
+      "A": "口咽移生之抗藥性菌嗆咳，是發生醫療照護相關感染肺炎的危險因子",
+      "B": "住院4天內發生早發性（early onset）醫療照護相關感染肺炎，致病原主要為社區性病原，如肺炎鏈球菌（Streptococcus pneumoniae）或嗜血流感桿菌（Haemophilus influenzae）",
+      "C": "若培養未發現特定的抗藥性致病原，使用抗生素短期治療（8天）能減少病人後續抗藥性菌移生",
+      "D": "床頭抬高15～20度是可以減少發生醫療照護相關感染肺炎的標準作業"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_2_45",
+    "category": "胸腔內科",
+    "stem": "下列何者不是診斷usual interstitial pneumonia在胸部電腦斷層的典型特徵？",
+    "options": {
+      "A": "subpleural reticulation",
+      "B": "traction bronchiectasis",
+      "C": "honeycombing appearance",
+      "D": "micronodules"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_2_46",
+    "category": "胸腔內科",
+    "stem": "60歲女性病人，因近日有呼吸困難及胸痛情形前來就診。就診時身體診察發現有右腳單隻腳水腫之情形，最有可能的診斷為何？",
+    "options": {
+      "A": "心衰竭",
+      "B": "肺栓塞",
+      "C": "氣胸",
+      "D": "慢性阻塞性肺病"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_2_47",
+    "category": "胸腔內科",
+    "stem": "關於肺膿瘍的敘述，下列何者錯誤？",
+    "options": {
+      "A": "原發性肺膿瘍最常見的位置是上肺葉的後節及下肺葉的上節",
+      "B": "金黃色葡萄球菌是敗血性血栓（septic emboli）所致的肺膿瘍之常見致病菌",
+      "C": "厭氧性細菌常發生於原發性肺膿瘍",
+      "D": "抗生素治療時間通常為7～10天；必要時，需進行手術"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_2_48",
+    "category": "胸腔內科",
+    "stem": "45歲女性病人因間皮瘤（mesothelioma）接受化學治療。在藥物輸注10分鐘後，開始有皮疹、嘴唇腫脹、呼吸困難及血壓下降的情形，下列處置何者最為優先？",
+    "options": {
+      "A": "因為血壓下降懷疑敗血症休克，應給與大量輸液及抗生素",
+      "B": "因為呼吸困難，應立即給與插管使用呼吸器",
+      "C": "因為皮疹應給與類固醇",
+      "D": "因為發生在藥物使用後，應立即給與腎上腺素（epinephrine）及其他輔助藥物，如：抗組織胺、類固醇"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_2_49",
+    "category": "胸腔內科",
+    "stem": "68歲男性，長期吸菸，有高血壓，近5年內因腦血管栓塞住院2次，都無後遺症。因最近一週劇烈咳嗽、黃痰、呼吸喘促、發燒至急診求治。胸部X光顯示右上肺葉大葉性浸潤，同側肋膜積液。痰檢顯示痰中有許多白血球，染色看到許多革蘭氏陽性雙球菌（diplococci），下列何種敘述正確？①為吸入性肺炎（aspiration pneumonia）　②應選擇可以涵蓋Streptococcus pneumoniae之抗生素治療　③應選擇可以涵蓋Pseudomonas aeruginosa之抗生素治療　④應考慮住院及檢驗肋膜積液",
+    "options": {
+      "A": "①②",
+      "B": "①③④",
+      "C": "②④",
+      "D": "僅①④"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_2_50",
+    "category": "胸腔內科",
+    "stem": "病人因慢性阻塞性肺病急性發作至急診求診，下列處置何者缺乏實證支持？",
+    "options": {
+      "A": "靜脈注射茶鹼（theophylline）",
+      "B": "靜脈注射抗生素",
+      "C": "靜脈注射類固醇",
+      "D": "支氣管擴張劑（bronchodilator）霧化治療"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "114_1_45",
+    "category": "胸腔內科",
+    "stem": "有關hypersensitivity pneumonitis，下列敘述何者最適當？",
+    "options": {
+      "A": "因吸入環境中的抗原導致肺泡及小呼吸道發炎",
+      "B": "肺功能檢查是最有效的診斷工具",
+      "C": "血液中precipitating IgG antibody against specific antigen是診斷的標準",
+      "D": "bronchoalveolar lavage出現lymphocytosis是診斷的唯一標準"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "114_1_46",
+    "category": "胸腔內科",
+    "stem": "65歲男性病人因運動時呼吸困難前來就診，其肺功能檢查顯示：FEV1/FVC 58%，FEV1為70%預測值，DLCO為55%預測值，則最有可能之診斷為何？",
+    "options": {
+      "A": "氣喘",
+      "B": "肺血管栓塞",
+      "C": "肺氣腫",
+      "D": "肺纖維化"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "114_1_47",
+    "category": "胸腔內科",
+    "stem": "關於潛伏結核感染（latent TB infection）的相關敘述，下列何者最為適當？",
+    "options": {
+      "A": "當結核菌素皮膚測驗（tuberculin skin test）呈現陽性時，代表人體對於結核菌產生延遲性過敏反應（delayed-type hypersensitivity），可保護人體免於再被結核菌感染（reinfection）",
+      "B": "丙型干擾素血液測驗（interferon-γ release assay）可用來預測潛伏結核感染者是否會發展成為活動性肺結核",
+      "C": "結核菌素皮膚測驗（tuberculin skin test）及丙型干擾素血液測驗（interferon-γ releaseassay），可用來區分潛伏結核感染或活動性肺結核",
+      "D": "即使結核菌素皮膚測驗（tuberculin skin test）為陰性，也無法診斷此受試者並未被結核菌感染"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "114_1_48",
+    "category": "胸腔內科",
+    "stem": "關於肋膜積水（pleural effusion）的描述，下列何者最為適當？",
+    "options": {
+      "A": "肺癌所致的肋膜積水為exudate，且積水中的glucose濃度為正常",
+      "B": "結核性肋膜積水為exudate，積液中的細胞通常以淋巴球最常見",
+      "C": "乳糜胸（chylothorax）的定義為肋膜積水中膽固醇大於110 mg/dL",
+      "D": "血胸（hemothorax）的定義為肋膜積水中血紅素大於10 g/dL"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "114_1_49",
+    "category": "胸腔內科",
+    "stem": "48歲女性抽菸30年有嚴重的肺氣腫，這次住院因為感冒後喘的情形加重，動脈血中CO2上升，主治醫師決定給與非侵襲性正壓呼吸器（non-invasive ventilator），下列敘述何者錯誤？",
+    "options": {
+      "A": "在慢性阻塞性肺病（chronic obstructive pulmonary disease）的病人，非侵襲性正壓呼吸器在急性發作時使用，可以降低加護病房住院天數",
+      "B": "意識不清的病人適合使用非侵襲性正壓呼吸器",
+      "C": "須使用密封的面罩以避免漏氣，所以臉部（特別是下半部）畸形或是受傷的病人不適合使用",
+      "D": "因為不方便讓痰液排出，痰量太多的病人，不適合使用非侵襲性正壓呼吸器"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "114_1_50",
+    "category": "胸腔內科",
+    "stem": "一位56歲男性病患，身高162 cm，體重89 kg，主訴運動時呼吸困難，血壓偏高控制不好，睡眠頻頻中斷，造成白天嗜睡，精神不濟，記憶衰退。休息時血氧濃度都在85%以下，動脈血中的PaCO251mmHg，為呼吸性酸中毒。對於此病患的臨床判斷，下列何者最不適當？",
+    "options": {
+      "A": "應安排睡眠多項生理檢驗（sleep polysomnography），診斷是否有睡眠呼吸中止症（obstructive sleep apnea）",
+      "B": "病患呼吸困難又有呼吸性酸中毒，因此可以判定是慢性阻塞性肺病（chronic obstructive pulmonary disease）",
+      "C": "造成呼吸低下症候群（hypoventilation syndrome）的原因很多，不完全是因為肥胖所造成",
+      "D": "有時會發現這類病患呼吸中樞反應有障礙"
+    },
+    "answer": "B"
+  }
+]

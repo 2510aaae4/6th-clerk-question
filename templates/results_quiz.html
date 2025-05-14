@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>考題結果 - {{ category }}</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; color: #333; display: flex; min-height: 100vh; flex-direction: column; }
+        header {
+            background-color: #007bff;
+            color: white;
+            padding: 15px 20px;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        header h1 { margin: 0; font-size: 1.8em; }
+        .container {
+            display: flex;
+            flex-grow: 1;
+            padding: 10px;
+        }
+        .left-panel {
+            width: 50%;
+            padding: 15px;
+            overflow-y: auto;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.05);
+            border-radius: 8px;
+            margin-right: 10px;
+        }
+        .right-panel {
+            width: 50%;
+            padding: 15px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.05);
+            border-radius: 8px;
+            display: flex;
+            flex-direction: column;
+        }
+        .question-item { 
+            background-color: #f9f9f9; 
+            padding: 15px; 
+            border-radius: 6px; 
+            margin-bottom: 15px;
+            border: 1px solid #eee;
+        }
+        .question-id-answer { font-weight: bold; margin-bottom: 8px; font-size: 0.95em; color: #555;}
+        .question-id-answer .answer { color: #28a745; }
+        .question-stem { margin-bottom: 12px; font-size: 1em; line-height: 1.5;}
+        .question-options { white-space: pre-wrap; margin-left: 20px; font-size: 0.9em; line-height: 1.6; }
+        .panel-section { margin-bottom: 20px; padding: 15px; border: 1px solid #ddd; border-radius: 6px; background-color: #fdfdfd; }
+        .panel-section h3 { margin-top: 0; color: #0056b3; border-bottom: 1px solid #eee; padding-bottom: 8px;}
+        input[type="text"], input[type="password"], button, textarea {
+            width: calc(100% - 22px); /* Account for padding and border */
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+            box-sizing: border-box;
+        }
+        button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-size: 1em;
+        }
+        button:hover { background-color: #0056b3; }
+        .analysis-result, .generation-result {
+            min-height: 100px;
+            padding: 10px;
+            border: 1px dashed #ccc;
+            border-radius: 4px;
+            background-color: #f0f0f0;
+            white-space: pre-wrap; /* To show newlines */
+            overflow-y: auto;
+            max-height: 200px; /* Limit height */
+        }
+        .api-key-status { font-size: 0.9em; margin-bottom: 10px;}
+        .api-key-valid { color: green; }
+        .api-key-invalid { color: red; }
+        a.back-link {
+            display: block; /* Changed to block */
+            margin: 20px auto; /* Centering */
+            padding: 10px 20px;
+            background-color: #6c757d;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            text-align: center; /* Text centering */
+            width: fit-content; /* Adjust width to content */
+        }
+        a.back-link:hover { background-color: #5a6268; }
+        .results-header { text-align: left; margin-bottom: 10px; font-size: 1.1em; }
+        .question-selection input[type="checkbox"] { margin-right: 8px; }
+        /* Message styles */
+        .message {
+            padding: 10px;
+            margin-bottom: 15px;
+            border-radius: 4px;
+            text-align: center;
+        }
+        .message.success { background-color: #d4edda; color: #155724; border: 1px solid #c3e6cb; }
+        .message.error { background-color: #f8d7da; color: #721c24; border: 1px solid #f5c6cb; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>考題結果</h1>
+    </header>
+
+    {# Flash messages #}
+    {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+            <div style="padding: 10px;">
+            {% for category, message in messages %}
+                <div class="message {{ category }}">{{ message }}</div>
+            {% endfor %}
+            </div>
+        {% endif %}
+    {% endwith %}
+
+    <div class="container">
+        <div class="left-panel">
+            <h2 class="results-header">科別：{{ category }} (共選出 {{ num_selected }} 題)</h2>
+            <form id="questionAnalysisForm" action="{{ url_for('analyze_learning_points') }}" method="POST">
+                {% if questions %}
+                    {% for question in questions %}
+                        <div class="question-item">
+                            <div class="question-selection">
+                                <input type="checkbox" name="selected_question_ids" value="{{ question.id }}" id="q_{{ question.id }}">
+                                <label for="q_{{ question.id }}" class="question-id-answer">題號 (ID): {{ question.id }} <span class="answer">&nbsp;&nbsp;&nbsp;&nbsp; 答案: {{ question.answer }}</span></label>
+                            </div>
+                            <p class="question-stem">題目: {{ question.stem }}</p>
+                            <p>選項:</p>
+                            <div class="question-options">{{ question.options_display }}</div>
+                        </div>
+                    {% endfor %}
+                {% else %}
+                    <p>沒有找到符合條件的題目。</p>
+                {% endif %}
+            </form>
+        </div>
+
+        <div class="right-panel">
+            <div class="panel-section api-key-section">
+                <h3>Gemini API 設定</h3>
+                <form id="apiKeyForm" action="{{ url_for('validate_api_key') }}" method="POST">
+                    <input type="password" name="api_key" placeholder="輸入您的 Gemini API 金鑰" value="{{ gemini_api_key if gemini_api_key }}">
+                    <button type="submit">儲存並驗證金鑰</button>
+                </form>
+                <div id="apiKeyStatus" class="api-key-status">
+                    {% if session.get('gemini_api_key_valid') %}
+                        <span class="api-key-valid">API 金鑰已驗證且有效。</span>
+                    {% elif session.get('gemini_api_key') and not session.get('gemini_api_key_valid') %}
+                        <span class="api-key-invalid">API 金鑰無效或驗證失敗。</span>
+                    {% else %}
+                        <span>尚未設定 API 金鑰。</span>
+                    {% endif %}
+                </div>
+            </div>
+
+            <div class="panel-section">
+                <h3>考點分析</h3>
+                <button type="button" onclick="document.getElementById('questionAnalysisForm').submit();">分析選中題目的考點</button>
+                <div id="analysisResult" class="analysis-result">
+                    <!-- 考點分析結果將顯示於此 -->
+                    {% if analysis_result %}
+                        {{ analysis_result }}
+                    {% else %}
+                        請先選取左側題目並點擊上方按鈕進行分析。
+                    {% endif %}
+                </div>
+            </div>
+
+            <div class="panel-section">
+                <h3>類似題目生成</h3>
+                 <form id="generateQuestionForm" action="{{ url_for('generate_similar_questions') }}" method="POST">
+                    {# This hidden input is no longer strictly necessary as points are pulled from session, but keep for form structure #}
+                    <input type="hidden" name="learning_points_for_generation" id="learning_points_for_generation_input" value="{{ session.get('learning_points_for_generation', '') }}">
+                    <button type="submit">根據上方考點生成類似題目</button>
+                </form>
+                <div id="generationResult" class="generation-result">
+                    <!-- 新生成的題目將顯示於此 -->
+                    {% if generated_question %}
+                        <p class="question-id-answer">新題目 (ID: N/A) &nbsp;&nbsp;&nbsp;&nbsp; 答案: {{ generated_question.answer }}</p>
+                        <p class="question-stem">題目: {{ generated_question.stem }}</p>
+                        <p>選項:</p>
+                        <div class="question-options">{{ generated_question.options_display }}</div>
+                    {% else %}
+                        考點分析完成後，點擊上方按鈕生成新題目。
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="text-align: center; padding: 10px 0;">
+        <a href="{{ url_for('index') }}" class="back-link">返回選擇頁面</a>
+    </div>
+</body>
+</html> 

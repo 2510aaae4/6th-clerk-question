@@ -1,0 +1,866 @@
+[
+  {
+    "id": "110_1_36",
+    "category": "血液腫瘤科",
+    "stem": "一位36歲病人過去無特殊病史，最近發現頸部及腋下有多顆直徑1～3公分之淋巴結，腹股溝亦有數顆淋巴結，最大者直徑約4公分。頸部淋巴結切片診斷為B細胞瀰漫性大細胞淋巴瘤（diffuse large B celllymphoma）。對此病人最適當的治療為？",
+    "options": {
+      "A": "cyclophosphamide, vincristine, prednisolone（COP）",
+      "B": "rituximab + COP",
+      "C": "cyclophosphamide, doxorubicin, vincristine, prednisolone（CHOP）",
+      "D": "rituximab + CHOP"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "110_1_38",
+    "category": "血液腫瘤科",
+    "stem": "下列有關費城染色體陽性之急性淋巴芽細胞白血病（ALL）的敘述何者錯誤？",
+    "options": {
+      "A": "在孩童費城染色體陽性之ALL的發生率較成人高",
+      "B": "有異常之BCR-ABL融合基因",
+      "C": "使用化學治療其療效較費城染色體陰性之ALL為差",
+      "D": "使用imatinib可以改善預後"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "110_1_39",
+    "category": "血液腫瘤科",
+    "stem": "所謂嚴重型A型血友病（severe hemophilia A）是指血中第八凝血因子（factor VIII）之濃度低於正常值之多少%？",
+    "options": {
+      "A": "1%",
+      "B": "2%",
+      "C": "5%",
+      "D": "10%"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "110_1_53",
+    "category": "血液腫瘤科",
+    "stem": "實體腫瘤（solid tumor）引起之高血鈣症，最常因腫瘤分泌下列何者而引起？",
+    "options": {
+      "A": "副甲狀腺素（parathyroid hormone）",
+      "B": "噬骨細胞活化因子（osteoclast activating factor, OAF）",
+      "C": "副甲狀腺素相關胜肽（parathyroid hormone-related peptide, PTHrP）",
+      "D": "1,25(OH)2 D"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "110_2_34",
+    "category": "血液腫瘤科",
+    "stem": "一位40歲女性，有癌症家族史，來諮詢她發生乳癌的風險。她有兩個姑媽在60歲左右時診斷乳癌，爸爸有淋巴癌，堂兄有結腸癌，她的姑媽BRCA-1和BRCA-2基因檢測的結果為陰性。下列敘述何者正確？",
+    "options": {
+      "A": "相關的基因遺傳非來自父系",
+      "B": "她是發生癌症的高危險群，應該每年接受正子攝影（positron emission tomography [PET] scans）檢查",
+      "C": "應考慮BRCA-1及BRCA-2以外的基因檢測",
+      "D": "她應開始服用芳香環轉化酶抑制劑（aromatase inhibitor）以降低風險"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "110_2_35",
+    "category": "血液腫瘤科",
+    "stem": "上皮生長激素受體（epidermal growth factor receptor, EGFR）的標靶治療（包括EGFR small-molecule inhibitor,anti-EGFR antibody, anti-HER2 antibody）不被應用在下列何種癌症上？",
+    "options": {
+      "A": "結腸癌（colon cancer）",
+      "B": "肺癌（lung cancer）",
+      "C": "腸平滑肌惡性肉瘤（intestinal leiomyosarcoma）",
+      "D": "乳癌（breast cancer）"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "110_2_36",
+    "category": "血液腫瘤科",
+    "stem": "標靶治療藥物 imatinib 是何種蛋白的抑制劑？",
+    "options": {
+      "A": "Bcr-Abl",
+      "B": "PML-RARα",
+      "C": "NF-κB",
+      "D": "EGFRα"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "110_2_38",
+    "category": "血液腫瘤科",
+    "stem": "一位30歲懷孕婦女，主訴其姊姊在生產時曾大量出血，擔心自己也會有類似的情形，因此來求診。詢問過去病史，除月經量較多外，無其他明顯出血情形，且未服用任何藥物或補藥。身體檢查發現，身上無明顯紫斑或其他異常情況，關節正常。血液檢查結果如下：血紅素11.5 g/dL，白血球5,200/μL，分類正常，血小板275,000/μL，bleeding time 14分（正常值：小於7.1分），prothrombin time（PT）12秒（正常值：小於12.5秒），activated partial prothrombin time （aPTT）44秒（正常值：小於36秒）。這位婦女最可能得了什麼病？",
+    "options": {
+      "A": "hemophilia A",
+      "B": "von Willebrand disease",
+      "C": "chronic hepatitis",
+      "D": "uremia"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_2_39",
+    "category": "血液腫瘤科",
+    "stem": "下列關於原發性肺癌的敘述，何者錯誤？",
+    "options": {
+      "A": "肺癌局部擴散會造成膈神經（phrenic nerve）麻痺，導致Horner氏症候群（Horner's syndrome）",
+      "B": "Horner氏症候群症狀包括眼球陷沒（enophthalmos）、眼皮下垂（ptosis）、瞳孔縮小（miosis）、無汗（anhydrosis）",
+      "C": "肺癌長在肺尖局部擴散會侵犯第8頸神經、第1胸神經、第2胸神經，導致Pancoast症候群（Pancoastsyndrome）",
+      "D": "Pancoast症候群症狀包括肩痛並輻射至手臂尺骨（ulnar）側"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "110_2_40",
+    "category": "血液腫瘤科",
+    "stem": "病患初診斷膀胱癌時的期別，最常見的是：",
+    "options": {
+      "A": "表淺（superficial）型",
+      "B": "平滑肌侵犯（muscle-invasive）型",
+      "C": "轉移（metastatic）型：轉移至肺部",
+      "D": "轉移（metastatic）型：轉移至肝臟"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "110_2_41",
+    "category": "血液腫瘤科",
+    "stem": "對缺鐵性貧血的敘述，下列何者錯誤？",
+    "options": {
+      "A": "常見於生理期經血過多的女性",
+      "B": "慢性痔瘡出血是男性缺鐵性貧血的常見原因之一",
+      "C": "為了減輕體重而接受胃腸繞道手術的人，可能併發缺鐵性貧血",
+      "D": "有遺傳性海洋性貧血的人容易有缺鐵性貧血"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "111_1_36",
+    "category": "血液腫瘤科",
+    "stem": "腫瘤細胞常藉著分泌生物激素與其他免疫相關分子來抑制免疫反應，減少免疫相關分子來毒殺腫瘤細胞，下列有關免疫反應相對應機轉之敘述何者錯誤？",
+    "options": {
+      "A": "腫瘤細胞分泌interferon-γ等抑制免疫之細胞激素，可以抑制免疫反應",
+      "B": "腫瘤細胞class I major histocompatibility complex（MHC）喪失，影響免疫細胞活化",
+      "C": "腫瘤細胞影響調節T細胞（regulatory T cells）可以抑制免疫細胞功能",
+      "D": "腫瘤細胞產生CTLA-4可讓毒殺T細胞（cytotoxic T cells）不活化"
+    },
+    "answer": "A或D（均給分）"
+  },
+  {
+    "id": "111_1_37",
+    "category": "血液腫瘤科",
+    "stem": "全球的食道癌（esophageal cancer），常見的組織學型態是squamous cell carcinoma；但在北美地區，adenocarcinoma已逐漸成為主要的食道癌類型。下列有關與食道adenocarcinoma相關的危險或致病因子中，何者的相關性最低？",
+    "options": {
+      "A": "obesity",
+      "B": "chronic gastroesophageal reflux",
+      "C": "cigarette smoking",
+      "D": "Helicobacter pylori"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "111_1_38",
+    "category": "血液腫瘤科",
+    "stem": "胰臟癌（pancreatic ductal adenocarcinoma）逐年增加，其藥物治療學近年來也有相當的進展。下列有關胰臟癌藥物治療進展的敘述，何者最不恰當？",
+    "options": {
+      "A": "局部胰臟癌手術後，應進行輔助性化學治療半年",
+      "B": "胰臟癌術後輔助性化學治療，已有第三期臨床試驗證實gemcitabine + capecitabine優於gemcitabine",
+      "C": "晚期及轉移的胰臟癌應進行全身性化學治療，目前的研究顯示：組合式化學化療（combinationchemotherapy）並未優於gemcitabine單一治療",
+      "D": "針對gemcitabine治療失敗的晚期或轉移胰臟癌病患，liposomal irinotecan + 5-fluorouracil + leucovorin因可改善病患的整體存活期，已被美國衛生主管機關（FDA）核准通過"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_1_40",
+    "category": "血液腫瘤科",
+    "stem": "關於膀胱癌的敘述，下列何者錯誤？",
+    "options": {
+      "A": "原發性膀胱癌最常見的組織型是泌尿上皮癌",
+      "B": "低惡性度（low-grade）膀胱癌常見的基因變異是FGFR3突變或基因融合；高惡性度（high-grade）膀胱癌常見的基因變異是TP53突變、RB1突變",
+      "C": "剛發現時，絕大多數的膀胱癌都已經遠端轉移，其次是平滑肌肉層侵犯（muscle-invasive）膀胱癌、非平滑肌肉層侵犯（non-muscle-invasive）膀胱癌最少",
+      "D": "對於高風險（例如：T1腫瘤、high-grade、CIS）的非平滑肌肉層侵犯（non-muscle-invasive）膀胱癌，使用經尿道膀胱腫瘤切除術切除所有肉眼可見的腫瘤後，膀胱灌注BCG可以減少復發的機會"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_1_41",
+    "category": "血液腫瘤科",
+    "stem": "下列有關後天嚴重型再生不良貧血（severe acquired aplastic anemia）的治療的描述，何者最不恰當？",
+    "options": {
+      "A": "類固醇（glucocorticoid）常用於第一線治療，療效甚佳",
+      "B": "異體造血幹細胞移植（allogeneic hematopoietic stem cell transplantation）是治癒此病的選項之一",
+      "C": "antithymocyte globulin（ATG）合併cyclosporin 是常用的治療選項之一",
+      "D": "granulocyte colony-stimulating factor（G-CSF）通常無效"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "111_1_43",
+    "category": "血液腫瘤科",
+    "stem": "慢性骨髓性白血病，其病因是在第9號染色體（ABL locus）和第22號染色體（BCR區）的長臂有相互平衡的轉位（balanced translocation）， 導致有BCR-ABL1癌蛋白（oncoprotein）產生。下列敘述何者錯誤？",
+    "options": {
+      "A": "因染色體斷裂點不同，可以導致有不同的分子量之BCR-ABL1癌蛋白，其中以p210最為常見",
+      "B": "BCR-ABL1癌蛋白會使tyrosine kinase的活性增加而使細胞過度生長",
+      "C": "臨床上可以利用定量此一變異來檢測疾病控制的效果",
+      "D": "輻射傷害常常會導致這種轉位"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "111_1_44",
+    "category": "血液腫瘤科",
+    "stem": "下列何者不是動脈性血栓（arterial thrombi）的特徵？",
+    "options": {
+      "A": "主要的成分包括血小板，纖維蛋白（fibrin）和紅血球",
+      "B": "富含血小板",
+      "C": "急性的周邊動脈性血栓治療以全身性纖維蛋白溶解劑治療（systemic fibrinolytic therapy）為主",
+      "D": "急性心肌梗塞是屬於動脈性的血栓造成的併發症"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_2_5",
+    "category": "血液腫瘤科",
+    "stem": "下列關於轉移痛（referred pain）之敘述，何者錯誤？",
+    "options": {
+      "A": "胸腔或心臟疾病可以有上腹部轉移痛",
+      "B": "胸椎神經病變可以有下腹部轉移痛",
+      "C": "膽道發炎的疼痛常會轉移到鎖骨上或肩胛骨下的區域",
+      "D": "當原發處之疼痛不明顯時，可利用按壓轉移痛的區域來誘發疼痛"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "111_2_36",
+    "category": "血液腫瘤科",
+    "stem": "一位 30 歲孕婦，產前檢查時診斷罹患侵襲性滋養層細胞疾病（invasive trophoblastic disease），下列何者狀況不屬於高危險因子，因此此病人可以不須接受多種化學藥物組合治療？",
+    "options": {
+      "A": "腦部轉移",
+      "B": "懷孕四個月後才發生此疾病",
+      "C": "肺部轉移",
+      "D": "肝臟轉移"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_2_37",
+    "category": "血液腫瘤科",
+    "stem": "癌細胞透過製造並釋放類似內分泌的體液因子（humoral factors）而產生了所謂的 paraneoplastic syndrome。下列paraneoplastic syndrome 與其肇因的癌細胞分泌的類似內分泌的體液因子之組合，何者錯誤：",
+    "options": {
+      "A": "hypercalcemia of malignancy；1,25-dihydroxyvitamin D",
+      "B": "Cushing's syndrome；adrenocorticotropic hormone（ACTH）",
+      "C": "syndrome of inappropriate antidiuretic hormone secretion（SIADH）；vasopressin",
+      "D": "hypercalcemia of malignancy；thyroid hormone"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "111_2_38",
+    "category": "血液腫瘤科",
+    "stem": "胃腺癌（gastric adenocarcinoma）的治療，需考慮腫瘤的病理組織表現及腫瘤的分期。下列有關胃腺癌治療的敘述，何者最恰當？",
+    "options": {
+      "A": "局部的胃腺癌進行根治性手術切除後，單獨追加輔助性放射治療可增加存活率",
+      "B": "胃腺癌癌細胞對放射治療甚為敏感，針對局部胃腺癌施以放射治療合併化學治療已可達到與根治性手術相當的治癒率",
+      "C": "具有高度表現 HER-2/neu（HER-2 over-expression）之胃癌發生轉移復發時，化學治療合併 anti-HER2 的trastuzumab 相較於單獨化學治療可顯著延長存活時間",
+      "D": "組合式化學治療（合併 2～3 種化學治療藥物）是轉移／復發胃腺癌藥物治療的主流，化學治療合併bevacizumab 相較於單獨化學治療可顯著延長存活時間"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_2_39",
+    "category": "血液腫瘤科",
+    "stem": "Stage II 或 stage III 的直腸癌（rectal cancer）最主要的治療方式仍是手術切除。下列降低直腸癌局部復發的治療方式，何者最不恰當？",
+    "options": {
+      "A": "手術採 total mesorectal excision（TME）術式",
+      "B": "術前或術後針對骨盆進行放射治療",
+      "C": "5-fluorouracil（5-FU）化學治療合併放射治療",
+      "D": "對抗 epidermal growth factor receptor（EGFR）的 cetuximab 藥物治療合併放射治療"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "111_2_40",
+    "category": "血液腫瘤科",
+    "stem": "關於睪丸生殖細胞癌（germ cell tumor）治癒後，下列敘述何者錯誤？",
+    "options": {
+      "A": "如果當初接受過包括 cisplatin 的化學治療，會增加後續發生高血壓、高血脂、代謝症候群、心血管事件的風險",
+      "B": "如果當初接受過高累積劑量的 etoposide 的化學治療，會增加發生 11q23 轉位（translocation）的急性骨髓性白血病的絕對風險至 80%",
+      "C": "如果當初接受過 cisplatin 的化學治療，會增加後續發生第二個固態癌症的風險",
+      "D": "如果當初接受過放射治療，會增加後續發生第二個固態癌症的風險"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_2_41",
+    "category": "血液腫瘤科",
+    "stem": "下列何種做法，對於降低癌症治療造成的中性球低下併發燒（febrile neutropenia）的致死率最沒有幫助？",
+    "options": {
+      "A": "一旦發生中性球低下併發燒，立刻給與以經驗為依據的（empirical）抗細菌藥物",
+      "B": "如果中性球低下併發燒持續 4 至 7 天以上，使用抗生素治療後，仍持續發燒且無培養結果，給與以經驗為依據的（empirical）抗黴菌藥物",
+      "C": "如果中性球低下併發燒持續 7 至 10 天以上，給與以經驗為依據的（empirical）抗病毒藥物",
+      "D": "一旦發生極重度中性球低下（例如：惡性淋巴瘤接受高劑量化學治療後），在未發燒前就立刻給與以經驗為依據的（empirical）抗細菌藥物預防"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_2_42",
+    "category": "血液腫瘤科",
+    "stem": "下列有關於遺傳性球形紅血球症（hereditary spherocytosis）的敘述，何者錯誤？",
+    "options": {
+      "A": "過高的 mean corpuscular hemoglobin concentration（MCHC＞34）是此病的重要特徵",
+      "B": "所呈現的溶血，主要是血管內溶血（intravascular hemolysis）",
+      "C": "是基因突變引起的疾病。ANK1、SLC4A1、SPTB、SPTA1 等基因之突變均可能造成此病",
+      "D": "並不全然是 autosomal dominant 的遺傳形式，也可以是 autosomal recessive 的遺傳形式"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_2_43",
+    "category": "血液腫瘤科",
+    "stem": "慢性淋巴性白血病（chronic lymphocytic leukemia, CLL）的特徵，何者錯誤？",
+    "options": {
+      "A": "病人周邊血中 clonal B cells 5,000/μL 以上，是診斷 CLL 的重要依據",
+      "B": "初步診斷時有貧血的病人，比沒有貧血的病人預後較佳",
+      "C": "其周邊血液抹片常可看到泥細胞（smudge cell）",
+      "D": "丙型球蛋白（gamma globulin）的降低是常見表現之一"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_2_44",
+    "category": "血液腫瘤科",
+    "stem": "Aspirin 是目前最廣泛使用的抗血小板藥物，其抗血小板的作用機轉是透過：",
+    "options": {
+      "A": "阻斷 thromboxane A2 引發的血小板活化",
+      "B": "阻斷血小板上的 P2Y12 接受器",
+      "C": "抑制 ADP 引發的血小板聚集",
+      "D": "抑制 vWF（von Willebrand factor）的功能"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "112_1_36",
+    "category": "血液腫瘤科",
+    "stem": "子宮頸癌治療預後常跟原發腫瘤之侵犯位置與侵犯周邊器官有關，下列何者臨床狀況，其5年預後最差？",
+    "options": {
+      "A": "子宮頸癌只侵犯到子宮頸區域",
+      "B": "子宮頸癌侵犯到陰道之下1/3區域",
+      "C": "子宮頸癌侵犯到骨盆側壁（pelvic side wall）",
+      "D": "子宮頸癌侵犯到膀胱區域"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_1_37",
+    "category": "血液腫瘤科",
+    "stem": "大腸直腸癌（colorectal cancer）是國人最常見的惡性腫瘤之一。下列與大腸直腸癌發生相關的危險因子中，何者最不恰當？",
+    "options": {
+      "A": "飲食中的動物性脂肪（animal fat）",
+      "B": "inflammatory bowel disease",
+      "C": "Lynch's syndrome",
+      "D": "enterococcus bacteremia"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_1_38",
+    "category": "血液腫瘤科",
+    "stem": "一位23歲病人因咳嗽、喉嚨痛吃了兩天藥房買的藥後，突然發現小便呈現暗紅色，尿液檢查潛血反應為陽性，沉澱物中紅血球0～2/HPF，白血球1～2/HPF。抽血檢查顯示血紅素10.8 g/dL，網狀紅血球7.6%，白血球9,850/μL且分類正常，血小板178,000/μL，血球抹片如圖所示。AST 72 U/L（正常0～37），ALT 35 U/L（正常0～41），LDH 1,080 U/L，總膽紅素4.3 mg/dL，直接型膽紅素0.8 mg/dL，Coombs test陰性。病人回憶他小學時亦曾經在服用感冒藥後發生類似狀況，但幾天後就好了，當時並未去看醫生。此病人最可能的診斷為何？",
+    "options": {
+      "A": "autoimmune hemolytic anemia",
+      "B": "glucose 6-phosphate dehydrogenase（G6PD）deficiency",
+      "C": "acute glomerulonephritis",
+      "D": "acute hepatitis"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "112_1_39",
+    "category": "血液腫瘤科",
+    "stem": "一位62歲男性因跌倒就醫，實驗室檢查顯示Hb 7.6 g/dL，MCV 85 fL，platelet 120,000/μL。下圖分別為其骨髓抹片及Ｘ光，其診斷最可能為下列何者？",
+    "options": {
+      "A": "腺癌併多處骨轉移",
+      "B": "vitamin D嚴重缺乏症",
+      "C": "多發性骨髓瘤",
+      "D": "骨癌併多處轉移"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_1_40",
+    "category": "血液腫瘤科",
+    "stem": "評估癌症病人的活動能力（performance status），如採用Karnofsky performance status scale，70分表示：",
+    "options": {
+      "A": "活動及工作皆不受限制",
+      "B": "整日躺床，完全無法照顧自己",
+      "C": "能照顧自己，但已不能工作或做正常的活動",
+      "D": "日常生活需要他人相當多的協助及醫療照顧"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_1_41",
+    "category": "血液腫瘤科",
+    "stem": "一位60歲男性病人，咳嗽6週，喘氣、虛弱、胃口差、體重減輕。經詢問後，還有輕微頭疼及隱隱右側腹痛。他自16歲起每天抽兩包菸。身體診察呈現惡病質（cachexia），右臂及右頸無明顯腫脹，沒有胸前靜脈鼓起。胸部X光顯示右上肺葉有一大腫瘤，經皮穿刺生檢證實是小細胞肺癌，電腦斷層呈現上腔靜脈輕微壓迫，右縱膈腔淋巴結明顯腫大及肝轉移。最適當治療的方法為何？",
+    "options": {
+      "A": "緊急胸部放射治療",
+      "B": "化學治療",
+      "C": "支架撐開上腔靜脈，接著化學治療",
+      "D": "胸部放射治療，接著化學治療"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "112_1_42",
+    "category": "血液腫瘤科",
+    "stem": "下列何者不是芳香酶抑制劑（aromatase inhibitor）？",
+    "options": {
+      "A": "anastrazole",
+      "B": "exemestane",
+      "C": "letrozole",
+      "D": "tamoxifen"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_1_43",
+    "category": "血液腫瘤科",
+    "stem": "關於頭頸癌與病毒感染的相關敘述，下列何者錯誤？",
+    "options": {
+      "A": "與口咽癌（oropharyngeal cancer）發生有關的病毒是human papilloma virus 16（HPV 16）",
+      "B": "human papilloma virus（HPV）感染與西方國家口咽癌（oropharyngeal cancer）發生率上升相關",
+      "C": "human papilloma virus（HPV）相關的口咽癌（oropharyngeal cancer）較HPV不相關的口咽癌預後較差",
+      "D": "與鼻咽癌（nasopharyngeal cancer）發生有關的病毒是Epstein-Barr virus（EBV）"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_1_44",
+    "category": "血液腫瘤科",
+    "stem": "下列何者不是乳癌患者接受乳房保留手術（breast-conserving surgery）的相對或絕對禁忌症？",
+    "options": {
+      "A": "腋下淋巴轉移",
+      "B": "同側乳房多發性病灶",
+      "C": "腫瘤侵犯nipple-areola",
+      "D": "collagen-vascular disease患者"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "112_2_36",
+    "category": "血液腫瘤科",
+    "stem": "一位35歲婦女，因右側乳房有一腫塊，後接受切除切片證實為estrogen receptor（ER）陽性、progesterone receptor（PR）陽性、HER2陽性（組織免疫染色3+）之侵襲性乳癌，與主治醫師討論後，病人決定接受右側乳房保留手術和前哨淋巴結切片手術，其最後病理檢體證實腫瘤為直徑3公分，腋下淋巴結2顆轉移之侵襲性乳癌，下列何者術後輔助治療對降低病人乳癌局部及遠處轉移之效果最好？",
+    "options": {
+      "A": "anthracycline為主化學治療，加上抗賀爾蒙治療以及放射線治療",
+      "B": "紫杉醇為主化學治療，加上抗賀爾蒙治療和放射線治療",
+      "C": "合併化學治療以及卵巢去功能手術",
+      "D": "化學治療合併trastuzumab，以及抗賀爾蒙治療和放射線治療"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_2_37",
+    "category": "血液腫瘤科",
+    "stem": "針對原發部位不明轉移腺癌（adenocarcinoma of unknown primary）之病人，臨床醫師可藉由組織學染色之一系列流程，來鑑別可能之原發腺癌，下列敘述何者錯誤？",
+    "options": {
+      "A": "若CK（cytokeratin）7+，CK20+：可以幫助診斷卵巢癌或胰臟癌",
+      "B": "若CK（cytokeratin）7+，CK20-：可以幫助診斷子宮內膜癌或肺癌",
+      "C": "若CK（cytokeratin）7-，CK20+：可以幫助診斷前列腺癌或甲狀腺癌",
+      "D": "若CK（cytokeratin）7-，CK20-：可以幫助診斷肝細胞癌或腎細胞癌"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_2_38",
+    "category": "血液腫瘤科",
+    "stem": "某些癌症的治療可能與某些second malignancies的發生相關。下列有關癌症治療與second malignancy的組合，何者最不恰當？",
+    "options": {
+      "A": "topoisomerase inhibitors；acute lymphoblastic leukemia associated with deletions in chromosome 5 or 7",
+      "B": "tamoxifen；endometrial cancer",
+      "C": "異體骨髓移植使用T-cell depletion；EBV-associated lymphoproliferative disorder",
+      "D": "化學治療；myelodysplastic syndrome"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "112_2_41",
+    "category": "血液腫瘤科",
+    "stem": "關於癌症預防的敘述，下列何者錯誤？",
+    "options": {
+      "A": "B型肝炎疫苗能預防因為慢性B型肝炎病毒感染導致的肝炎、肝細胞癌",
+      "B": "如果先前未被某一型的人類乳突病毒感染過，接受該型人類乳突病毒疫苗，能預防該型人類乳突病毒感染的持續感染",
+      "C": "如果先前未被某一型的人類乳突病毒感染過，接受該型人類乳突病毒疫苗，能預防該型人類乳突病毒感染所造成的癌前病變",
+      "D": "人類乳突病毒疫苗接種過後可有終生免疫效果"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_2_42",
+    "category": "血液腫瘤科",
+    "stem": "下列有關血小板（platelet）的敘述，何者錯誤？",
+    "options": {
+      "A": "血小板無核，也無RNA，因此沒有合成蛋白質的能力",
+      "B": "正常的血小板之直徑約1～5 μm，平均在血液中的存活期約7～10天",
+      "C": "血小板的GPIb-IX-V複合體，對血小板之黏附（adhesion）與血小板之活化非常重要",
+      "D": "在急性冠狀動脈症候群（acute coronary syndrome）的病人血液中，其血小板彼此之間，以及血小板與白血球之間的交互作用均增強"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "112_2_43",
+    "category": "血液腫瘤科",
+    "stem": "下列有關造血幹細胞移植（hematopoietic stem cell transplantation）的敘述，何者最不恰當？",
+    "options": {
+      "A": "一位病人若有n個同父同母的兄弟姊妹，則可以找到至少一位HLA全合的兄弟姊妹的機率是1-(0.75)n",
+      "B": "進行異體造血幹細胞移植（allogeneic hematopoietic stem cell transplantation），若是ABO血型不相合，通常在移植前的免疫抑制劑的劑量必須增加或是進行recipient之脾臟切除",
+      "C": "自體造血幹細胞移植（autologous hematopoietic stem cell transplantation）並無graft-versus-hostdisease（GVHD）或是graft rejection的風險",
+      "D": "周邊血液中，在施打granulocyte colony-stimulating factor（G-CSF）數天之後，也可能收集到足夠的造血幹細胞進行移植。若是收集的數量不足，施打plerixafor（一種CXCR4的拮抗劑），可以幫助收集到更多的造血幹細胞"
+    },
+    "answer": "B或C（BC均給分）"
+  },
+  {
+    "id": "112_2_44",
+    "category": "血液腫瘤科",
+    "stem": "慢性淋巴性白血病（chronic lymphocytic leukemia, CLL）的病人，具有下列何種的染色體變異，有較佳的預後？",
+    "options": {
+      "A": "del(13)(q14.3)",
+      "B": "del(11)(q22.3)",
+      "C": "trisomy 12",
+      "D": "del(17)(p13.1)"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "112_2_57",
+    "category": "血液腫瘤科",
+    "stem": "下列何者是最常見的甲狀腺癌？",
+    "options": {
+      "A": "乳突癌（papillary carcinoma）",
+      "B": "濾泡細胞癌（follicular carcinoma）",
+      "C": "髓質癌（medullary carcinoma）",
+      "D": "未分化癌（anaplastic carcinoma）"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "113_1_36",
+    "category": "血液腫瘤科",
+    "stem": "一位第四期癌症病人有噁心、嘔吐、頭暈及其他神經症狀，且證實有腦部轉移，下列腦部轉移的原發部位何者機率最低？",
+    "options": {
+      "A": "肺癌",
+      "B": "乳癌",
+      "C": "前列腺癌",
+      "D": "黑色素癌"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_1_37",
+    "category": "血液腫瘤科",
+    "stem": "一位45歲婦女因下腹部疼痛，至醫院就診，後經診斷為卵巢上皮細胞癌（epithelial ovarian cancer），關於卵巢上皮細胞癌治療之敘述，下列何者錯誤？",
+    "options": {
+      "A": "optimal resection定義為腫瘤切除手術後，殘餘腫瘤直徑介於1到2公分之間",
+      "B": "BRCA1或BRCA2可能與卵巢上皮細胞癌發生有關",
+      "C": "paclitaxel和carboplatin是卵巢上皮細胞癌常用的有效輔助性化學藥物",
+      "D": "histologic grade與預後相關"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "113_1_38",
+    "category": "血液腫瘤科",
+    "stem": "乳癌標靶治療發展日新月異，目前有很多標靶藥物上市，可以幫助臨床醫師治療病人，下列標靶治療藥物與相對應的主要分子標靶配對何者錯誤？",
+    "options": {
+      "A": "Pertuzumab—抗HER2 抗體",
+      "B": "Denosumab—抗RANK Ligand 抗體",
+      "C": "Ribociclib—CDK4/6 抑制劑",
+      "D": "Everolimus—EGFR 抑制劑"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_1_39",
+    "category": "血液腫瘤科",
+    "stem": "下列有關癌症治療引起副作用的敘述，何者最不恰當？",
+    "options": {
+      "A": "預防tumor lysis syndrome最重要的方式是urine alkalization",
+      "B": "輸注rituximab時發生的fever、chill和bronchospasm，是一種infusion reaction",
+      "C": "使用chimeric antigen receptor（CAR）-engineered T cell therapy重要的急性毒性（acutetoxicity）之一是cytokine release syndrome",
+      "D": "某些化學治療藥物可能引起過敏反應（hypersensitivity reaction），如：taxane類藥物的過敏反應大多於第一或第二療程發生；而platinum類藥物的過敏反應則常於長期暴露後發生"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "113_1_40",
+    "category": "血液腫瘤科",
+    "stem": "惡性淋巴瘤病患接受rituximab治療時，下列何種疾病發生的機會最可能增加？",
+    "options": {
+      "A": "潰瘍性大腸炎",
+      "B": "類風濕性關節炎",
+      "C": "腎病症候群",
+      "D": "進行多發性白質腦病變（progressive multifocal leukoencephalopathy）"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_1_41",
+    "category": "血液腫瘤科",
+    "stem": "下列有關acute lymphoblastic leukemia之治療的敘述，何者最不適當？",
+    "options": {
+      "A": "以現代的化學治療處方，初次治療之完全緩解率（complete remission rate）可以高達80%以上",
+      "B": "維持治療（maintenance therapy）通常包含6-mercaptopurine與methotrexate，且長達2年至2年半",
+      "C": "對於帶有Philadelphia chromosome之acute lymphoblastic leukemia的維持治療（maintenancetherapy），建議加上tyrosine kinase inhibitor",
+      "D": "對於帶有Philadelphia chromosome之acute lymphoblastic leukemia之中樞神經的預防與治療，imatinib是理想選項"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_1_42",
+    "category": "血液腫瘤科",
+    "stem": "下列何者不是一般急性出血後貧血（acute post hemorrhagic anemia）的特徵？",
+    "options": {
+      "A": "初期病人可能有休克但只有輕度的貧血",
+      "B": "在出血過多導致休克經由optimal fluid resuscitation矯正後，血液相會有血球濃缩（hemoconcentration）",
+      "C": "周邊血reticulocyte數量上升",
+      "D": "血清中erythropoietin值上升"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_1_43",
+    "category": "血液腫瘤科",
+    "stem": "下列何者最不可能是骨髓增生性腫瘤（myeloproliferative neoplasm, MPN）常見產生突變的基因？",
+    "options": {
+      "A": "JAK2",
+      "B": "MPL",
+      "C": "CALR",
+      "D": "FLT-3"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_1_44",
+    "category": "血液腫瘤科",
+    "stem": "有關多發性骨髓瘤（multiple myeloma）的敘述，下列何者最不適當？",
+    "options": {
+      "A": "病人因免疫力低，常常容易受感染，最常見的感染病原菌之一是Streptococcus pneumoniae",
+      "B": "病人常有骨骼疼痛的表現",
+      "C": "病人常有高血鈣症",
+      "D": "偵測病人骨骼的病灶，用同位素骨掃描（bone scan）比用X光（bone radiograph）更精確"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_2_29",
+    "category": "血液腫瘤科",
+    "stem": "有關腫瘤溶解症候群（tumor lysis syndrome），下列敘述何者最不適當？",
+    "options": {
+      "A": "因為大量腫瘤細胞死亡，細胞內代謝物釋放至血液中導致高尿酸血症、高血鉀症、高血磷症",
+      "B": "由於尿酸結晶會堆積於腎小管，處置上必須給與大量補充體液，並用rasburicase藥物來預防高尿酸血症",
+      "C": "鹼化尿液能夠減少磷酸鈣（calcium phosphate）的沉澱而降低急性腎損傷",
+      "D": "若造成急性腎損傷合併寡尿、高血鉀症，可考慮透析治療"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_2_36",
+    "category": "血液腫瘤科",
+    "stem": "一位38歲女性，一開始以左側腋下腫瘤表現至醫院就診，腋下腫瘤切片證實為腺癌（adenocarcinoma），但乳房影像檢查（包括超音波，攝影及核磁共振）並無顯現乳房腫塊，關於此病人後續檢查或治療，下列何者最不合適？",
+    "options": {
+      "A": "檢測estrogen receptor、GATA3、HER-2基因表現",
+      "B": "同側乳房切除手術治療",
+      "C": "局部放射治療",
+      "D": "全身性化學治療或抗賀爾蒙治療"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_2_37",
+    "category": "血液腫瘤科",
+    "stem": "癌症治療學的進展一方面大大提升癌症病患的存活機會，但也可能合併許多late treatmentconsequences。下列癌症治療藥物和late treatment consequence的組合，何者最不恰當？",
+    "options": {
+      "A": "anthracycline — neuropathy",
+      "B": "bleomycin — pulmonary fibrosis",
+      "C": "trastuzumab — cardiac dysfunction",
+      "D": "glucocorticoids — avascular necrosis of bones"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "113_2_38",
+    "category": "血液腫瘤科",
+    "stem": "關於第四期的皮膚惡性黑色素細胞癌（malignant melanoma） 之治療，下列敘述何者最不適當？",
+    "options": {
+      "A": "標靶治療（BRAF抑制劑、MEK抑制劑）相較於免疫治療（抗CTLA-4抗體、抗PD-1抗體）最大的好處是標靶治療效果的持久性（durability）較佳",
+      "B": "使用標靶治療的副作用之一為產生皮膚鱗狀上皮癌。合併使用BRAF抑制劑加上MEK抑制劑，產生此一副作用之機會比單獨使用BRAF抑制劑為低",
+      "C": "如果是沒有BRAF突變的惡性黑色素細胞癌，第一線的治療可以使用免疫治療",
+      "D": "如果是有BRAF突變的惡性黑色素細胞癌，第一線的治療可以使用免疫治療或標靶治療（BRAF抑制劑加上MEK抑制劑）"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "113_2_39",
+    "category": "血液腫瘤科",
+    "stem": "攝護腺癌（prostate cancer）合併遠端轉移，病患血中睪固酮（testosterone）已經小於50 ng/mL，下列何種藥物目前尚無明確證實有效的證據？",
+    "options": {
+      "A": "abiraterone acetate + prednisone",
+      "B": "enzalutamide",
+      "C": "化學治療的docetaxel",
+      "D": "免疫治療的pembrolizumab"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_2_40",
+    "category": "血液腫瘤科",
+    "stem": "下列何種情形血中攝護腺特異性抗原（prostate specific antigen, PSA）最不可能高於正常值？",
+    "options": {
+      "A": "良性攝護腺肥大（benign prostate hypertrophy）",
+      "B": "攝護腺切片（prostate biopsy）之後",
+      "C": "攝護腺癌（prostate cancer）",
+      "D": "根除性攝護腺切除（radical prostatectomy）之後"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_2_41",
+    "category": "血液腫瘤科",
+    "stem": "下列發生於acute myeloid leukemia的染色體變化與相對應的基因融合（fusion），何者錯誤？",
+    "options": {
+      "A": "t(8;21)與RUNX1-RUNX1T1",
+      "B": "t(15;17)與PML-RARA",
+      "C": "inv(16)與CBFB-MYH11",
+      "D": "t(9;11)與DEK-NUP214"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_2_42",
+    "category": "血液腫瘤科",
+    "stem": "有關巨球母細胞性貧血（megaloblastic anemia）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "可以和葉酸缺乏有關",
+      "B": "可以和維生素B12缺乏有關",
+      "C": "其基本形成的原因是DNA轉錄到mRNA的過程受到阻斷",
+      "D": "其血液學的表現可以是全血球低下（pancytopenia）"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_2_43",
+    "category": "血液腫瘤科",
+    "stem": "有關何杰金氏淋巴癌病源的敘述何者正確？",
+    "options": {
+      "A": "目前認為其淋巴癌細胞最可能是源自於B細胞淋巴球",
+      "B": "目前認為其淋巴癌細胞最可能是源自於T細胞淋巴球",
+      "C": "HIV感染相關之何杰金氏淋巴癌細胞裡幾乎都看不到EBV感染的證據",
+      "D": "非HIV感染相關之何杰金氏淋巴癌細胞裡幾乎都看得到EBV感染的證據"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "113_2_44",
+    "category": "血液腫瘤科",
+    "stem": "下列何者最不可能是多發性骨髓癌（multiple myeloma）常見的臨床表現特徵？",
+    "options": {
+      "A": "脊椎壓迫性骨折",
+      "B": "腎功能異常",
+      "C": "高血鈣症（hypercalcemia）",
+      "D": "多血症（polycythemia）"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "114_1_30",
+    "category": "血液腫瘤科",
+    "stem": "下列有關腫瘤溶解（tumor lysis）所造成之電解質或代謝異常表現，何者最不常見？",
+    "options": {
+      "A": "hyperphosphatemia",
+      "B": "hyperuricemia",
+      "C": "hypocalcemia",
+      "D": "hyponatremia"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "114_1_36",
+    "category": "血液腫瘤科",
+    "stem": "有關Ewing氏肉瘤（Ewing's sarcoma）之臨床病理特徵，下列敘述何者錯誤？",
+    "options": {
+      "A": "A.常好發於長端骨頭之diaphyseal區域",
+      "B": "platelet-derived growth factor receptor-α（PDGFRA）是最常見的基因異常",
+      "C": "CT影像可以看到onion peel表徵",
+      "D": "最常轉移的地方是肺部和其他骨頭區域"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "114_1_37",
+    "category": "血液腫瘤科",
+    "stem": "一位38歲停經前女性，因左側有一乳房腫塊併背部強烈疼痛就診，左側乳房腫瘤經病理切片證實為estrogen receptor陽性和HER2陰性之侵襲性乳癌，經過全身影像檢查後，證實有骨頭轉移但無肝臟及肺臟轉移。下列治療處方，何者最不適宜？",
+    "options": {
+      "A": "oophorectomy",
+      "B": "tamoxifen",
+      "C": "GnRH agonist",
+      "D": "aromatase inhibitor"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "114_1_39",
+    "category": "血液腫瘤科",
+    "stem": "亞洲人最常見的皮膚惡性黑色素細胞癌（malignant melanoma）屬於下列那一分型：",
+    "options": {
+      "A": "表淺擴散型（superficial spreading）",
+      "B": "結節型（nodular）",
+      "C": "惡性小痣型（lentigo maligna）",
+      "D": "肢端小痣型（acral lentiginous）"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "114_1_41",
+    "category": "血液腫瘤科",
+    "stem": "下列有關acute lymphoblastic leukemia之免疫治療敘述，何者最不適當？",
+    "options": {
+      "A": "A.inotuzumab ozogamicin是一種抗CD19的抗體並接合細胞毒物，可以有效治療復發或是頑強的acutelymphoblastic leukemia",
+      "B": "blinatumomab是一種雙特異性的抗體，同時辨識CD3（T細胞）與CD19（B細胞），可以有效治療B-lineage acute lymphoblastic leukemia",
+      "C": "chimeric antigen receptor（CAR）T cells可以設計成針對CD19抗原，用於治療復發或是頑強且帶有CD19的acute lymphoblastic leukemia",
+      "D": "chimeric antigen receptor（CAR）T cells的治療可能造成cytokine release syndrome（CRS）之副作用，症狀可能包括發燒、低血壓與神智不清"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "114_1_42",
+    "category": "血液腫瘤科",
+    "stem": "下列有關HbH disease的敘述，何者錯誤？",
+    "options": {
+      "A": "是一種β thalassemia",
+      "B": "臨床上常伴隨溶血的表現",
+      "C": "在成人會有β4 tetramer的形成",
+      "D": "成年病人其HbA的生成，約為正常人的25～30%"
+    },
+    "answer": "A 或 D"
+  },
+  {
+    "id": "114_1_43",
+    "category": "血液腫瘤科",
+    "stem": "下列何者最不會導致葉酸缺乏？",
+    "options": {
+      "A": "酗酒",
+      "B": "高胱胺酸尿症（homocysteinuria）",
+      "C": "孕婦",
+      "D": "血清偵測到高效價的抗胃壁細胞抗體（gastric parietal cell antibody）"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "114_1_44",
+    "category": "血液腫瘤科",
+    "stem": "有關ABO血型不同的輸血，下列敘述何者正確？",
+    "options": {
+      "A": "A型紅血球輸入O型病人體內所造成的溶血反應，主要是經由免疫球蛋白G（IgG）的抗原抗體反應所造成",
+      "B": "在緊急的時候，A型的血小板濃縮液仍不可以輸入O型的病人體內",
+      "C": "在緊急的時候，A型的紅血球濃縮液仍不可以輸入O型的病人體內",
+      "D": "O型兒子的紅血球可以不經過任何處理輸入其A型親生母親的體內"
+    },
+    "answer": "C"
+  }
+]

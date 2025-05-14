@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>選擇考題</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background-color: #f4f4f4; color: #333; }
+        h1 { color: #333; text-align: center; }
+        form { 
+            background-color: #fff; 
+            padding: 20px; 
+            border-radius: 8px; 
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            max-width: 500px;
+            margin: 20px auto;
+        }
+        label { display: block; margin-bottom: 8px; font-weight: bold; }
+        .category-group label {
+            font-weight: normal; /* Normal weight for radio labels */
+            display: inline-block; /* Keep radio and label on same line */
+            margin-right: 15px;
+        }
+        .category-container {
+            margin-bottom: 15px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        select, input[type="submit"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border-radius: 4px;
+            border: 1px solid #ddd;
+            box-sizing: border-box; /* So padding doesn't affect width */
+        }
+        input[type="radio"] { margin-right: 5px; }
+        input[type="submit"] {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        input[type="submit"]:hover { background-color: #0056b3; }
+        .error { color: red; margin-bottom: 15px; text-align: center; }
+    </style>
+</head>
+<body>
+    <h1>選擇考題</h1>
+
+    {% if error %}
+        <p class="error">{{ error }}</p>
+    {% endif %}
+
+    <form method="POST">
+        <div class="category-container">
+            <label>請選擇次專科：</label>
+            {% for category in categories %}
+                <div class="category-group">
+                    <input type="radio" id="{{ category }}" name="category" value="{{ category }}" {% if loop.first %}checked{% endif %}>
+                    <label for="{{ category }}">{{ category }}</label>
+                </div>
+            {% endfor %}
+        </div>
+
+        <div>
+            <label for="num_questions">請選擇題數：</label>
+            <select id="num_questions" name="num_questions">
+                {% for num in num_options %}
+                    <option value="{{ num }}">{{ num }}</option>
+                {% endfor %}
+            </select>
+        </div>
+
+        <input type="submit" value="出題">
+    </form>
+</body>
+</html> 

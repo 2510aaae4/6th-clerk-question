@@ -1,0 +1,998 @@
+[
+  {
+    "id": "110_1_5",
+    "category": "腎臟科",
+    "stem": "接受腎移植後可能出現的伺機性感染（opportunistic infection）中，下列何者感染較常出現於移植後一個月內？",
+    "options": {
+      "A": "Herpesvirus",
+      "B": "Aspergillus",
+      "C": "Nocardia",
+      "D": "Hepatitis C"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "110_1_18",
+    "category": "腎臟科",
+    "stem": "一位53歲女性病人主訴食慾不振與茶色尿有10天。身體診察顯示無發燒、無腹部壓痛，但有黃疸。血液檢查顯示：bilirubin（total/direct）：8.2/5.8 mg/dL、ALT：148 U/L、WBC：5600 /mm3。下列進一步之檢查何者對診斷沒有幫助？",
+    "options": {
+      "A": "reticulocyte count",
+      "B": "alkaline phosphatase",
+      "C": "hepatitis B surface antigen",
+      "D": "abdominal sonography"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "110_1_24",
+    "category": "腎臟科",
+    "stem": "下列何種檢驗對區分腹瀉或腎小管酸血症（renal tubular acidosis）引起正常陰離子隙代謝性酸中毒最具診斷價值？",
+    "options": {
+      "A": "尿陰離子隙（urine anion gap）",
+      "B": "血陰離子隙（blood anion gap）",
+      "C": "血鉀濃度",
+      "D": "血氯濃度"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "110_1_26",
+    "category": "腎臟科",
+    "stem": "65歲女性病人糖尿病已15年，1個月前血中肌酸酐（creatinine）為1.1 mg/dL，3天前開始咳嗽有痰、發燒、呼吸困難、急促，今日意識不清、發燒持續，送至急診，血壓130/70 mmHg，身體診察右下胸有濁音，胸部X光呈現右下肺浸潤病灶，血中白血球16,580 /μL、血中肌酸酐8.5 mg/dL、血中鉀離子6.5 mEq/L、HCO3- 12mEq/L，則病人此時最不適合接受何種治療？",
+    "options": {
+      "A": "連續性靜脈血液過濾術（continuous venovenous hemofiltration）",
+      "B": "間歇性血液透析術（hemodialysis）",
+      "C": "血漿置換術（plasmapheresis）",
+      "D": "腹膜透析（peritoneal dialysis）"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "110_1_28",
+    "category": "腎臟科",
+    "stem": "下列有關腎因性全身纖維化（nephrogenic fibrosing dermopathy）的敘述，何者錯誤？",
+    "options": {
+      "A": "與使用gadolinium有關，病症類似scleromyxedema",
+      "B": "CKD第3期仍可減量使用gadolinium",
+      "C": "肝臟疾病是罹患此症的危險因子",
+      "D": "血液透析無法清除gadolinium"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "110_1_29",
+    "category": "腎臟科",
+    "stem": "關於急性腎損傷（acute kidney injury）的治療方式，下列何者錯誤？",
+    "options": {
+      "A": "針對急性腎損傷的治療原則，目前以支持性療法為主",
+      "B": "可使用等張生理食鹽水來預防顯影劑造成之急性腎損傷",
+      "C": "急性腎損傷若併發高血鉀症，應停用血管張力素轉化酶抑制劑（ACEi）或血管張力素II型受體拮抗劑（ARB）",
+      "D": "羥乙基澱粉溶液（hydroxyethyl starch）可有效改善低血容積引發之急性腎損傷"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "110_1_30",
+    "category": "腎臟科",
+    "stem": "63歲女士因背痛服用diclofenac持續半年，因下肢水腫至門診求診，最近無噁心、嘔吐及腹瀉。身體診察查：血壓126/66 mmHg，心跳每分鐘74下，雙側下肢水腫程度1+。血液檢查：白血球7,900/μL，血色素10.9 g/dL，血小板282,000/μL，球蛋白3.9 g/dL，白蛋白3.0 g/dL，尿素氮12 mg/dL，肌酸酐0.63 mg/dL，血糖84 mg/dL，乳酸去氫酶（LDH）288 U/L（正常值131～250 U/L），尿酸9.7 mg/dL，鈉離子136 mEq/L，鉀離子4.2mEq/L，膽固醇260 mg/dL，三酸甘油脂80 mg/dL，低密度膽固醇175 mg/dL。尿液試紙檢查：尿蛋白陰性，尿比重1.015，尿液沉渣無紅血球或白血球。尿液總蛋白質與肌酸酐比值為4.907克/克肌酸酐。下列有關此位病患之敘述，何者正確？",
+    "options": {
+      "A": "病患蛋白尿的原因可能是非類固醇抗發炎藥（NSAID）造成",
+      "B": "檢anti-phospholipase A2 receptor 抗體有助診斷病因",
+      "C": "檢測血清免疫電泳（immunoelectrophoresis）有助診斷病因",
+      "D": "此病患首選治療為低劑量血管張力素II型受體拮抗劑"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "110_1_31",
+    "category": "腎臟科",
+    "stem": "27歲女性，主訴兩手小關節的酸痛，併有光過敏及Raynaud's phenomenon。在門診的檢查結果為：ANA 1：160 speckled, RF 42 IU/mL（normal<10 IU/mL），hemoglobin：10.7 mg/dL，ESR 37 mm/1h，CRP：0.06mg/dL，anti-dsDNA 144 IU/mL（normal<120 IU/mL），anti-SSB: 164 AU/mL（normal <120 AU/mL），anti-RNP：241 AU/mL（normal<120AU/mL），尿液常規檢查正常。這位患者最有可能的診斷為何？",
+    "options": {
+      "A": "rheumatoid arthritis",
+      "B": "systemic lupus erythematosus",
+      "C": "Sjögren's syndrome",
+      "D": "systemic sclerosis"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_1_52",
+    "category": "腎臟科",
+    "stem": "50歲女性，每日尿量5公升，限水測試後，尿滲透壓並無變化，每小時尿量並未減少。5小時後，靜脈注射desmopressin acetate 2 μg，尿滲透壓上升，每小時尿量減少。下列何者是此病人最適當的診斷？",
+    "options": {
+      "A": "原發性多飲症（primary polydipsia）",
+      "B": "滲透性利尿（osmotic diuresis）",
+      "C": "中樞性尿崩症（central diabetes insipidus）",
+      "D": "腎性尿崩症（nephrogenic diabetes insipidus）"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "110_1_58",
+    "category": "腎臟科",
+    "stem": "77歲病患有糖尿病和高血壓10年，持續接受藥物（metformin、amlodipine、aspirin）穩定控制外，身體健康，並維持規律運動。家人描述病患在最近結束郵輪旅遊4天後，出現漸進性發燒、寒顫、乾咳和腹瀉，來院前意識不清。病人就醫時，檢查發現病患對於環境、時間、和人定位感喪失，體溫39.5℃，血壓96/58 mmHg，脈搏每分鐘128下，呼吸急促，每分鐘36次。肺部聽診左右雙側都有囉音（rales）。血液相發現白血球17400/mm3，血鈉125 mmol/L。其餘生化檢查正常。血氧飽和度在使用面罩給予每分鐘10L氧氣（濃度60%）下，血氧飽和度是89%。痰液革蘭氏染色（Gram's stain）低倍顯微鏡檢僅發現50～60顆白血球，無可見微生物。緊急胸部X光如圖。此病患最有可能的診斷為何？",
+    "options": {
+      "A": "急性心肌梗塞",
+      "B": "急性肺栓塞",
+      "C": "肺結核",
+      "D": "退伍軍人症"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "110_1_59",
+    "category": "腎臟科",
+    "stem": "下列何種抗生素的使用一般不需依腎功能的高低而調整使用劑量？",
+    "options": {
+      "A": "cefazolin",
+      "B": "levofloxacin",
+      "C": "metronidazole",
+      "D": "vancomycin"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "110_1_76",
+    "category": "腎臟科",
+    "stem": "下列關於糖尿病酮酸中毒（diabetes ketoacidosis, DKA）之敘述，何者最不適當？",
+    "options": {
+      "A": "臨床表現與高血糖、液體不足（volume depletion）和酸血症（acidosis）有關",
+      "B": "臨床檢驗會出現呼吸性酸血症（respiratory acidosis）",
+      "C": "DKA的誘發因子包括胰島素注射不足、感染、懷孕等",
+      "D": "病人全身鉀離子通常不足"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_2_2",
+    "category": "腎臟科",
+    "stem": "下列何種狀況不是使用angiotensin-converting enzyme（ACE）inhibitors的禁忌？",
+    "options": {
+      "A": "腎功能持續惡化",
+      "B": "低血鉀",
+      "C": "懷孕",
+      "D": "雙側腎動脈狹窄"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_2_4",
+    "category": "腎臟科",
+    "stem": "一位70歲男性糖尿病患，長期服用glimepiride、metformin、acarbose、pioglitazone控制血糖。接受血管攝影4天後，因意識不清被送至急診。抽動脈血液檢驗結果顯示代謝性酸中毒（pH 6.8、Pco2 39.3 mmHg、HCO3- 6.2mEq/L）、BUN 86 mg/dL、creatinine 6.8 mg/dL、Na+ 135 mEq/L、K+ 6.0 mEq/L、Cl- 90 mEq/L、glucose 131mg/dL、lactic acid 26.6 mmol/L（參考值 0.5～2.2 mmol/L）、ketone body（negative）。其所服用的藥物中，何者與此急性病變最具相關性？",
+    "options": {
+      "A": "glimepiride",
+      "B": "metformin",
+      "C": "acarbose",
+      "D": "pioglitazone"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_2_24",
+    "category": "腎臟科",
+    "stem": "18歲男性病人，10天前喉嚨痛，當時血液肌酸酐1.0 mg/dL。最近4天有發燒、高血壓、少尿、水腫、運動性呼吸困難。血液肌酸酐1.6 mg/dL，明顯的補體下降，尿液紅血球25～40/HPF，紅血球圓柱體（RBC cast）+，蛋白質1+。最不可能的診斷是：",
+    "options": {
+      "A": "鏈球菌感染後之腎絲球腎炎（poststreptococcal glomerulonephritis）",
+      "B": "韋氏肉芽腫（Wegener’s granulomatosis）",
+      "C": "紅斑性狼瘡腎炎（lupus nephritis）",
+      "D": "心內膜炎（infective endocarditis）"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_2_25",
+    "category": "腎臟科",
+    "stem": "巴特氏症候群（Bartter’s syndrome）的腎小管上皮細胞功能失調出現在：",
+    "options": {
+      "A": "近端腎小管",
+      "B": "亨利氏環粗上升支",
+      "C": "遠端腎小管",
+      "D": "集尿小管"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_2_26",
+    "category": "腎臟科",
+    "stem": "一位50歲無糖尿病男性，生化檢驗結果呈現血清肌酸酐3.5 mg/dL，尿素氮40.1 mg/dL，估算之腎絲球過濾率20 mL/min，白蛋白4.0 g/dL，血鉀4.1 mmol/L，血鈣2.05 mmol/L，血磷4.5 mg/dL，25(OH) vitamin D 10ng/mL，intact parathyroid hormone 255 pg/mL。下列治療何者最優先？",
+    "options": {
+      "A": "cinacalcet",
+      "B": "cholecalciferol",
+      "C": "calcitriol",
+      "D": "ergocalcitriol"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "110_2_27",
+    "category": "腎臟科",
+    "stem": "下列4類無症狀性大腸桿菌菌尿症（＞105colony forming units/mL）病人，何者最需要接受抗生素治療？",
+    "options": {
+      "A": "24歲性活躍女性",
+      "B": "30歲懷孕12週女性",
+      "C": "50歲糖尿病女性",
+      "D": "75歲置有長期導尿管男性"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_2_28",
+    "category": "腎臟科",
+    "stem": "王先生為54歲男性，因IgA nephropathy進展至末期腎臟病，無其他過去病史。若要為王先生建議腎臟替代療法，下列何種療法的長期（大於1年）存活率及生活品質最佳？",
+    "options": {
+      "A": "血液透析（hemodialysis）",
+      "B": "腹膜透析（peritoneal dialysis）",
+      "C": "連續性靜脈對靜脈血液過濾術（continuous venovenous hemofiltration）",
+      "D": "腎臟移植（renal transplantation）"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "110_2_29",
+    "category": "腎臟科",
+    "stem": "一位56歲的高血壓患者，因血壓控制的需要，已服用利尿劑一段時間。某天晚上十點多鐘，患者突覺左側大腳趾、足踝關節及腳背紅腫劇痛。送急診後，左腳X光檢查正常，ESR 28 mm/1h，CRP 11.4 mg/dL（正常<0.8mg/dL），WBC 9650/μL。下列何種檢查對診斷最有幫助？",
+    "options": {
+      "A": "septic work-up",
+      "B": "joint fluid examination",
+      "C": "anticardiolipin antibodies",
+      "D": "serum uric acid level"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "110_2_48",
+    "category": "腎臟科",
+    "stem": "28歲女性因在前額中部頭痛、噁心4星期後來診。病人月經一向正常，直到3年前，月經量開始減少且變得不規則。此次經檢測尿液發現懷孕反應陽性且尿糖陽性。身體檢查發現牙齒間隙大，舌頭大且下顎突出，後頸部有黑色棘皮症但無水牛肩或腹部條紋，下一步應做那一項檢查最為恰當？",
+    "options": {
+      "A": "血清β-hCG test",
+      "B": "血糖測定",
+      "C": "頭部電腦斷層",
+      "D": "測量 IGF-I"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "110_2_62",
+    "category": "腎臟科",
+    "stem": "一位55歲男性兩天來嘔吐不止送至急診處。病人過去有十二指腸潰瘍，兩天前開始噁心嘔吐，但無腹痛或發燒。身體診察，脈搏每分鐘118，血壓88/50 mmHg，無貧血或黃疸；胸腔和心臟正常，上腹部稍有壓痛但無反彈疼痛，腸動聲稍減，血清電解質（mmol/L）：Na+ 136，K+ 2.9，Cl- 89。動脈氣體分析如下：pH 7.49，PaCO2 45 mmHg，PaO2 98 mmHg，HCO3- 32 mEq/L。下列有關對此病人的敘述何者最為正確？",
+    "options": {
+      "A": "尿液的氯離子應該<20 mmol/L",
+      "B": "尿液的滲透壓應該<300 mOsmol/kg H2O",
+      "C": "血液的滲透壓應該<270 mOsmol/kg H2O",
+      "D": "尿液的鉀離子應該<10 mmol/L"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "111_1_4",
+    "category": "腎臟科",
+    "stem": "某位70歲女性因為喝有機磷（organophosphate）農藥自殺而被送來醫院急救。當農藥毒性發作時，最不可能導致下列何種徵象？",
+    "options": {
+      "A": "肌肉無力",
+      "B": "口水、淚液減少",
+      "C": "癲癇發作（seizure）",
+      "D": "腹瀉、大便失禁"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_1_24",
+    "category": "腎臟科",
+    "stem": "53歲男性腎臟移植病人，移植腎功能惡化，1個月內serum creatinine 由1.0 mg/dL，上升至2.0 mg/dL，移植腎切片顯示內皮細胞損傷（endothelial injury）、C4d 沉積，下列何種治療最不適當？",
+    "options": {
+      "A": "血漿置換（plasmapheresis）",
+      "B": "免疫球蛋白注射（immunoglobulin infusion）",
+      "C": "anti-IL2 接受器（anti-IL2 receptor）單株抗體注射",
+      "D": "anti-CD20 單株抗體（rituximab）注射"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_1_25",
+    "category": "腎臟科",
+    "stem": "一名50歲男性尿路結石病人的尿液檢查發現結晶物質如附圖所示，下列何項建議最為適當？",
+    "options": {
+      "A": "consume a low-calcium diet from now on",
+      "B": "need not modulate urine pH",
+      "C": "start taking tiopronin or penicillamine",
+      "D": "supply high-dose vitamin C"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_1_26",
+    "category": "腎臟科",
+    "stem": "下列何項不是急性間質性腎炎（acute interstitial nephritis）的常見臨床表現？",
+    "options": {
+      "A": "尿液分析僅輕度蛋白尿（＜1.0 g/24 hours）和血尿",
+      "B": "血清肌酸酐上升合併鈉排出率（fractional excretion of sodium）＞1.0",
+      "C": "使用氫離子幫浦阻斷劑後發生腎病症候群程度的蛋白尿（nephrotic-range proteinuria）",
+      "D": "腎衰竭發展耗時數日至數週，符合原發性免疫反應動力學（kinetics）"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_1_27",
+    "category": "腎臟科",
+    "stem": "有關多囊性腎臟病的敘述，下列何者錯誤？",
+    "options": {
+      "A": "自體顯性多囊性腎臟病（autosomal dominant polycystic kidney disease, ADPKD）是最常見的遺傳性腎臟疾病",
+      "B": "自體顯性多囊性腎臟病（autosomal dominant polycystic kidney disease, ADPKD）的致病基因目前已知的有兩型：第一型：PKD1 基因，位在第16對染色體短臂上（16p13.3）；第二型：PKD2 基因，位在第4對染色體長臂上（4q21-q23）",
+      "C": "多囊性腎臟病的患者，約3.2%~10%會發生腦部動脈瘤，男性有較高的盛行率，特別是年紀小於30歲者",
+      "D": "多囊性腎臟病的患者與一般末期腎病不同的是，患者發生嚴重貧血的機率較小，當惡化至尿毒症時，患者一樣可接受透析治療或腎臟移植"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_1_28",
+    "category": "腎臟科",
+    "stem": "下列原發性腎病變引起的腎病症候群（nephrotic syndrome），那一種最容易發生血栓併發症（如：renal vein thrombosis、pulmonary embolism和deep-vein thrombosis）？",
+    "options": {
+      "A": "type I membranoproliferative glomerulonephritis（MPGN）",
+      "B": "focal segmental glomerulosclerosis（FSGS）",
+      "C": "membranous nephropathy（MN）",
+      "D": "minimal change disease（MCD）"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_1_29",
+    "category": "腎臟科",
+    "stem": "在皮質集尿管（cortical collecting duct）有三種上皮細胞，下列敘述何者正確？",
+    "options": {
+      "A": "主細胞（principal cells）是負責鉀離子的再吸收細胞",
+      "B": "作用在主細胞（principal cells）包括：醛固酮，K+-sparing利尿劑及醛固酮拮抗劑",
+      "C": "A型間細胞（type A intercalated cells）控制酸的再吸收與重碳酸根分泌",
+      "D": "B型間細胞（type B intercalated cells）控制酸的分泌與重碳酸根再吸收"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_1_30",
+    "category": "腎臟科",
+    "stem": "關於急性腎損傷處置的敘述，下列何者錯誤？",
+    "options": {
+      "A": "對於非出血性休克病人的靜脈輸液，建議使用等張晶體溶液（isotonic crystalloid solution）",
+      "B": "建議重症病人以低蛋白飲食來延緩透析",
+      "C": "在體液容積足夠的情況下，furosemide stress test能夠作為急性腎損傷惡化的預測工具",
+      "D": "不建議使用低劑量多巴胺（dopamine）來預防急性腎損傷"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_1_31",
+    "category": "腎臟科",
+    "stem": "關於痛風（gout）疾病的敘述，下列何者最適當？",
+    "options": {
+      "A": "痛風常發生在中年男性，而女性在停經（menopause）之後痛風的發生率會降低",
+      "B": "急性痛風關節炎發作時，血中的uric acid濃度可以是在正常值的範圍內",
+      "C": "X光檢查常會看到明顯的關節破壞，但關節的ultrasound檢查較無法看到尿酸結晶的關節變化",
+      "D": "針對痛風合併腎臟功能不全的病人，不應使用glucocorticoid的藥物來治療急性痛風關節炎"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_2_1",
+    "category": "腎臟科",
+    "stem": "病人主訴頻尿，每次尿量都很多，並未使用利尿劑。收集 24 小時尿液檢查結果：總尿量 3500 mL/day，urine osmolality 450 mosmol/L。病人的檢查數值，最符合下列那一種多尿症的診斷？",
+    "options": {
+      "A": "溶質性利尿（solute diuresis）",
+      "B": "原發性多飲症（primary polydipsia）",
+      "C": "中樞性尿崩症（central diabetes insipidus）",
+      "D": "腎源性尿崩症（nephrogenic diabetes insipidus）"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "111_2_2",
+    "category": "腎臟科",
+    "stem": "關於懷孕期間慢性高血壓的治療建議，下列何者最不適當？",
+    "options": {
+      "A": "首選藥物為血管收縮素轉化酶抑制劑（angiotensin-converting enzyme inhibitor）或血管收縮素受體阻斷劑（angiotensin receptor blocker）",
+      "B": "可以使用 labetalol 或 nifedipine 控制血壓",
+      "C": "尚無足夠證據證實輕微高血壓的治療能改善懷孕預後",
+      "D": "收縮壓目標控制在 130～150 mmHg，而舒張壓目標控制在 80～100 mmHg"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "111_2_4",
+    "category": "腎臟科",
+    "stem": "下列身體診察徵象與疾病的組合，何者的相關性最低？",
+    "options": {
+      "A": "Chvostek's sign；低鈣血症",
+      "B": "Duroziez's sign；主動脈瓣閉鎖不全",
+      "C": "Kussmaul's sign；代謝酸中毒",
+      "D": "Romberg's sign；感覺性共濟失調（sensory ataxia）"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_2_25",
+    "category": "腎臟科",
+    "stem": "下列何項不是馬兜鈴酸腎病變（aristolochic acid nephropathy）的臨床特徵？",
+    "options": {
+      "A": "marked protein-energy malnutrition",
+      "B": "rapid progression to renal failure",
+      "C": "upper urinary tract urothelial cancer",
+      "D": "disproportionate anemia"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "111_2_26",
+    "category": "腎臟科",
+    "stem": "一名 60 歲女性，3 小時前開始左腰疼痛並出現血尿，體溫 38.3℃，靜脈腎盂攝影檢查 10 分鐘前、後呈像如附圖左、右。下列何項治療處置應最優先考慮",
+    "options": {
+      "A": "給與α1 腎上腺素受體阻斷劑",
+      "B": "照會泌尿科醫師尋求介入治療",
+      "C": "投與經驗性抗生素並追蹤培養結果",
+      "D": "開立止痛藥並鼓勵大量喝水"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "111_2_27",
+    "category": "腎臟科",
+    "stem": "一位 27 歲女性，長期在腎臟科門診追蹤相關藥物處置，何者最不適合？",
+    "options": {
+      "A": "使用 methyldopa 控制血壓",
+      "B": "使用 long-acting calcium channel blockers",
+      "C": "使用 labetalol 控制血壓",
+      "D": "使用 angiotensin-converting-enzyme inhibitors"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "111_2_28",
+    "category": "腎臟科",
+    "stem": "有關 focal segmental glomerulosclerosis（",
+    "options": {
+      "A": "FSGS 以血尿、高血壓、各種程度的蛋白尿及腎功能不全表現的風險會進入透析治療",
+      "B": "病理報告應包括在 corticomedullary junctiondisease（MCD）",
+      "C": "病理報告 collapsing type FSGS with segmental or global glomerular",
+      "D": "治療續發性的 FSGS，不需使用類固醇"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "111_2_29",
+    "category": "腎臟科",
+    "stem": "下列那一段腎小管（renal tubule）可透過抗利尿荷爾蒙性？",
+    "options": {
+      "A": "近端腎小管（proximal tubule）？IgA nephropathy 與輕度蛋白尿。最近懷孕並出現高血壓（CCB）控制血壓（ACE inhibitors）藥物降低蛋白尿，預防發生FSGS）的敘述，何者錯誤？，如果出現腎功能不全的腎絲球，如果切片的位置太淺，常會被誤判為collapse 代表有比較好的預後，必須針對潛在的根本原因治療（antidiuretic hormone, ADH），下列高血壓pre-eclampsia、大量蛋白尿，有較高minimal change的作用增加對水分的通透",
+      "B": "Henle 氏環下行枝（descending limb of Henle's loop）",
+      "C": "遠端腎小管（distal convoluted tubule）",
+      "D": "集尿管（collecting duct）"
+    },
+    "answer": "C或D"
+  },
+  {
+    "id": "111_2_30",
+    "category": "腎臟科",
+    "stem": "一位 50 歲男性因懷疑腎結石接受 intravenous urography（IVU）檢查，第 3 天發現 BUN 由 30 mg/dL 升至 70mg/dL，血中 creatinine 由 1.5 mg/dL 升至 4.5 mg/dL。下列有關顯影劑與腎病變的敘述，何者正確？",
+    "options": {
+      "A": "顯影劑可經過 reactive oxygen species 之機轉，直接傷害腎絲球",
+      "B": "血中 creatinine 通常在 10～14 天達高峰，於 2～3 週後開始恢復",
+      "C": "顯影劑之種類、劑量與腎損傷之嚴重程度無關",
+      "D": "病人若有 multiple myeloma 或既有的腎臟疾病，較容易發生此併發症"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "111_2_50",
+    "category": "腎臟科",
+    "stem": "75 歲獨居老太太，有糖尿病及高血壓病史，被鄰居發現倒在地下室，神智不清，下列何者最不可能造成她神智不清？",
+    "options": {
+      "A": "低血糖",
+      "B": "中風",
+      "C": "低血脂",
+      "D": "低血壓"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_1_24",
+    "category": "腎臟科",
+    "stem": "一位40歲女病人，因意識障礙送入醫院，身體診察無明顯水腫，抽血檢查血鈉（Na）為115 mmol/L，血中蛋白質、血糖、三酸甘油脂皆在正常範圍內，病人未施打mannitol，下列敘述何者錯誤？",
+    "options": {
+      "A": "抽血檢查血滲透壓（osmolality），其數值應較正常低",
+      "B": "尿中滲透壓為250 mOsm/kg H2O，限水對此病人的治療無益",
+      "C": "可考慮使用高張溶液，如3%食鹽水（saline）",
+      "D": "不宜在24小時內將血鈉矯正至135 mmol/L"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "112_1_25",
+    "category": "腎臟科",
+    "stem": "下列有關顯影劑引起之急性腎損傷（contrast-induced acute kidney injury）的敘述，何者正確？",
+    "options": {
+      "A": "一旦發生，有2～7%病人需要接受透析治療",
+      "B": "以生理鹽水預防，只須於施打顯影劑後馬上給與，持續至少12小時，即有效果",
+      "C": "以sodium bicarbonate預防，只須於施打顯影劑前1小時施打即有效果",
+      "D": "以N-acetylcysteine預防，臨床上常使用但並未證實有一致的療效，目前並不例行推薦"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_1_26",
+    "category": "腎臟科",
+    "stem": "一位57歲男性病人因神智不清被送至急診處。身體診察無發燒、血壓134/89 mmHg、脈搏90/min；頸部可摸到一個兩公分大小之淋巴結，心臟無雜音，肺部呼吸聲正常，腹部無特殊發現。神經學檢查無局部性缺損，神智呈現錯亂、譫妄（delirium）。生化檢查結果：BUN 88 mg/dL，肌酸酐2.8 mg/dL，血糖90 mg/dL；電解質（單位 mmol/L）：Na+ 143，K+ 4.0，Cl- 90，Ca2+ 3.45。有關此病人的進一步處置，下列何者正確？",
+    "options": {
+      "A": "給與1000 mL的生理食鹽水，並給與利尿劑",
+      "B": "緊急血液透析",
+      "C": "給與5%葡萄糖1000 mL，並給與鎮靜劑，如benzodiazepam",
+      "D": "給與氯化鈣靜脈注射"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "112_1_27",
+    "category": "腎臟科",
+    "stem": "在臺灣造成末期腎病之最主要原發疾病為：",
+    "options": {
+      "A": "高血壓腎病變",
+      "B": "糖尿病腎病變",
+      "C": "慢性腎絲球腎炎",
+      "D": "中草藥腎病變"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "112_1_28",
+    "category": "腎臟科",
+    "stem": "35歲女性病人，上呼吸道感染後全身乏力、無腹瀉，肌酸酐由0.8 mg/dL上升至6.2 mg/dL，血色素由12.0 g/dL下降至8.6 g/dL，血小板80 × 103/μL，血液抹片呈微小血管溶血性貧血（microangiopathic hemolyticanemia），ADAMTS13＞15%，下列何種治療最為適當？",
+    "options": {
+      "A": "bortezomib",
+      "B": "rituximab",
+      "C": "eculizumab",
+      "D": "immunoglobulin"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_1_29",
+    "category": "腎臟科",
+    "stem": "造成慢性腎臟病貧血的原因，下列何者錯誤？",
+    "options": {
+      "A": "病患身體所製造之紅血球生成素（erythropoietin）相對缺乏",
+      "B": "病患體內鐵質儲存量（iron store）過多",
+      "C": "病患合併出血傾向（bleeding diathesis）",
+      "D": "病患處於慢性發炎狀態（chronic inflammation）"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "112_1_30",
+    "category": "腎臟科",
+    "stem": "下列有關需緊急血液透析的適應症，何者最不適當？",
+    "options": {
+      "A": "經藥物治療無效的高血鉀症",
+      "B": "急性肺水腫且合併對利尿劑無反應的寡尿",
+      "C": "碳酸氫鈉無法矯正的代謝性酸血症",
+      "D": "腎絲球過濾率6 mL/min/1.73 m2之慢性腎臟病患者，不論有無尿毒症狀"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_2_1",
+    "category": "腎臟科",
+    "stem": "35歲女性，健檢發現血鈣偏低（2.05 mmol/L，參考值2.2～2.5），血清肌酸酐（creatinine, 0.6 mg/dL）、鈉（139 mEq/L）及鉀（3.8 mEq/L）則在正常範圍。對於此病患之低血鈣（hypocalcemia）應優先安排下列評估，但何者最不適當？",
+    "options": {
+      "A": "測血中白蛋白（albumin）及磷（phosphorus）濃度",
+      "B": "測血中副甲狀腺素（PTH）濃度",
+      "C": "測血中1,25(OH)2D濃度",
+      "D": "測血中鎂（magnesium）濃度"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_2_2",
+    "category": "腎臟科",
+    "stem": "下列那一種情形最可能發生高血鉀（hyperkalemia）？",
+    "options": {
+      "A": "注射胰島素",
+      "B": "鎂（magnesium）缺乏",
+      "C": "使用非類固醇抗發炎藥物（non-steroidal anti-inflammatory drugs）",
+      "D": "使用β2-adrenergic agonists支氣管擴張劑"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_2_24",
+    "category": "腎臟科",
+    "stem": "58歲男性，高血壓已10年，無噁心、嘔吐，走路及一般日常生活不喘，下肢無水腫，腎臟功能持續惡化，腎絲球過濾率（eGFR）降至11 mL/min/1.73 m2、血色素11.3 g/dL、血壓128/80 mmHg，使用兩種降壓藥，血HCO3- 22 mEq/L、血P 3.5 mg/dL、血K+ 4.5 mEq/L，現階段下列何種治療或策略對病人日後的存活率最沒有助益？",
+    "options": {
+      "A": "維持目前血色素濃度",
+      "B": "持續控制血壓",
+      "C": "開始透析治療",
+      "D": "轉介照會腎臟科醫師做進一步處置"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "112_2_25",
+    "category": "腎臟科",
+    "stem": "48歲男性，末期腎病病人，無糖尿病病史和家族史，接受血液透析治療2年後，接受親屬腎臟移植。術後移植腎功能正常，血中creatinine下降至0.8 mg/dL，但飯前血糖多次檢測皆高於200 mg/dL，下列何種藥物與其血糖升高最有關係？",
+    "options": {
+      "A": "cyclosporine",
+      "B": "tacrolimus",
+      "C": "sirolimus",
+      "D": "mycophenolate mofetil"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "112_2_26",
+    "category": "腎臟科",
+    "stem": "下列何種慢性腎小管間質性病變，其致病機轉尚未被證實與DNA損傷有關？",
+    "options": {
+      "A": "Mesoamerican nephropathy",
+      "B": "karyomegalic interstitial nephritis",
+      "C": "Chinese herbal nephropathy",
+      "D": "Balkan endemic nephropathy"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "112_2_27",
+    "category": "腎臟科",
+    "stem": "下列有關腎結石症（nephrolithiasis）的處置敘述，何者錯誤？",
+    "options": {
+      "A": "肌肉注射非類固醇抗發炎劑對於腎絞痛（renal colic）的療效可比擬甚至優於類鴉片藥物",
+      "B": "補充大量體液或投與利尿劑無法促進結石排出",
+      "C": "內科排出療法可降低輸尿管痙攣並增加結石自行排出率",
+      "D": "統合分析結果顯示體外震波（extracorporeal shock wave）是輸尿管結石的治療首選"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "112_2_28",
+    "category": "腎臟科",
+    "stem": "下列何項處置無助於減緩自體顯性多囊性腎臟病（autosomal dominant polycystic kidney disease, ADPKD）病人的腎功能惡化？",
+    "options": {
+      "A": "第一線使用鈣離子阻斷劑，控制血壓在140/90 mmHg之下，在腎功能不良下，收縮壓儘量控制小於110mmHg",
+      "B": "如果有囊泡感染的狀況，使用lipid-soluble antibiotics，如：trimethoprim-sulfamethoxazole、quinolones、chloramphenicol，因為囊泡穿透性較佳，效果較好，常需要使用四星期以上",
+      "C": "使用vasopressin antagonist（tolvaptan）來減緩囊泡的形成及腎功能惡化",
+      "D": "建議病人限制低鹽（＜5 g/day）飲食"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "112_2_29",
+    "category": "腎臟科",
+    "stem": "有關糖尿病腎病變，下列何者錯誤？",
+    "options": {
+      "A": "是目前臺灣最常見造成慢性腎臟病的原因",
+      "B": "大約有20%糖尿病患者產生糖尿病腎病變",
+      "C": "產生糖尿病腎病變的危險因子包括gene polymorphisms affecting the activity of the renin-angiotensin-aldosteroneaxis",
+      "D": "糖尿病視網膜病變和病理上的Kimmelstiel-Wilson nodules有很強的相關性"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "112_2_40",
+    "category": "腎臟科",
+    "stem": "下列藥物中何者最常使用於第四期腎細胞癌的全身性藥物治療？",
+    "options": {
+      "A": "化學治療的doxorubicin",
+      "B": "標靶治療的axitinib",
+      "C": "標靶治療的trastuzumab",
+      "D": "免疫治療的sipuleucel-T"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_1_5",
+    "category": "腎臟科",
+    "stem": "為病人進行身體診查時，以手指拍打病人耳前之面神經分支，同側之面部肌肉會收縮；改以血壓計之纏臂（cuff）包裹手臂，加壓至高於病人收縮壓20 mmHg以上維持3分鐘，出現手腕抽筋（carpal spasm），該病人最可能有下列何種離子異常？",
+    "options": {
+      "A": "高血鈣（hypercalcemia）",
+      "B": "低血鈣（hypocalcemia）",
+      "C": "高血磷（hyperphosphatemia）",
+      "D": "低血磷（hypophosphatemia）"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_1_24",
+    "category": "腎臟科",
+    "stem": "73歲男性，患有糖尿病、高血壓、慢性腎病，無呼吸困難、噁心、嘔吐、水腫之症狀，抽血檢驗發現血中creatinine 9.8 mg/dL、腎絲球過濾率（eGFR）6 mL/min/1.73 m2、K+ 4.2 mEq/L、血色素10.8 g/dL，病人計畫接受長期血液透析治療，預先建立血液透析血管通路（hemodialysis vascular access），下列何種為優先選擇？",
+    "options": {
+      "A": "動靜脈瘻管（arteriovenous fistula）",
+      "B": "動靜脈植入型搭橋瘻管（arteriovenous graft）",
+      "C": "雙腔導管（double lumen catheter）",
+      "D": "雙腔隧道式導管（double lumen tunneled catheter）"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "113_1_25",
+    "category": "腎臟科",
+    "stem": "下列有關急性間質性腎炎（acute interstitial nephritis）的敘述，何者錯誤？",
+    "options": {
+      "A": "發燒、紅疹及嗜伊紅性白血球增加只發生在少數因藥物過敏所致的病人",
+      "B": "尿液檢驗可見膿尿，白血球圓柱體及顯微鏡下血尿",
+      "C": "若病史夠清楚，通常不需要腎臟切片即可診斷",
+      "D": "類固醇治療可加速腎功能恢復，並改善長期腎臟存活"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_1_26",
+    "category": "腎臟科",
+    "stem": "下列何者不是成人逆流性腎病變（reflux nephropathy）的典型特徵？",
+    "options": {
+      "A": "病人小時候常有尿床或重複泌尿道感染史",
+      "B": "若演變成慢性腎臟病，尿液僅輕微蛋白尿無異常沉渣",
+      "C": "超音波可見腎臟呈對稱性萎縮及不規則狀輪廓",
+      "D": "積極控制血壓可減緩腎功能惡化的速度"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_1_27",
+    "category": "腎臟科",
+    "stem": "下列何種臨床情境最不須將雙側尿路阻塞納入鑑別診斷之列？",
+    "options": {
+      "A": "acute kidney injury accompanied by anuria",
+      "B": "renal failure with postural hypotension",
+      "C": "azotemia with metabolic acidosis and hyperkalemia",
+      "D": "presence of acquired nephrogenic diabetes insipidus"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_1_28",
+    "category": "腎臟科",
+    "stem": "一位26歲女性，有多年systemic lupus erythematosus（SLE）病史，但沒有規則追蹤。最近二週出現喘、水腫、尿量減少，體重增加近5公斤。安排住院後入院時，血壓160/94 mmHg，抽血檢驗結果如下：BUN 110mg/dL，creatinine 4.0 mg/dL，urine protein（4+）。因為腎臟功能惡化，安排病人接受腎臟切片檢查（renal biopsy），切片下呈現狼瘡性腎炎（lupus nephritis），下列何者病理變化最不可能出現在該切片中？",
+    "options": {
+      "A": "diffuse proliferative nephritis with diffuse subendothelial deposit",
+      "B": "focal segmental glomerulosclerosis",
+      "C": "membranous glomerulonephritis with subepithelial immune complex deposit",
+      "D": "global endocapillary proliferation, crescent formation"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_1_29",
+    "category": "腎臟科",
+    "stem": "一位40歲病人原本腎功能正常，現其血清creatinine在48小時內上升至2.5 mg/dL，下列何種狀況最可判斷此病人傾向內生性急性腎損傷（intrinsic acute kidney injury）？",
+    "options": {
+      "A": "尿鈉排出比例（fractional excretion of sodium, FeNa）＜1%",
+      "B": "尿液滲透壓＞500 mOsm/L",
+      "C": "血液尿素與肌酸酐比率（BUN-to-creatinine ratio）＞20",
+      "D": "尿沉澱物可見顆粒性圓柱體（granular cast）"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_1_30",
+    "category": "腎臟科",
+    "stem": "造成慢性腎臟病貧血的原因，下列何者錯誤？",
+    "options": {
+      "A": "病患身體所製造之紅血球生成素（erythropoietin）過多",
+      "B": "病患體內鐵質利用不良",
+      "C": "病患合併出血傾向（bleeding diathesis）",
+      "D": "病患處於慢性發炎狀態（chronic inflammation）"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "113_2_5",
+    "category": "腎臟科",
+    "stem": "承上題，上述病人經實驗室檢查發現：血鈣2.78 mmol/L、血清白蛋白2.8 g/dL、胸部X光片異常。則此病人高鈣血症最不可能由下列那一原因引起？",
+    "options": {
+      "A": "肺結核（tuberculosis）",
+      "B": "肺部鱗狀細胞癌（squamous cell carcinoma）",
+      "C": "次發性副甲狀腺機能亢進（secondary hyperparathyroidism）",
+      "D": "三發性副甲狀腺機能亢進（tertiary hyperparathyroidism）"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_2_16",
+    "category": "腎臟科",
+    "stem": "一位50歲糖尿病人主訴右上腹痛、發燒5天來醫院求診，電腦斷層圖示如附圖，下列敘述何者錯誤？",
+    "options": {
+      "A": "應做血液細菌培養",
+      "B": "安排肝病灶抽吸",
+      "C": "有肝腫瘤可能",
+      "D": "Escherichia coli是最常見的感染細菌"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_2_24",
+    "category": "腎臟科",
+    "stem": "65歲男性，血液透析病人，每次透析開始幾分鐘後，開始右胸痛或背痛，血壓穩定、無心悸、無發燒，隨著透析繼續進行，不適感覺就漸消失，下列何種處置最可能改善其症狀？",
+    "options": {
+      "A": "使用無肝素（non-heparin）透析",
+      "B": "增加乾體重",
+      "C": "更換不同材質透析器",
+      "D": "使用鈉離子模式（sodium modeling）透析"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "113_2_25",
+    "category": "腎臟科",
+    "stem": "下列何項處置最不適合治療尿酸性尿路結石？",
+    "options": {
+      "A": "reduced protein diet",
+      "B": "benzbromarone",
+      "C": "potassium citrate",
+      "D": "febuxostat"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_2_26",
+    "category": "腎臟科",
+    "stem": "一名33歲女性，本次因近半年反覆頭暈及容易疲勞而住院。實驗室檢驗：肌酸酐2.3 mg/dL，血紅素7 g/dL（住院前8個月分別為1.4 mg/dL，9 g/dL），白蛋白3.8 g/dL，血鈣2.3 mmol/L，尿酸8.0 mg/dL，血糖98 mg/dL，尿液分析：比重1.012，蛋白尿980 mg/24小時，紅血球0～2/高倍視野，葡萄糖0.27 mg/dL，腎臟超音波右側8.7公分、左側8.9公分，腎臟病理切片如圖。病人最可能的診斷為何？",
+    "options": {
+      "A": "myeloma cast nephropathy",
+      "B": "allergic interstitial nephritis",
+      "C": "chronic uric acid nephropathy",
+      "D": "aristolochic acid nephropathy"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "113_2_27",
+    "category": "腎臟科",
+    "stem": "一位40歲男性，C型肝炎帶原者，定期在門診追蹤。最近一個月來，出現蛋白尿2.5 g/day，脛前與足踝水腫，體重略增加近3公斤，血壓152/92 mmHg。抽血檢查：有血清補體（complement, C3與C4）偏低情形。因為不明原因蛋白尿，安排病人接受腎臟切片檢查（renal biopsy），切片下的病理變化，最有可能是下列何者？",
+    "options": {
+      "A": "membranous nephropathy（MN）",
+      "B": "membranoproliferative glomerulonephritis（MPGN）",
+      "C": "focal segmental glomerulosclerosis（FSGS）",
+      "D": "Henoch-Schönlein purpura（HSP）"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_2_28",
+    "category": "腎臟科",
+    "stem": "有關腎小管–腎絲球回饋機轉（tubuloglomerular feedback, TGF），下列敘述何者正確？",
+    "options": {
+      "A": "藉由出球小動脈（efferent arteriole）的反射性血管收縮或擴張來調節腎絲球過濾率（glomerularfiltration rate）",
+      "B": "藉由Henle氏環上行枝粗管的管腔膜上緻密斑（macula densa）細胞來感應腎小管內NaCl濃度及液體的流速",
+      "C": "當過高的腎絲球過濾率（glomerular filtration rate）使流經緻密斑（macula densa）的NaCl濃度過高時，會誘發出球小動脈血管收縮使得腎絲球過濾率下降至正常",
+      "D": "NaCl再吸收增加時，二磷酸腺苷（adenosine diphosphate, ADP）是緻密斑（macula densa）細胞釋放出來的訊號，來調控腎小管–腎絲球回饋"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "113_2_30",
+    "category": "腎臟科",
+    "stem": "下列有關腎移植抗排斥藥物與其副作用之配對，何者錯誤？",
+    "options": {
+      "A": "類固醇（corticosteroid）：骨質疏鬆",
+      "B": "環孢靈（cyclosporine）：低尿酸血症",
+      "C": "普樂可復（tacrolimus）：移植後糖尿病",
+      "D": "斥消靈（sirolimus）：蛋白尿"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "114_1_1",
+    "category": "腎臟科",
+    "stem": "治療高鉀血症（hyperkalemia）時，下列那一項藥品的使用敘述最不適當？",
+    "options": {
+      "A": "10%的葡萄糖酸鈣（calcium gluconate）10 mL靜脈注射",
+      "B": "胰島素10單位靜脈注射後立即給與50%的葡萄糖水50 mL靜脈注射。若血糖超過250 mg/dL，可以只注射胰島素",
+      "C": "吸入型beta 2-擬交感神經作用劑（beta-2 agonist），如albuterol汽化噴霧劑 10～20 mg，混合4 mL生理食鹽水吸入",
+      "D": "口服patiromer，屬陽離子交換樹脂（cation exchange resin），此藥較常見的副作用是便秘與高鎂血症（hypermagnesemia）"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "114_1_2",
+    "category": "腎臟科",
+    "stem": "35歲男性於健檢時發現血尿（hematuria）。 門診再追蹤尿液檢查發現：蛋白排泄量（proteinexcretion）1500 mg/day、10～20 RBCs/HPF、dysmorphic RBC (+)、RBC cast (+)。後續安排下列評估，何者最不適當？",
+    "options": {
+      "A": "檢測免疫血清學檢查，例如complement levels（C3, C4）、cryoglobulins、anti-GBMantibody、ANCA、ASLO、VDRL、HIV",
+      "B": "測B型肝炎（hepatitis B）、C型肝炎（hepatitis C）病毒血清學檢查",
+      "C": "靜脈腎盂造影（intravenous pyelography）或逆行性腎盂攝影（retrograde pyelography）",
+      "D": "腎臟超音波（renal ultrasonography），必要時考慮腎臟切片（renal biopsy）檢查"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "114_1_3",
+    "category": "腎臟科",
+    "stem": "30歲男性接受疝氣手術後，出現鞏膜變黃、茶色尿等症狀，抽血發現total bilirubin為4.1mg/dL，下列那一項診斷最不可能？",
+    "options": {
+      "A": "Gilbert's syndrome",
+      "B": "Crigler-Najjar syndrome type I",
+      "C": "腹腔內感染",
+      "D": "溶血（hemolysis）"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "114_1_24",
+    "category": "腎臟科",
+    "stem": "56歲女性，末期腎病病人，接受連續性可攜式腹膜透析（CAPD）治療2年，最近3個月開始有下肢水腫、體液堆積的現象。此病人接受腹膜平衡測驗（peritoneal equilibrium test）結果顯示其腹膜為高腹膜通透性（high transporter） ，為解決其體液過多（fluid overload）現象，下列何種處置最不適當？",
+    "options": {
+      "A": "增加透析藥水葡萄糖濃度",
+      "B": "採用不易吸收碳水化合物（icodextrin）透析藥水",
+      "C": "延長透析藥水的留滯時間",
+      "D": "改使用連續性循環式腹膜透析（CCPD）"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "114_1_25",
+    "category": "腎臟科",
+    "stem": "49歲男性腎移植病人，移植3年後近期改變免疫抑制劑的處方，3週後發生口腔潰爛、下肢水腫、尿中蛋白＞300 mg/dL（試紙），血中LDL 168 mg/dL，下列何種藥物最可能造成上述表現？",
+    "options": {
+      "A": "cyclosporine",
+      "B": "tacrolimus",
+      "C": "mycophenolate mofetil",
+      "D": "sirolimus"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "114_1_26",
+    "category": "腎臟科",
+    "stem": "有關Fabry disease的敘述，何者錯誤？",
+    "options": {
+      "A": "為一種罕見之遺傳性疾病，各人種都有。此病是因負責製造α-galactosidase A酵素的基因缺陷引起",
+      "B": "屬性聯遺傳疾病，父親帶有此基因缺陷時，其所生的子女，女兒有一半的機會帶因，而兒子會發病",
+      "C": "臨床診斷要以家族病史、四肢疼痛、皮膚病變、特有的渦狀角膜濁斑，以及在尿道沉渣或組織檢體中發現充滿脂質的細胞為基礎。再以白血球中α-galactosidase A酵素的活性作最後確診。進一步也可做基因突變的分析",
+      "D": "目前治療可分為症狀治療及酵素替代療法（enzyme replacement therapy）。神經痛可透過藥物來緩解，心臟及腦血管併發症仍依一般治療原則，腎衰竭則需要透析治療"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "114_1_27",
+    "category": "腎臟科",
+    "stem": "有關血栓性微血管病（thrombotic microangiopathy, TMA），下列何者錯誤？",
+    "options": {
+      "A": "診斷TMA，必須血小板低下加上microangiopathic hemolytic anemia（MAHA）兩個條件同時成立，而MAHA就是檢驗數據上看到 LDH上升、haptoglobin下降，以及血液抹片上有schistocyte",
+      "B": "TMA的臨床表現包括神經學症狀、腎臟侵犯及腸胃道症狀",
+      "C": "診斷TMA後，如果ADAMTS13酵素的活性＞15%，則可以診斷栓塞性血小板低下紫斑（TTP）",
+      "D": "栓塞性血小板低下紫斑（TTP）可使用plasma exchange加上corticosteroid治療"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "114_1_28",
+    "category": "腎臟科",
+    "stem": "有關腎絲球過濾率（glomerular filtration rate）自我調節（autoregulation）的三個調控因素中，下列敘述何者正確？",
+    "options": {
+      "A": "作用於出球小動脈（efferent arteriole）的自主性肌源反射（autonomous myogenic reflex）",
+      "B": "腎小管–腎絲球回饋機轉（tubuloglomerular feedback）",
+      "C": "血管收縮素II（angiotensin II）作用於入球小動脈（afferent arteriole）的血管收縮",
+      "D": "前列腺素E1（prostaglandin E1）作用於出球小動脈（efferent arteriole）的血管擴張"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "114_1_29",
+    "category": "腎臟科",
+    "stem": "下列有關慢性腎臟病的敘述，何者最不適當？",
+    "options": {
+      "A": "高血壓乃目前臺灣新發生長期透析（incident dialysis）病患最主要之原發病因",
+      "B": "慢性腎臟病患合併糖尿病，其血壓值應控制在130/80 mmHg以下",
+      "C": "心血管疾病為最常造成慢性腎臟病患死亡的原因",
+      "D": "低蛋白飲食可以改善尿毒症狀，但可能會增加營養不良的風險"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "114_1_40",
+    "category": "腎臟科",
+    "stem": "關於腎細胞癌（renal cell carcinoma）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "腎細胞癌最常見的組織型是乳突（papillary tumor）型",
+      "B": "腎細胞癌合併高鈣血症，可能是骨骼轉移或是paraneoplastic症候群",
+      "C": "對於第一期、第二期病人的標準治療是根除性（radical）或局部（partial）腎切除術（nephrectomy）",
+      "D": "對於第一期、第二期病人如果腎功能不佳或只有一顆腎臟，根據腎細胞癌的大小、位置，可以考慮腎元保留（nephron-sparing）手術"
+    },
+    "answer": "A"
+  }
+]
